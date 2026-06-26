@@ -1,0 +1,115 @@
+fixture_id,date,team_id,team_name,opponent,is_home,goals_scored,goals_conceded,result
+867954,2022-08-07T13:00:00+00:00,33,Manchester United,Brighton,True,1,2,L
+867958,2022-08-13T16:30:00+00:00,33,Manchester United,Brentford,False,0,4,L
+867972,2022-08-22T19:00:00+00:00,33,Manchester United,Liverpool,True,2,1,W
+867984,2022-08-27T11:30:00+00:00,33,Manchester United,Southampton,False,1,0,W
+867990,2022-09-01T19:00:00+00:00,33,Manchester United,Leicester,False,1,0,W
+868001,2022-09-04T15:30:00+00:00,33,Manchester United,Arsenal,True,3,1,W
+868033,2022-10-02T13:00:00+00:00,33,Manchester United,Manchester City,False,3,6,L
+868041,2022-10-09T18:00:00+00:00,33,Manchester United,Everton,False,2,1,W
+868052,2022-10-16T13:00:00+00:00,33,Manchester United,Newcastle,True,0,0,D
+868065,2022-10-19T19:15:00+00:00,33,Manchester United,Tottenham,True,2,0,W
+868067,2022-10-22T16:30:00+00:00,33,Manchester United,Chelsea,False,1,1,D
+868084,2022-10-30T16:15:00+00:00,33,Manchester United,West Ham,True,1,0,W
+868086,2022-11-06T14:00:00+00:00,33,Manchester United,Aston Villa,False,1,3,L
+868098,2022-11-13T16:30:00+00:00,33,Manchester United,Fulham,False,2,1,W
+868114,2022-12-27T20:00:00+00:00,33,Manchester United,Nottingham Forest,True,3,0,W
+868125,2022-12-31T12:30:00+00:00,33,Manchester United,Wolves,False,1,0,W
+868134,2023-01-03T20:00:00+00:00,33,Manchester United,Bournemouth,True,3,0,W
+868141,2023-01-14T12:30:00+00:00,33,Manchester United,Manchester City,True,2,1,W
+868008,2023-01-18T20:00:00+00:00,33,Manchester United,Crystal Palace,False,1,1,D
+868147,2023-01-22T16:30:00+00:00,33,Manchester United,Arsenal,False,2,3,L
+868161,2023-02-04T15:00:00+00:00,33,Manchester United,Crystal Palace,True,2,1,W
+868021,2023-02-08T20:00:00+00:00,33,Manchester United,Leeds,True,2,2,D
+868170,2023-02-12T14:00:00+00:00,33,Manchester United,Leeds,False,2,0,W
+868181,2023-02-19T14:00:00+00:00,33,Manchester United,Leicester,True,3,0,W
+868201,2023-03-05T16:30:00+00:00,33,Manchester United,Liverpool,False,0,7,L
+868212,2023-03-12T14:00:00+00:00,33,Manchester United,Southampton,True,0,0,D
+868233,2023-04-02T15:30:00+00:00,33,Manchester United,Newcastle,False,0,2,L
+868192,2023-04-05T19:00:00+00:00,33,Manchester United,Brentford,True,1,0,W
+868242,2023-04-08T11:30:00+00:00,33,Manchester United,Everton,True,2,0,W
+868251,2023-04-16T15:30:00+00:00,33,Manchester United,Nottingham Forest,False,2,0,W
+868269,2023-04-27T19:15:00+00:00,33,Manchester United,Tottenham,False,2,2,D
+868284,2023-04-30T13:00:00+00:00,33,Manchester United,Aston Villa,True,1,0,W
+868219,2023-05-04T19:00:00+00:00,33,Manchester United,Brighton,False,0,1,L
+868294,2023-05-07T18:00:00+00:00,33,Manchester United,West Ham,False,0,1,L
+868304,2023-05-13T14:00:00+00:00,33,Manchester United,Wolves,True,2,0,W
+868306,2023-05-20T14:00:00+00:00,33,Manchester United,Bournemouth,False,1,0,W
+868264,2023-05-25T19:00:00+00:00,33,Manchester United,Chelsea,True,4,1,W
+868324,2023-05-28T15:30:00+00:00,33,Manchester United,Fulham,True,2,1,W
+1035046,2023-08-14T19:00:00+00:00,33,Manchester United,Wolves,True,1,0,W
+1035054,2023-08-19T16:30:00+00:00,33,Manchester United,Tottenham,False,0,2,L
+1035064,2023-08-26T14:00:00+00:00,33,Manchester United,Nottingham Forest,True,3,2,W
+1035067,2023-09-03T15:30:00+00:00,33,Manchester United,Arsenal,False,1,3,L
+1035081,2023-09-16T14:00:00+00:00,33,Manchester United,Brighton,True,1,3,L
+1035090,2023-09-23T19:00:00+00:00,33,Manchester United,Burnley,False,1,0,W
+1035101,2023-09-30T14:00:00+00:00,33,Manchester United,Crystal Palace,True,0,1,L
+1035114,2023-10-07T14:00:00+00:00,33,Manchester United,Brentford,True,2,1,W
+1035125,2023-10-21T19:00:00+00:00,33,Manchester United,Sheffield Utd,False,2,1,W
+1035134,2023-10-29T15:30:00+00:00,33,Manchester United,Manchester City,True,0,3,L
+1035140,2023-11-04T12:30:00+00:00,33,Manchester United,Fulham,False,1,0,W
+1035154,2023-11-11T15:00:00+00:00,33,Manchester United,Luton,True,1,0,W
+1035296,2023-11-26T16:30:00+00:00,33,Manchester United,Everton,False,3,0,W
+1035311,2023-12-02T20:00:00+00:00,33,Manchester United,Newcastle,False,0,1,L
+1035323,2023-12-06T20:15:00+00:00,33,Manchester United,Chelsea,True,2,1,W
+1035330,2023-12-09T15:00:00+00:00,33,Manchester United,Bournemouth,True,0,3,L
+1035339,2023-12-17T16:30:00+00:00,33,Manchester United,Liverpool,False,0,0,D
+1035352,2023-12-23T12:30:00+00:00,33,Manchester United,West Ham,False,0,2,L
+1035361,2023-12-26T20:00:00+00:00,33,Manchester United,Aston Villa,True,3,2,W
+1035370,2023-12-30T17:30:00+00:00,33,Manchester United,Nottingham Forest,False,1,2,L
+1035381,2024-01-14T16:30:00+00:00,33,Manchester United,Tottenham,True,2,2,D
+1035390,2024-02-01T20:15:00+00:00,33,Manchester United,Wolves,False,4,3,W
+1035401,2024-02-04T14:00:00+00:00,33,Manchester United,West Ham,True,3,0,W
+1035404,2024-02-11T16:30:00+00:00,33,Manchester United,Aston Villa,False,2,1,W
+1035418,2024-02-18T16:30:00+00:00,33,Manchester United,Luton,False,2,1,W
+1035431,2024-02-24T15:00:00+00:00,33,Manchester United,Fulham,True,1,2,L
+1035439,2024-03-03T15:30:00+00:00,33,Manchester United,Manchester City,False,1,3,L
+1035451,2024-03-09T12:30:00+00:00,33,Manchester United,Everton,True,2,0,W
+1035466,2024-03-30T20:00:00+00:00,33,Manchester United,Brentford,False,1,1,D
+1035480,2024-04-04T19:15:00+00:00,33,Manchester United,Chelsea,False,3,4,L
+1035490,2024-04-07T14:30:00+00:00,33,Manchester United,Liverpool,True,2,2,D
+1035494,2024-04-13T16:30:00+00:00,33,Manchester United,Bournemouth,False,2,2,D
+1035461,2024-04-24T19:00:00+00:00,33,Manchester United,Sheffield Utd,True,4,2,W
+1035518,2024-04-27T14:00:00+00:00,33,Manchester United,Burnley,True,1,1,D
+1035529,2024-05-06T19:00:00+00:00,33,Manchester United,Crystal Palace,False,0,4,L
+1035538,2024-05-12T15:30:00+00:00,33,Manchester United,Arsenal,True,0,1,L
+1035510,2024-05-15T19:00:00+00:00,33,Manchester United,Newcastle,True,3,2,W
+1035546,2024-05-19T15:00:00+00:00,33,Manchester United,Brighton,False,2,0,W
+1208021,2024-08-16T19:00:00+00:00,33,Manchester United,Fulham,True,1,0,W
+1208033,2024-08-24T11:30:00+00:00,33,Manchester United,Brighton,False,1,2,L
+1208047,2024-09-01T15:00:00+00:00,33,Manchester United,Liverpool,True,0,3,L
+1208058,2024-09-14T11:30:00+00:00,33,Manchester United,Southampton,False,3,0,W
+1208063,2024-09-21T16:30:00+00:00,33,Manchester United,Crystal Palace,False,0,0,D
+1208077,2024-09-29T15:30:00+00:00,33,Manchester United,Tottenham,True,0,3,L
+1208082,2024-10-06T13:00:00+00:00,33,Manchester United,Aston Villa,False,0,0,D
+1208095,2024-10-19T14:00:00+00:00,33,Manchester United,Brentford,True,2,1,W
+1208112,2024-10-27T13:00:00+00:00,33,Manchester United,West Ham,False,1,2,L
+1208117,2024-11-03T16:30:00+00:00,33,Manchester United,Chelsea,True,1,1,D
+1208128,2024-11-10T14:00:00+00:00,33,Manchester United,Leicester,True,3,0,W
+1208138,2024-11-24T16:30:00+00:00,33,Manchester United,Ipswich,False,1,1,D
+1208148,2024-12-01T13:30:00+00:00,33,Manchester United,Everton,True,4,0,W
+1208154,2024-12-04T20:15:00+00:00,33,Manchester United,Arsenal,False,0,2,L
+1208170,2024-12-07T17:30:00+00:00,33,Manchester United,Nottingham Forest,True,2,3,L
+1208178,2024-12-15T16:30:00+00:00,33,Manchester United,Manchester City,False,2,1,W
+1208190,2024-12-22T14:00:00+00:00,33,Manchester United,Bournemouth,True,0,3,L
+1208202,2024-12-26T17:30:00+00:00,33,Manchester United,Wolves,False,0,2,L
+1208210,2024-12-30T20:00:00+00:00,33,Manchester United,Newcastle,True,0,2,L
+1208218,2025-01-05T16:30:00+00:00,33,Manchester United,Liverpool,False,2,2,D
+1208232,2025-01-16T20:00:00+00:00,33,Manchester United,Southampton,True,3,1,W
+1208239,2025-01-19T14:00:00+00:00,33,Manchester United,Brighton,True,1,3,L
+1208247,2025-01-26T19:00:00+00:00,33,Manchester United,Fulham,False,1,0,W
+1208259,2025-02-02T14:00:00+00:00,33,Manchester United,Crystal Palace,True,0,2,L
+1208271,2025-02-16T16:30:00+00:00,33,Manchester United,Tottenham,False,0,1,L
+1208276,2025-02-22T12:30:00+00:00,33,Manchester United,Everton,False,2,2,D
+1208292,2025-02-26T19:30:00+00:00,33,Manchester United,Ipswich,True,3,2,W
+1208298,2025-03-09T16:30:00+00:00,33,Manchester United,Arsenal,True,1,1,D
+1208309,2025-03-16T19:00:00+00:00,33,Manchester United,Leicester,False,3,0,W
+1208316,2025-04-01T19:00:00+00:00,33,Manchester United,Nottingham Forest,False,0,1,L
+1208330,2025-04-06T15:30:00+00:00,33,Manchester United,Manchester City,True,0,0,D
+1208339,2025-04-13T15:30:00+00:00,33,Manchester United,Newcastle,False,1,4,L
+1208350,2025-04-20T13:00:00+00:00,33,Manchester United,Wolves,True,0,1,L
+1208353,2025-04-27T13:00:00+00:00,33,Manchester United,Bournemouth,False,1,1,D
+1208365,2025-05-04T13:00:00+00:00,33,Manchester United,Brentford,False,3,4,L
+1208377,2025-05-11T13:15:00+00:00,33,Manchester United,West Ham,True,0,2,L
+1208387,2025-05-16T19:15:00+00:00,33,Manchester United,Chelsea,False,0,1,L
+1208397,2025-05-25T15:00:00+00:00,33,Manchester United,Aston Villa,True,2,0,W

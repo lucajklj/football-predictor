@@ -1,0 +1,115 @@
+fixture_id,date,team_id,team_name,opponent,is_home,goals_scored,goals_conceded,result
+877945,2022-08-13T15:00:00+00:00,538,Celta Vigo,Espanyol,True,2,2,D
+877954,2022-08-20T20:00:00+00:00,538,Celta Vigo,Real Madrid,True,1,4,L
+877970,2022-08-26T18:00:00+00:00,538,Celta Vigo,Girona,False,1,0,W
+877979,2022-09-02T19:00:00+00:00,538,Celta Vigo,Cadiz,True,3,0,W
+877982,2022-09-10T19:00:00+00:00,538,Celta Vigo,Atletico Madrid,False,1,4,L
+877996,2022-09-17T16:30:00+00:00,538,Celta Vigo,Valencia,False,0,3,L
+878008,2022-10-02T14:15:00+00:00,538,Celta Vigo,Real Betis,True,1,0,W
+878013,2022-10-09T19:00:00+00:00,538,Celta Vigo,Barcelona,False,0,1,L
+878023,2022-10-16T12:00:00+00:00,538,Celta Vigo,Real Sociedad,True,1,2,L
+878039,2022-10-19T17:00:00+00:00,538,Celta Vigo,Valladolid,False,1,4,L
+878042,2022-10-24T19:00:00+00:00,538,Celta Vigo,Getafe,True,1,1,D
+878055,2022-10-29T12:00:00+00:00,538,Celta Vigo,Almeria,False,1,3,L
+878064,2022-11-05T17:30:00+00:00,538,Celta Vigo,Osasuna,True,1,2,L
+878079,2022-11-10T18:00:00+00:00,538,Celta Vigo,Rayo Vallecano,False,0,0,D
+878084,2022-12-30T18:15:00+00:00,538,Celta Vigo,Sevilla,True,1,1,D
+878098,2023-01-06T17:30:00+00:00,538,Celta Vigo,Elche,False,1,0,W
+878102,2023-01-13T20:00:00+00:00,538,Celta Vigo,Villarreal,True,1,1,D
+878118,2023-01-20T20:00:00+00:00,538,Celta Vigo,Mallorca,False,0,1,L
+878125,2023-01-29T17:30:00+00:00,538,Celta Vigo,Athletic Club,True,1,0,W
+878135,2023-02-04T20:00:00+00:00,538,Celta Vigo,Real Betis,False,4,3,W
+878147,2023-02-12T15:15:00+00:00,538,Celta Vigo,Atletico Madrid,True,0,1,L
+878160,2023-02-18T13:00:00+00:00,538,Celta Vigo,Real Sociedad,False,1,1,D
+878163,2023-02-26T15:15:00+00:00,538,Celta Vigo,Valladolid,True,3,0,W
+878178,2023-03-06T20:00:00+00:00,538,Celta Vigo,Osasuna,False,0,0,D
+878183,2023-03-11T17:30:00+00:00,538,Celta Vigo,Rayo Vallecano,True,3,0,W
+878199,2023-03-18T17:30:00+00:00,538,Celta Vigo,Espanyol,False,3,1,W
+878211,2023-04-02T12:00:00+00:00,538,Celta Vigo,Almeria,True,2,2,D
+878218,2023-04-07T19:00:00+00:00,538,Celta Vigo,Sevilla,False,2,2,D
+878224,2023-04-17T19:00:00+00:00,538,Celta Vigo,Mallorca,True,0,1,L
+878237,2023-04-22T19:00:00+00:00,538,Celta Vigo,Real Madrid,False,0,2,L
+878245,2023-04-26T20:00:00+00:00,538,Celta Vigo,Elche,True,1,0,W
+878259,2023-04-30T14:15:00+00:00,538,Celta Vigo,Villarreal,False,1,3,L
+878269,2023-05-03T20:00:00+00:00,538,Celta Vigo,Getafe,False,0,1,L
+878273,2023-05-14T12:00:00+00:00,538,Celta Vigo,Valencia,True,1,2,L
+878282,2023-05-20T14:15:00+00:00,538,Celta Vigo,Athletic Club,False,1,2,L
+878293,2023-05-23T17:30:00+00:00,538,Celta Vigo,Girona,True,1,1,D
+878306,2023-05-28T17:00:00+00:00,538,Celta Vigo,Cadiz,False,0,1,L
+878317,2023-06-04T19:00:00+00:00,538,Celta Vigo,Barcelona,True,2,1,W
+1037955,2023-08-13T15:00:00+00:00,538,Celta Vigo,Osasuna,True,0,2,L
+1037969,2023-08-19T15:00:00+00:00,538,Celta Vigo,Real Sociedad,False,1,1,D
+1037973,2023-08-25T19:30:00+00:00,538,Celta Vigo,Real Madrid,True,0,1,L
+1037982,2023-09-01T20:00:00+00:00,538,Celta Vigo,Almeria,False,3,2,W
+1037994,2023-09-16T16:30:00+00:00,538,Celta Vigo,Mallorca,True,0,1,L
+1038004,2023-09-23T16:30:00+00:00,538,Celta Vigo,Barcelona,False,2,3,L
+1038021,2023-09-28T17:00:00+00:00,538,Celta Vigo,Alaves,True,1,1,D
+1038030,2023-10-02T19:00:00+00:00,538,Celta Vigo,Las Palmas,False,1,2,L
+1038034,2023-10-08T16:30:00+00:00,538,Celta Vigo,Getafe,True,2,2,D
+1038045,2023-10-21T19:00:00+00:00,538,Celta Vigo,Atletico Madrid,True,0,3,L
+1038059,2023-10-27T19:00:00+00:00,538,Celta Vigo,Girona,False,0,1,L
+1038063,2023-11-04T17:30:00+00:00,538,Celta Vigo,Sevilla,True,1,1,D
+1038073,2023-11-10T20:00:00+00:00,538,Celta Vigo,Athletic Club,False,3,4,L
+1038090,2023-11-25T15:15:00+00:00,538,Celta Vigo,Valencia,False,0,0,D
+1038098,2023-12-04T20:00:00+00:00,538,Celta Vigo,Cadiz,True,1,1,D
+1038110,2023-12-11T20:00:00+00:00,538,Celta Vigo,Rayo Vallecano,False,0,0,D
+1038114,2023-12-16T13:00:00+00:00,538,Celta Vigo,Granada CF,True,1,0,W
+1038131,2023-12-20T20:30:00+00:00,538,Celta Vigo,Villarreal,False,2,3,L
+1038138,2024-01-03T18:15:00+00:00,538,Celta Vigo,Real Betis,True,2,1,W
+1038150,2024-01-13T15:15:00+00:00,538,Celta Vigo,Mallorca,False,1,1,D
+1038152,2024-01-20T20:00:00+00:00,538,Celta Vigo,Real Sociedad,True,0,1,L
+1038164,2024-01-28T13:00:00+00:00,538,Celta Vigo,Girona,True,0,1,L
+1038181,2024-02-04T15:15:00+00:00,538,Celta Vigo,Osasuna,False,3,0,W
+1038189,2024-02-11T13:00:00+00:00,538,Celta Vigo,Getafe,False,2,3,L
+1038197,2024-02-17T17:30:00+00:00,538,Celta Vigo,Barcelona,True,1,2,L
+1038204,2024-02-25T13:00:00+00:00,538,Celta Vigo,Cadiz,False,2,2,D
+1038215,2024-03-01T20:00:00+00:00,538,Celta Vigo,Almeria,True,1,0,W
+1038230,2024-03-10T17:30:00+00:00,538,Celta Vigo,Real Madrid,False,0,4,L
+1038238,2024-03-17T13:00:00+00:00,538,Celta Vigo,Sevilla,False,2,1,W
+1038245,2024-03-31T12:00:00+00:00,538,Celta Vigo,Rayo Vallecano,True,0,0,D
+1038254,2024-04-12T19:00:00+00:00,538,Celta Vigo,Real Betis,False,1,2,L
+1038264,2024-04-20T12:00:00+00:00,538,Celta Vigo,Las Palmas,True,4,1,W
+1038277,2024-04-27T16:30:00+00:00,538,Celta Vigo,Alaves,False,0,3,L
+1038282,2024-05-05T14:15:00+00:00,538,Celta Vigo,Villarreal,True,3,2,W
+1038293,2024-05-12T14:15:00+00:00,538,Celta Vigo,Atletico Madrid,False,0,1,L
+1038305,2024-05-15T20:00:00+00:00,538,Celta Vigo,Athletic Club,True,2,1,W
+1038319,2024-05-19T17:00:00+00:00,538,Celta Vigo,Granada CF,False,2,1,W
+1038323,2024-05-26T14:15:00+00:00,538,Celta Vigo,Valencia,True,2,2,D
+1208501,2024-08-16T17:00:00+00:00,538,Celta Vigo,Alaves,True,2,1,W
+1208504,2024-08-23T17:00:00+00:00,538,Celta Vigo,Valencia,True,3,1,W
+1208518,2024-08-26T19:30:00+00:00,538,Celta Vigo,Villarreal,False,3,4,L
+1208528,2024-09-01T15:00:00+00:00,538,Celta Vigo,Osasuna,False,2,3,L
+1208532,2024-09-15T12:00:00+00:00,538,Celta Vigo,Valladolid,True,3,1,W
+1208539,2024-09-22T14:15:00+00:00,538,Celta Vigo,Athletic Club,False,1,3,L
+1208553,2024-09-26T19:00:00+00:00,538,Celta Vigo,Atletico Madrid,True,0,1,L
+1208559,2024-09-29T12:00:00+00:00,538,Celta Vigo,Girona,True,1,1,D
+1208573,2024-10-05T16:30:00+00:00,538,Celta Vigo,Las Palmas,False,1,0,W
+1208577,2024-10-19T19:00:00+00:00,538,Celta Vigo,Real Madrid,True,1,2,L
+1208588,2024-10-27T12:00:00+00:00,538,Celta Vigo,Leganes,False,0,3,L
+1208595,2024-11-04T20:00:00+00:00,538,Celta Vigo,Getafe,True,1,0,W
+1208602,2024-11-10T13:00:00+00:00,538,Celta Vigo,Real Betis,False,2,2,D
+1208616,2024-11-23T20:00:00+00:00,538,Celta Vigo,Barcelona,True,2,2,D
+1212924,2024-11-30T17:30:00+00:00,538,Celta Vigo,Espanyol,False,1,3,L
+1208631,2024-12-06T20:00:00+00:00,538,Celta Vigo,Mallorca,True,2,0,W
+1208643,2024-12-14T17:30:00+00:00,538,Celta Vigo,Sevilla,False,0,1,L
+1208648,2024-12-21T15:15:00+00:00,538,Celta Vigo,Real Sociedad,True,2,0,W
+1208663,2025-01-10T20:00:00+00:00,538,Celta Vigo,Rayo Vallecano,False,1,2,L
+1208667,2025-01-19T13:00:00+00:00,538,Celta Vigo,Athletic Club,True,1,2,L
+1208678,2025-01-27T20:00:00+00:00,538,Celta Vigo,Alaves,False,1,1,D
+1208690,2025-02-02T15:15:00+00:00,538,Celta Vigo,Valencia,False,1,2,L
+1208699,2025-02-08T13:00:00+00:00,538,Celta Vigo,Real Betis,True,3,2,W
+1208701,2025-02-15T17:30:00+00:00,538,Celta Vigo,Atletico Madrid,False,1,1,D
+1208711,2025-02-21T20:00:00+00:00,538,Celta Vigo,Osasuna,True,1,0,W
+1208724,2025-03-01T13:00:00+00:00,538,Celta Vigo,Girona,False,2,2,D
+1208731,2025-03-08T13:00:00+00:00,538,Celta Vigo,Leganes,True,2,1,W
+1208742,2025-03-15T13:00:00+00:00,538,Celta Vigo,Valladolid,False,1,0,W
+1208749,2025-03-31T19:00:00+00:00,538,Celta Vigo,Las Palmas,True,1,1,D
+1208761,2025-04-05T16:30:00+00:00,538,Celta Vigo,Mallorca,False,2,1,W
+1212940,2025-04-12T16:30:00+00:00,538,Celta Vigo,Espanyol,True,0,2,L
+1208773,2025-04-19T14:15:00+00:00,538,Celta Vigo,Barcelona,False,3,4,L
+1208786,2025-04-23T17:00:00+00:00,538,Celta Vigo,Villarreal,True,3,0,W
+1208796,2025-05-04T12:00:00+00:00,538,Celta Vigo,Real Madrid,False,2,3,L
+1208803,2025-05-10T14:15:00+00:00,538,Celta Vigo,Sevilla,True,3,2,W
+1208813,2025-05-13T18:00:00+00:00,538,Celta Vigo,Real Sociedad,False,1,0,W
+1208820,2025-05-18T17:00:00+00:00,538,Celta Vigo,Rayo Vallecano,True,1,2,L
+1208833,2025-05-24T19:00:00+00:00,538,Celta Vigo,Getafe,False,2,1,W

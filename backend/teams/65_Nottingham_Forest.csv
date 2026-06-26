@@ -1,0 +1,115 @@
+fixture_id,date,team_id,team_name,opponent,is_home,goals_scored,goals_conceded,result
+867951,2022-08-06T14:00:00+00:00,65,Nottingham Forest,Newcastle,False,0,2,L
+867963,2022-08-14T13:00:00+00:00,65,Nottingham Forest,West Ham,True,1,0,W
+867968,2022-08-20T14:00:00+00:00,65,Nottingham Forest,Everton,False,1,1,D
+867983,2022-08-28T15:30:00+00:00,65,Nottingham Forest,Tottenham,True,0,2,L
+867995,2022-08-31T18:30:00+00:00,65,Nottingham Forest,Manchester City,False,0,6,L
+868003,2022-09-03T14:00:00+00:00,65,Nottingham Forest,Bournemouth,True,2,3,L
+868023,2022-09-16T19:00:00+00:00,65,Nottingham Forest,Fulham,True,2,3,L
+868031,2022-10-03T19:00:00+00:00,65,Nottingham Forest,Leicester,False,0,4,L
+868044,2022-10-10T19:00:00+00:00,65,Nottingham Forest,Aston Villa,True,1,1,D
+868055,2022-10-15T14:00:00+00:00,65,Nottingham Forest,Wolves,False,0,1,L
+868059,2022-10-18T18:30:00+00:00,65,Nottingham Forest,Brighton,False,0,0,D
+868071,2022-10-22T11:30:00+00:00,65,Nottingham Forest,Liverpool,True,1,0,W
+868077,2022-10-30T14:00:00+00:00,65,Nottingham Forest,Arsenal,False,0,5,L
+868091,2022-11-05T15:00:00+00:00,65,Nottingham Forest,Brentford,True,2,2,D
+868102,2022-11-12T15:00:00+00:00,65,Nottingham Forest,Crystal Palace,True,1,0,W
+868114,2022-12-27T20:00:00+00:00,65,Nottingham Forest,Manchester United,False,0,3,L
+868122,2023-01-01T16:30:00+00:00,65,Nottingham Forest,Chelsea,True,1,1,D
+868135,2023-01-04T19:30:00+00:00,65,Nottingham Forest,Southampton,False,1,0,W
+868143,2023-01-14T15:00:00+00:00,65,Nottingham Forest,Leicester,True,2,0,W
+868146,2023-01-21T15:00:00+00:00,65,Nottingham Forest,Bournemouth,False,1,1,D
+868163,2023-02-05T14:00:00+00:00,65,Nottingham Forest,Leeds,True,1,0,W
+868169,2023-02-11T15:00:00+00:00,65,Nottingham Forest,Fulham,False,0,2,L
+868183,2023-02-18T15:00:00+00:00,65,Nottingham Forest,Manchester City,True,1,1,D
+868195,2023-02-25T15:00:00+00:00,65,Nottingham Forest,West Ham,False,0,4,L
+868203,2023-03-05T14:00:00+00:00,65,Nottingham Forest,Everton,True,2,2,D
+868214,2023-03-11T15:00:00+00:00,65,Nottingham Forest,Tottenham,False,1,3,L
+868223,2023-03-17T20:00:00+00:00,65,Nottingham Forest,Newcastle,True,1,2,L
+868234,2023-04-01T14:00:00+00:00,65,Nottingham Forest,Wolves,True,1,1,D
+868010,2023-04-04T18:45:00+00:00,65,Nottingham Forest,Leeds,False,1,2,L
+868236,2023-04-08T14:00:00+00:00,65,Nottingham Forest,Aston Villa,False,0,2,L
+868251,2023-04-16T15:30:00+00:00,65,Nottingham Forest,Manchester United,True,0,2,L
+868263,2023-04-22T14:00:00+00:00,65,Nottingham Forest,Liverpool,False,2,3,L
+868268,2023-04-26T18:30:00+00:00,65,Nottingham Forest,Brighton,True,3,1,W
+868278,2023-04-29T14:00:00+00:00,65,Nottingham Forest,Brentford,False,1,2,L
+868292,2023-05-08T19:00:00+00:00,65,Nottingham Forest,Southampton,True,4,3,W
+868299,2023-05-13T14:00:00+00:00,65,Nottingham Forest,Chelsea,False,2,2,D
+868312,2023-05-20T16:30:00+00:00,65,Nottingham Forest,Arsenal,True,1,0,W
+868320,2023-05-28T15:30:00+00:00,65,Nottingham Forest,Crystal Palace,False,1,1,D
+1035038,2023-08-12T11:30:00+00:00,65,Nottingham Forest,Arsenal,False,1,2,L
+1035053,2023-08-18T18:45:00+00:00,65,Nottingham Forest,Sheffield Utd,True,2,1,W
+1035064,2023-08-26T14:00:00+00:00,65,Nottingham Forest,Manchester United,False,2,3,L
+1035071,2023-09-02T14:00:00+00:00,65,Nottingham Forest,Chelsea,False,1,0,W
+1035083,2023-09-18T18:45:00+00:00,65,Nottingham Forest,Burnley,True,1,1,D
+1035095,2023-09-23T14:00:00+00:00,65,Nottingham Forest,Manchester City,False,0,2,L
+1035103,2023-10-01T13:00:00+00:00,65,Nottingham Forest,Brentford,True,1,1,D
+1035110,2023-10-07T16:30:00+00:00,65,Nottingham Forest,Crystal Palace,False,0,0,D
+1035124,2023-10-21T14:00:00+00:00,65,Nottingham Forest,Luton,True,2,2,D
+1035133,2023-10-29T14:00:00+00:00,65,Nottingham Forest,Liverpool,False,0,3,L
+1035144,2023-11-05T14:00:00+00:00,65,Nottingham Forest,Aston Villa,True,2,0,W
+1035155,2023-11-12T14:00:00+00:00,65,Nottingham Forest,West Ham,False,2,3,L
+1035301,2023-11-25T15:00:00+00:00,65,Nottingham Forest,Brighton,True,2,3,L
+1035312,2023-12-02T17:30:00+00:00,65,Nottingham Forest,Everton,True,0,1,L
+1035317,2023-12-06T19:30:00+00:00,65,Nottingham Forest,Fulham,False,0,5,L
+1035333,2023-12-09T15:00:00+00:00,65,Nottingham Forest,Wolves,False,1,1,D
+1035342,2023-12-15T20:00:00+00:00,65,Nottingham Forest,Tottenham,True,0,2,L
+1035350,2023-12-23T15:00:00+00:00,65,Nottingham Forest,Bournemouth,True,2,3,L
+1035362,2023-12-26T12:30:00+00:00,65,Nottingham Forest,Newcastle,False,3,1,W
+1035370,2023-12-30T17:30:00+00:00,65,Nottingham Forest,Manchester United,True,2,1,W
+1035376,2024-01-20T17:30:00+00:00,65,Nottingham Forest,Brentford,False,2,3,L
+1035387,2024-01-30T19:30:00+00:00,65,Nottingham Forest,Arsenal,True,1,2,L
+1035394,2024-02-04T14:00:00+00:00,65,Nottingham Forest,Bournemouth,False,1,1,D
+1035410,2024-02-10T17:30:00+00:00,65,Nottingham Forest,Newcastle,True,2,3,L
+1035421,2024-02-17T15:00:00+00:00,65,Nottingham Forest,West Ham,True,2,0,W
+1035426,2024-02-24T15:00:00+00:00,65,Nottingham Forest,Aston Villa,False,2,4,L
+1035441,2024-03-02T15:00:00+00:00,65,Nottingham Forest,Liverpool,True,0,1,L
+1035447,2024-03-10T14:00:00+00:00,65,Nottingham Forest,Brighton,False,0,1,L
+1035460,2024-03-16T15:00:00+00:00,65,Nottingham Forest,Luton,False,1,1,D
+1035471,2024-03-30T15:00:00+00:00,65,Nottingham Forest,Crystal Palace,True,1,1,D
+1035478,2024-04-02T18:30:00+00:00,65,Nottingham Forest,Fulham,True,3,1,W
+1035492,2024-04-07T17:00:00+00:00,65,Nottingham Forest,Tottenham,False,1,3,L
+1035502,2024-04-13T14:00:00+00:00,65,Nottingham Forest,Wolves,True,2,2,D
+1035507,2024-04-21T12:30:00+00:00,65,Nottingham Forest,Everton,False,0,2,L
+1035520,2024-04-28T15:30:00+00:00,65,Nottingham Forest,Manchester City,True,0,2,L
+1035533,2024-05-04T14:00:00+00:00,65,Nottingham Forest,Sheffield Utd,False,3,1,W
+1035540,2024-05-11T16:30:00+00:00,65,Nottingham Forest,Chelsea,True,2,3,L
+1035547,2024-05-19T15:00:00+00:00,65,Nottingham Forest,Burnley,False,2,1,W
+1208026,2024-08-17T14:00:00+00:00,65,Nottingham Forest,Bournemouth,True,1,1,D
+1208038,2024-08-24T14:00:00+00:00,65,Nottingham Forest,Southampton,False,1,0,W
+1208049,2024-08-31T14:00:00+00:00,65,Nottingham Forest,Wolves,True,1,1,D
+1208056,2024-09-14T14:00:00+00:00,65,Nottingham Forest,Liverpool,False,1,0,W
+1208062,2024-09-22T13:00:00+00:00,65,Nottingham Forest,Brighton,False,2,2,D
+1208079,2024-09-28T14:00:00+00:00,65,Nottingham Forest,Fulham,True,0,1,L
+1208085,2024-10-06T13:00:00+00:00,65,Nottingham Forest,Chelsea,False,1,1,D
+1208097,2024-10-21T19:00:00+00:00,65,Nottingham Forest,Crystal Palace,True,1,0,W
+1208110,2024-10-25T19:00:00+00:00,65,Nottingham Forest,Leicester,False,3,1,W
+1208119,2024-11-02T15:00:00+00:00,65,Nottingham Forest,West Ham,True,3,0,W
+1208129,2024-11-10T14:00:00+00:00,65,Nottingham Forest,Newcastle,True,1,3,L
+1208134,2024-11-23T15:00:00+00:00,65,Nottingham Forest,Arsenal,False,0,3,L
+1208149,2024-11-30T15:00:00+00:00,65,Nottingham Forest,Ipswich,True,1,0,W
+1208160,2024-12-04T19:30:00+00:00,65,Nottingham Forest,Manchester City,False,0,3,L
+1208170,2024-12-07T17:30:00+00:00,65,Nottingham Forest,Manchester United,False,3,2,W
+1208180,2024-12-14T17:30:00+00:00,65,Nottingham Forest,Aston Villa,True,2,1,W
+1208184,2024-12-21T15:00:00+00:00,65,Nottingham Forest,Brentford,False,2,0,W
+1208200,2024-12-26T15:00:00+00:00,65,Nottingham Forest,Tottenham,True,1,0,W
+1208206,2024-12-29T15:00:00+00:00,65,Nottingham Forest,Everton,False,2,0,W
+1208222,2025-01-06T20:00:00+00:00,65,Nottingham Forest,Wolves,False,3,0,W
+1208228,2025-01-14T20:00:00+00:00,65,Nottingham Forest,Liverpool,True,1,1,D
+1208241,2025-01-19T14:00:00+00:00,65,Nottingham Forest,Southampton,True,3,2,W
+1208243,2025-01-25T15:00:00+00:00,65,Nottingham Forest,Bournemouth,False,0,5,L
+1208261,2025-02-01T12:30:00+00:00,65,Nottingham Forest,Brighton,True,7,0,W
+1208266,2025-02-15T15:00:00+00:00,65,Nottingham Forest,Fulham,False,1,2,L
+1208281,2025-02-23T14:00:00+00:00,65,Nottingham Forest,Newcastle,False,3,4,L
+1208285,2025-02-26T19:30:00+00:00,65,Nottingham Forest,Arsenal,True,0,0,D
+1208299,2025-03-08T12:30:00+00:00,65,Nottingham Forest,Manchester City,True,1,0,W
+1208308,2025-03-15T15:00:00+00:00,65,Nottingham Forest,Ipswich,False,4,2,W
+1208316,2025-04-01T19:00:00+00:00,65,Nottingham Forest,Manchester United,True,1,0,W
+1208323,2025-04-05T16:30:00+00:00,65,Nottingham Forest,Aston Villa,False,1,2,L
+1208340,2025-04-12T14:00:00+00:00,65,Nottingham Forest,Everton,True,0,1,L
+1208351,2025-04-21T19:00:00+00:00,65,Nottingham Forest,Tottenham,False,2,1,W
+1208360,2025-05-01T18:30:00+00:00,65,Nottingham Forest,Brentford,True,0,2,L
+1208368,2025-05-05T19:00:00+00:00,65,Nottingham Forest,Crystal Palace,False,1,1,D
+1208379,2025-05-11T13:15:00+00:00,65,Nottingham Forest,Leicester,True,2,2,D
+1208392,2025-05-18T13:15:00+00:00,65,Nottingham Forest,West Ham,False,2,1,W
+1208399,2025-05-25T15:00:00+00:00,65,Nottingham Forest,Chelsea,True,0,1,L

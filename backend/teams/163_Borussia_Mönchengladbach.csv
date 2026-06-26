@@ -1,0 +1,103 @@
+fixture_id,date,team_id,team_name,opponent,is_home,goals_scored,goals_conceded,result
+871168,2022-08-06T13:30:00+00:00,163,Borussia Monchengladbach,1899 Hoffenheim,True,3,1,W
+871180,2022-08-13T16:30:00+00:00,163,Borussia Monchengladbach,FC Schalke 04,False,2,2,D
+871185,2022-08-19T18:30:00+00:00,163,Borussia Monchengladbach,Hertha Berlin,True,1,0,W
+871191,2022-08-27T16:30:00+00:00,163,Borussia Monchengladbach,Bayern Munich,False,1,1,D
+871203,2022-09-04T15:30:00+00:00,163,Borussia Monchengladbach,FSV Mainz 05,True,0,1,L
+871211,2022-09-11T15:30:00+00:00,163,Borussia Monchengladbach,SC Freiburg,False,0,0,D
+871219,2022-09-17T16:30:00+00:00,163,Borussia Monchengladbach,RB Leipzig,True,3,0,W
+871235,2022-10-01T16:30:00+00:00,163,Borussia Monchengladbach,Werder Bremen,False,1,5,L
+871240,2022-10-09T13:30:00+00:00,163,Borussia Monchengladbach,1. FC Köln,True,5,2,W
+871250,2022-10-15T13:30:00+00:00,163,Borussia Monchengladbach,VfL Wolfsburg,False,2,2,D
+871259,2022-10-22T16:30:00+00:00,163,Borussia Monchengladbach,Eintracht Frankfurt,True,1,3,L
+871265,2022-10-30T14:30:00+00:00,163,Borussia Monchengladbach,Union Berlin,False,1,2,L
+871277,2022-11-04T19:30:00+00:00,163,Borussia Monchengladbach,VfB Stuttgart,True,3,1,W
+871287,2022-11-08T19:30:00+00:00,163,Borussia Monchengladbach,Vfl Bochum,False,1,2,L
+871294,2022-11-11T19:30:00+00:00,163,Borussia Monchengladbach,Borussia Dortmund,True,4,2,W
+871303,2023-01-22T16:30:00+00:00,163,Borussia Monchengladbach,Bayer Leverkusen,True,2,3,L
+871313,2023-01-25T19:30:00+00:00,163,Borussia Monchengladbach,FC Augsburg,False,0,1,L
+871322,2023-01-28T14:30:00+00:00,163,Borussia Monchengladbach,1899 Hoffenheim,False,4,1,W
+871329,2023-02-04T17:30:00+00:00,163,Borussia Monchengladbach,FC Schalke 04,True,0,0,D
+871341,2023-02-12T14:30:00+00:00,163,Borussia Monchengladbach,Hertha Berlin,False,1,4,L
+871347,2023-02-18T14:30:00+00:00,163,Borussia Monchengladbach,Bayern Munich,True,3,2,W
+871357,2023-02-24T19:30:00+00:00,163,Borussia Monchengladbach,FSV Mainz 05,False,0,4,L
+871366,2023-03-04T14:30:00+00:00,163,Borussia Monchengladbach,SC Freiburg,True,0,0,D
+871372,2023-03-11T14:30:00+00:00,163,Borussia Monchengladbach,RB Leipzig,False,0,3,L
+871385,2023-03-17T19:30:00+00:00,163,Borussia Monchengladbach,Werder Bremen,True,2,2,D
+871393,2023-04-02T13:30:00+00:00,163,Borussia Monchengladbach,1. FC Köln,False,0,0,D
+871403,2023-04-09T13:30:00+00:00,163,Borussia Monchengladbach,VfL Wolfsburg,True,2,0,W
+871411,2023-04-15T16:30:00+00:00,163,Borussia Monchengladbach,Eintracht Frankfurt,False,1,1,D
+871421,2023-04-23T17:30:00+00:00,163,Borussia Monchengladbach,Union Berlin,True,0,1,L
+871432,2023-04-29T13:30:00+00:00,163,Borussia Monchengladbach,VfB Stuttgart,False,1,2,L
+871439,2023-05-06T13:30:00+00:00,163,Borussia Monchengladbach,Vfl Bochum,True,2,0,W
+871444,2023-05-13T16:30:00+00:00,163,Borussia Monchengladbach,Borussia Dortmund,False,2,5,L
+871453,2023-05-21T17:30:00+00:00,163,Borussia Monchengladbach,Bayer Leverkusen,False,2,2,D
+871465,2023-05-27T13:30:00+00:00,163,Borussia Monchengladbach,FC Augsburg,True,2,0,W
+1048888,2023-08-19T13:30:00+00:00,163,Borussia Monchengladbach,FC Augsburg,False,4,4,D
+1048894,2023-08-26T16:30:00+00:00,163,Borussia Monchengladbach,Bayer Leverkusen,True,0,3,L
+1048903,2023-09-02T16:30:00+00:00,163,Borussia Monchengladbach,Bayern Munich,True,1,2,L
+1048916,2023-09-17T15:30:00+00:00,163,Borussia Monchengladbach,SV Darmstadt 98,False,3,3,D
+1048922,2023-09-23T13:30:00+00:00,163,Borussia Monchengladbach,RB Leipzig,True,0,1,L
+1048932,2023-09-30T13:30:00+00:00,163,Borussia Monchengladbach,Vfl Bochum,False,3,1,W
+1048940,2023-10-06T18:30:00+00:00,163,Borussia Monchengladbach,FSV Mainz 05,True,2,2,D
+1048949,2023-10-22T13:30:00+00:00,163,Borussia Monchengladbach,1. FC Köln,False,1,3,L
+1048957,2023-10-28T13:30:00+00:00,163,Borussia Monchengladbach,FC Heidenheim,True,2,1,W
+1048964,2023-11-04T14:30:00+00:00,163,Borussia Monchengladbach,SC Freiburg,False,3,3,D
+1048974,2023-11-10T19:30:00+00:00,163,Borussia Monchengladbach,VfL Wolfsburg,True,4,0,W
+1048980,2023-11-25T14:30:00+00:00,163,Borussia Monchengladbach,Borussia Dortmund,False,2,4,L
+1048993,2023-12-02T14:30:00+00:00,163,Borussia Monchengladbach,1899 Hoffenheim,True,2,1,W
+1048999,2023-12-09T14:30:00+00:00,163,Borussia Monchengladbach,Union Berlin,False,1,3,L
+1049012,2023-12-15T19:30:00+00:00,163,Borussia Monchengladbach,Werder Bremen,True,2,2,D
+1049019,2023-12-20T19:30:00+00:00,163,Borussia Monchengladbach,Eintracht Frankfurt,False,1,2,L
+1049029,2024-01-14T16:30:00+00:00,163,Borussia Monchengladbach,VfB Stuttgart,True,3,1,W
+1049038,2024-01-21T16:30:00+00:00,163,Borussia Monchengladbach,FC Augsburg,True,1,2,L
+1049045,2024-01-27T17:30:00+00:00,163,Borussia Monchengladbach,Bayer Leverkusen,False,0,0,D
+1049052,2024-02-03T14:30:00+00:00,163,Borussia Monchengladbach,Bayern Munich,False,1,3,L
+1049065,2024-02-10T14:30:00+00:00,163,Borussia Monchengladbach,SV Darmstadt 98,True,0,0,D
+1049070,2024-02-17T17:30:00+00:00,163,Borussia Monchengladbach,RB Leipzig,False,0,2,L
+1049084,2024-02-24T14:30:00+00:00,163,Borussia Monchengladbach,Vfl Bochum,True,5,2,W
+1049091,2024-03-02T14:30:00+00:00,163,Borussia Monchengladbach,FSV Mainz 05,False,1,1,D
+1049101,2024-03-09T14:30:00+00:00,163,Borussia Monchengladbach,1. FC Köln,True,3,3,D
+1049113,2024-03-16T14:30:00+00:00,163,Borussia Monchengladbach,FC Heidenheim,False,1,1,D
+1049119,2024-03-30T14:30:00+00:00,163,Borussia Monchengladbach,SC Freiburg,True,0,3,L
+1049128,2024-04-07T15:30:00+00:00,163,Borussia Monchengladbach,VfL Wolfsburg,False,3,1,W
+1049137,2024-04-13T13:30:00+00:00,163,Borussia Monchengladbach,Borussia Dortmund,True,1,2,L
+1049148,2024-04-20T13:30:00+00:00,163,Borussia Monchengladbach,1899 Hoffenheim,False,3,4,L
+1049156,2024-04-28T13:30:00+00:00,163,Borussia Monchengladbach,Union Berlin,True,0,0,D
+1049166,2024-05-04T13:30:00+00:00,163,Borussia Monchengladbach,Werder Bremen,False,2,2,D
+1049173,2024-05-11T13:30:00+00:00,163,Borussia Monchengladbach,Eintracht Frankfurt,True,1,1,D
+1049185,2024-05-18T13:30:00+00:00,163,Borussia Monchengladbach,VfB Stuttgart,False,0,4,L
+1223975,2024-08-23T18:30:00+00:00,163,Borussia Mönchengladbach,Bayer Leverkusen,True,2,3,L
+1223991,2024-08-31T13:30:00+00:00,163,Borussia Mönchengladbach,VfL Bochum,False,2,0,W
+1224000,2024-09-14T13:30:00+00:00,163,Borussia Mönchengladbach,VfB Stuttgart,True,1,3,L
+1224004,2024-09-21T16:30:00+00:00,163,Borussia Mönchengladbach,Eintracht Frankfurt,False,0,2,L
+1224018,2024-09-28T13:30:00+00:00,163,Borussia Mönchengladbach,Union Berlin,True,1,0,W
+1224025,2024-10-04T18:30:00+00:00,163,Borussia Mönchengladbach,FC Augsburg,False,1,2,L
+1224036,2024-10-19T13:30:00+00:00,163,Borussia Mönchengladbach,1. FC Heidenheim,True,3,2,W
+1224043,2024-10-25T18:30:00+00:00,163,Borussia Mönchengladbach,FSV Mainz 05,False,1,1,D
+1224054,2024-11-03T16:30:00+00:00,163,Borussia Mönchengladbach,Werder Bremen,True,4,1,W
+1224057,2024-11-09T17:30:00+00:00,163,Borussia Mönchengladbach,RB Leipzig,False,0,0,D
+1224072,2024-11-24T16:30:00+00:00,163,Borussia Mönchengladbach,FC St. Pauli,True,2,0,W
+1224078,2024-11-30T14:30:00+00:00,163,Borussia Mönchengladbach,SC Freiburg,False,1,3,L
+1224089,2024-12-07T17:30:00+00:00,163,Borussia Mönchengladbach,Borussia Dortmund,True,1,1,D
+1224098,2024-12-14T14:30:00+00:00,163,Borussia Mönchengladbach,Holstein Kiel,True,4,1,W
+1224105,2024-12-21T14:30:00+00:00,163,Borussia Mönchengladbach,1899 Hoffenheim,False,2,1,W
+1224117,2025-01-11T17:30:00+00:00,163,Borussia Mönchengladbach,Bayern München,True,0,1,L
+1224124,2025-01-14T19:30:00+00:00,163,Borussia Mönchengladbach,VfL Wolfsburg,False,1,5,L
+1224128,2025-01-18T17:30:00+00:00,163,Borussia Mönchengladbach,Bayer Leverkusen,False,1,3,L
+1224144,2025-01-25T17:30:00+00:00,163,Borussia Mönchengladbach,VfL Bochum,True,3,0,W
+1224147,2025-02-01T14:30:00+00:00,163,Borussia Mönchengladbach,VfB Stuttgart,False,2,1,W
+1224162,2025-02-08T17:30:00+00:00,163,Borussia Mönchengladbach,Eintracht Frankfurt,True,1,1,D
+1224170,2025-02-15T14:30:00+00:00,163,Borussia Mönchengladbach,Union Berlin,False,2,1,W
+1224180,2025-02-22T14:30:00+00:00,163,Borussia Mönchengladbach,FC Augsburg,True,0,3,L
+1224185,2025-03-01T14:30:00+00:00,163,Borussia Mönchengladbach,1. FC Heidenheim,False,3,0,W
+1224198,2025-03-07T19:30:00+00:00,163,Borussia Mönchengladbach,FSV Mainz 05,True,1,3,L
+1224203,2025-03-15T14:30:00+00:00,163,Borussia Mönchengladbach,Werder Bremen,False,4,2,W
+1224216,2025-03-29T14:30:00+00:00,163,Borussia Mönchengladbach,RB Leipzig,True,1,0,W
+1224226,2025-04-06T13:30:00+00:00,163,Borussia Mönchengladbach,FC St. Pauli,False,1,1,D
+1224233,2025-04-12T13:30:00+00:00,163,Borussia Mönchengladbach,SC Freiburg,True,1,2,L
+1224237,2025-04-20T15:30:00+00:00,163,Borussia Mönchengladbach,Borussia Dortmund,False,2,3,L
+1224253,2025-04-26T13:30:00+00:00,163,Borussia Mönchengladbach,Holstein Kiel,False,3,4,L
+1224260,2025-05-03T13:30:00+00:00,163,Borussia Mönchengladbach,1899 Hoffenheim,True,4,4,D
+1224265,2025-05-10T16:30:00+00:00,163,Borussia Mönchengladbach,Bayern München,False,0,2,L
+1224279,2025-05-17T13:30:00+00:00,163,Borussia Mönchengladbach,VfL Wolfsburg,True,0,1,L

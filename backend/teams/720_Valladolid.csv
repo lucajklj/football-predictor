@@ -1,0 +1,77 @@
+fixture_id,date,team_id,team_name,opponent,is_home,goals_scored,goals_conceded,result
+877950,2022-08-13T17:00:00+00:00,720,Valladolid,Villarreal,True,0,3,L
+877956,2022-08-19T20:00:00+00:00,720,Valladolid,Sevilla,False,1,1,D
+877962,2022-08-28T17:30:00+00:00,720,Valladolid,Barcelona,False,0,4,L
+877980,2022-09-05T19:00:00+00:00,720,Valladolid,Almeria,True,1,0,W
+877988,2022-09-09T19:00:00+00:00,720,Valladolid,Girona,False,1,2,L
+877998,2022-09-16T19:00:00+00:00,720,Valladolid,Cadiz,True,0,1,L
+878002,2022-10-01T14:15:00+00:00,720,Valladolid,Getafe,False,3,2,W
+878021,2022-10-09T12:00:00+00:00,720,Valladolid,Real Betis,True,0,0,D
+878025,2022-10-16T16:30:00+00:00,720,Valladolid,Espanyol,False,0,1,L
+878039,2022-10-19T17:00:00+00:00,720,Valladolid,Celta Vigo,True,4,1,W
+878050,2022-10-22T14:15:00+00:00,720,Valladolid,Real Sociedad,True,1,0,W
+878054,2022-10-30T13:00:00+00:00,720,Valladolid,Osasuna,False,0,2,L
+878068,2022-11-05T15:15:00+00:00,720,Valladolid,Elche,True,2,1,W
+878072,2022-11-08T19:00:00+00:00,720,Valladolid,Athletic Club,False,0,3,L
+878089,2022-12-30T20:30:00+00:00,720,Valladolid,Real Madrid,True,0,2,L
+878094,2023-01-07T17:30:00+00:00,720,Valladolid,Mallorca,False,0,1,L
+878111,2023-01-14T13:00:00+00:00,720,Valladolid,Rayo Vallecano,True,0,1,L
+878113,2023-01-21T17:30:00+00:00,720,Valladolid,Atletico Madrid,False,0,3,L
+878130,2023-01-29T13:00:00+00:00,720,Valladolid,Valencia,True,1,0,W
+878139,2023-02-05T17:30:00+00:00,720,Valladolid,Real Sociedad,False,1,0,W
+878151,2023-02-12T17:30:00+00:00,720,Valladolid,Osasuna,True,0,0,D
+878153,2023-02-18T15:15:00+00:00,720,Valladolid,Real Betis,False,1,2,L
+878163,2023-02-26T15:15:00+00:00,720,Valladolid,Celta Vigo,False,0,3,L
+878181,2023-03-05T13:00:00+00:00,720,Valladolid,Espanyol,True,2,1,W
+878184,2023-03-11T15:15:00+00:00,720,Valladolid,Elche,False,1,1,D
+878198,2023-03-17T20:00:00+00:00,720,Valladolid,Athletic Club,True,1,3,L
+878206,2023-04-02T14:15:00+00:00,720,Valladolid,Real Madrid,False,0,6,L
+878220,2023-04-09T12:00:00+00:00,720,Valladolid,Mallorca,True,3,3,D
+878226,2023-04-15T12:00:00+00:00,720,Valladolid,Villarreal,False,2,1,W
+878241,2023-04-22T16:30:00+00:00,720,Valladolid,Girona,True,1,0,W
+878247,2023-04-27T17:30:00+00:00,720,Valladolid,Valencia,False,1,2,L
+878258,2023-04-30T19:00:00+00:00,720,Valladolid,Atletico Madrid,True,2,5,L
+878266,2023-05-04T20:00:00+00:00,720,Valladolid,Rayo Vallecano,False,1,2,L
+878279,2023-05-14T16:30:00+00:00,720,Valladolid,Sevilla,True,0,3,L
+878285,2023-05-19T19:00:00+00:00,720,Valladolid,Cadiz,False,0,2,L
+878298,2023-05-23T20:00:00+00:00,720,Valladolid,Barcelona,True,3,1,W
+878308,2023-05-28T17:00:00+00:00,720,Valladolid,Almeria,False,0,0,D
+878318,2023-06-04T19:00:00+00:00,720,Valladolid,Getafe,True,0,0,D
+1212910,2024-08-19T17:00:00+00:00,720,Valladolid,Espanyol,True,1,0,W
+1208506,2024-08-25T15:00:00+00:00,720,Valladolid,Real Madrid,False,0,3,L
+1208520,2024-08-28T17:00:00+00:00,720,Valladolid,Leganes,True,0,0,D
+1208522,2024-08-31T15:00:00+00:00,720,Valladolid,Barcelona,False,0,7,L
+1208532,2024-09-15T12:00:00+00:00,720,Valladolid,Celta Vigo,False,1,3,L
+1208546,2024-09-21T12:00:00+00:00,720,Valladolid,Real Sociedad,True,0,0,D
+1208551,2024-09-24T17:00:00+00:00,720,Valladolid,Sevilla,False,1,2,L
+1208562,2024-09-27T19:00:00+00:00,720,Valladolid,Mallorca,True,1,2,L
+1208574,2024-10-05T16:30:00+00:00,720,Valladolid,Rayo Vallecano,True,1,2,L
+1208580,2024-10-18T19:00:00+00:00,720,Valladolid,Alaves,False,3,2,W
+1208591,2024-10-26T12:00:00+00:00,720,Valladolid,Villarreal,True,1,2,L
+1208597,2024-11-02T13:00:00+00:00,720,Valladolid,Osasuna,False,0,1,L
+1208605,2024-11-10T17:30:00+00:00,720,Valladolid,Athletic Club,True,1,1,D
+1208612,2024-11-22T20:00:00+00:00,720,Valladolid,Getafe,False,0,2,L
+1208624,2024-11-30T20:00:00+00:00,720,Valladolid,Atletico Madrid,True,0,5,L
+1208633,2024-12-07T13:00:00+00:00,720,Valladolid,Las Palmas,False,1,2,L
+1208645,2024-12-13T20:00:00+00:00,720,Valladolid,Valencia,True,1,0,W
+1208650,2024-12-20T20:00:00+00:00,720,Valladolid,Girona,False,0,3,L
+1208662,2025-01-11T15:15:00+00:00,720,Valladolid,Real Betis,True,1,0,W
+1212929,2025-01-17T20:00:00+00:00,720,Valladolid,Espanyol,False,1,2,L
+1208682,2025-01-25T20:00:00+00:00,720,Valladolid,Real Madrid,True,0,3,L
+1208687,2025-02-01T15:15:00+00:00,720,Valladolid,Villarreal,False,1,5,L
+1208694,2025-02-07T20:00:00+00:00,720,Valladolid,Rayo Vallecano,False,0,1,L
+1208706,2025-02-16T15:15:00+00:00,720,Valladolid,Sevilla,True,0,4,L
+1208710,2025-02-23T13:00:00+00:00,720,Valladolid,Athletic Club,False,1,7,L
+1208726,2025-02-28T20:00:00+00:00,720,Valladolid,Las Palmas,True,1,1,D
+1208733,2025-03-08T17:30:00+00:00,720,Valladolid,Valencia,False,1,2,L
+1208742,2025-03-15T13:00:00+00:00,720,Valladolid,Celta Vigo,True,0,1,L
+1208751,2025-03-29T13:00:00+00:00,720,Valladolid,Real Sociedad,False,1,2,L
+1208762,2025-04-06T16:30:00+00:00,720,Valladolid,Getafe,True,0,4,L
+1208765,2025-04-14T19:00:00+00:00,720,Valladolid,Atletico Madrid,False,2,4,L
+1208778,2025-04-20T12:00:00+00:00,720,Valladolid,Osasuna,True,2,3,L
+1208785,2025-04-24T19:30:00+00:00,720,Valladolid,Real Betis,False,1,5,L
+1208795,2025-05-03T19:00:00+00:00,720,Valladolid,Barcelona,True,1,2,L
+1208805,2025-05-10T16:30:00+00:00,720,Valladolid,Mallorca,False,1,2,L
+1208814,2025-05-13T17:00:00+00:00,720,Valladolid,Girona,True,0,1,L
+1208825,2025-05-18T17:00:00+00:00,720,Valladolid,Alaves,True,0,1,L
+1208831,2025-05-24T16:30:00+00:00,720,Valladolid,Leganes,False,0,3,L

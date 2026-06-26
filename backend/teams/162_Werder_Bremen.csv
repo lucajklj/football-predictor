@@ -1,0 +1,103 @@
+fixture_id,date,team_id,team_name,opponent,is_home,goals_scored,goals_conceded,result
+871169,2022-08-06T13:30:00+00:00,162,Werder Bremen,VfL Wolfsburg,False,2,2,D
+871181,2022-08-13T13:30:00+00:00,162,Werder Bremen,VfB Stuttgart,True,2,2,D
+871182,2022-08-20T13:30:00+00:00,162,Werder Bremen,Borussia Dortmund,False,3,2,W
+871199,2022-08-28T15:30:00+00:00,162,Werder Bremen,Eintracht Frankfurt,True,3,4,L
+871206,2022-09-03T13:30:00+00:00,162,Werder Bremen,Vfl Bochum,False,2,0,W
+871217,2022-09-09T18:30:00+00:00,162,Werder Bremen,FC Augsburg,True,0,1,L
+871220,2022-09-17T13:30:00+00:00,162,Werder Bremen,Bayer Leverkusen,False,1,1,D
+871235,2022-10-01T16:30:00+00:00,162,Werder Bremen,Borussia Monchengladbach,True,5,1,W
+871239,2022-10-07T18:30:00+00:00,162,Werder Bremen,1899 Hoffenheim,False,2,1,W
+871253,2022-10-15T13:30:00+00:00,162,Werder Bremen,FSV Mainz 05,True,0,2,L
+871256,2022-10-22T13:30:00+00:00,162,Werder Bremen,SC Freiburg,False,0,2,L
+871271,2022-10-28T18:30:00+00:00,162,Werder Bremen,Hertha Berlin,True,1,0,W
+871280,2022-11-05T17:30:00+00:00,162,Werder Bremen,FC Schalke 04,True,2,1,W
+871281,2022-11-08T19:30:00+00:00,162,Werder Bremen,Bayern Munich,False,1,6,L
+871298,2022-11-12T14:30:00+00:00,162,Werder Bremen,RB Leipzig,True,1,2,L
+871302,2023-01-21T17:30:00+00:00,162,Werder Bremen,1. FC Köln,False,1,7,L
+871316,2023-01-25T19:30:00+00:00,162,Werder Bremen,Union Berlin,True,1,2,L
+871325,2023-01-28T14:30:00+00:00,162,Werder Bremen,VfL Wolfsburg,True,2,1,W
+871334,2023-02-05T14:30:00+00:00,162,Werder Bremen,VfB Stuttgart,False,2,0,W
+871343,2023-02-11T14:30:00+00:00,162,Werder Bremen,Borussia Dortmund,True,0,2,L
+871348,2023-02-18T17:30:00+00:00,162,Werder Bremen,Eintracht Frankfurt,False,0,2,L
+871361,2023-02-25T14:30:00+00:00,162,Werder Bremen,Vfl Bochum,True,3,0,W
+871369,2023-03-04T14:30:00+00:00,162,Werder Bremen,FC Augsburg,False,1,2,L
+871379,2023-03-12T16:30:00+00:00,162,Werder Bremen,Bayer Leverkusen,True,2,3,L
+871385,2023-03-17T19:30:00+00:00,162,Werder Bremen,Borussia Monchengladbach,False,2,2,D
+871397,2023-04-02T15:30:00+00:00,162,Werder Bremen,1899 Hoffenheim,True,1,2,L
+871401,2023-04-08T13:30:00+00:00,162,Werder Bremen,FSV Mainz 05,False,2,2,D
+871415,2023-04-16T13:30:00+00:00,162,Werder Bremen,SC Freiburg,True,1,2,L
+871424,2023-04-22T13:30:00+00:00,162,Werder Bremen,Hertha Berlin,False,4,2,W
+871433,2023-04-29T16:30:00+00:00,162,Werder Bremen,FC Schalke 04,False,1,2,L
+871442,2023-05-06T16:30:00+00:00,162,Werder Bremen,Bayern Munich,True,1,2,L
+871445,2023-05-14T15:30:00+00:00,162,Werder Bremen,RB Leipzig,False,1,2,L
+871460,2023-05-20T13:30:00+00:00,162,Werder Bremen,1. FC Köln,True,1,1,D
+871463,2023-05-27T13:30:00+00:00,162,Werder Bremen,Union Berlin,False,0,1,L
+1048881,2023-08-18T18:30:00+00:00,162,Werder Bremen,Bayern Munich,True,0,4,L
+1048892,2023-08-26T13:30:00+00:00,162,Werder Bremen,SC Freiburg,False,0,1,L
+1048905,2023-09-02T13:30:00+00:00,162,Werder Bremen,FSV Mainz 05,True,4,0,W
+1048915,2023-09-17T13:30:00+00:00,162,Werder Bremen,FC Heidenheim,False,2,4,L
+1048923,2023-09-23T16:30:00+00:00,162,Werder Bremen,1. FC Köln,True,2,1,W
+1048934,2023-10-01T13:30:00+00:00,162,Werder Bremen,SV Darmstadt 98,False,2,4,L
+1048941,2023-10-07T16:30:00+00:00,162,Werder Bremen,1899 Hoffenheim,True,2,3,L
+1048944,2023-10-20T18:30:00+00:00,162,Werder Bremen,Borussia Dortmund,False,0,1,L
+1048958,2023-10-28T13:30:00+00:00,162,Werder Bremen,Union Berlin,True,2,0,W
+1048965,2023-11-05T14:30:00+00:00,162,Werder Bremen,VfL Wolfsburg,False,2,2,D
+1048975,2023-11-12T16:30:00+00:00,162,Werder Bremen,Eintracht Frankfurt,True,2,2,D
+1048987,2023-11-25T14:30:00+00:00,162,Werder Bremen,Bayer Leverkusen,True,0,3,L
+1048996,2023-12-02T17:30:00+00:00,162,Werder Bremen,VfB Stuttgart,False,0,2,L
+1049004,2023-12-09T14:30:00+00:00,162,Werder Bremen,FC Augsburg,True,2,0,W
+1049012,2023-12-15T19:30:00+00:00,162,Werder Bremen,Borussia Monchengladbach,False,2,2,D
+1049022,2023-12-19T17:30:00+00:00,162,Werder Bremen,RB Leipzig,True,1,1,D
+1049031,2024-01-14T14:30:00+00:00,162,Werder Bremen,Vfl Bochum,False,1,1,D
+1049034,2024-01-21T14:30:00+00:00,162,Werder Bremen,Bayern Munich,False,1,0,W
+1049049,2024-01-27T14:30:00+00:00,162,Werder Bremen,SC Freiburg,True,3,1,W
+1049056,2024-02-03T14:30:00+00:00,162,Werder Bremen,FSV Mainz 05,False,1,0,W
+1049067,2024-02-10T14:30:00+00:00,162,Werder Bremen,FC Heidenheim,True,1,2,L
+1049074,2024-02-16T19:30:00+00:00,162,Werder Bremen,1. FC Köln,False,1,0,W
+1049085,2024-02-24T14:30:00+00:00,162,Werder Bremen,SV Darmstadt 98,True,1,1,D
+1049093,2024-03-03T16:30:00+00:00,162,Werder Bremen,1899 Hoffenheim,False,1,2,L
+1049102,2024-03-09T17:30:00+00:00,162,Werder Bremen,Borussia Dortmund,True,1,2,L
+1049107,2024-03-16T14:30:00+00:00,162,Werder Bremen,Union Berlin,False,1,2,L
+1049120,2024-03-30T14:30:00+00:00,162,Werder Bremen,VfL Wolfsburg,True,0,2,L
+1049127,2024-04-05T18:30:00+00:00,162,Werder Bremen,Eintracht Frankfurt,False,1,1,D
+1049135,2024-04-14T15:30:00+00:00,162,Werder Bremen,Bayer Leverkusen,False,0,5,L
+1049149,2024-04-21T13:30:00+00:00,162,Werder Bremen,VfB Stuttgart,True,2,1,W
+1049158,2024-04-27T13:30:00+00:00,162,Werder Bremen,FC Augsburg,False,3,0,W
+1049166,2024-05-04T13:30:00+00:00,162,Werder Bremen,Borussia Monchengladbach,True,2,2,D
+1049170,2024-05-11T13:30:00+00:00,162,Werder Bremen,RB Leipzig,False,1,1,D
+1049184,2024-05-18T13:30:00+00:00,162,Werder Bremen,Vfl Bochum,True,4,1,W
+1223980,2024-08-24T13:30:00+00:00,162,Werder Bremen,FC Augsburg,False,2,2,D
+1223989,2024-08-31T13:30:00+00:00,162,Werder Bremen,Borussia Dortmund,True,0,0,D
+1223999,2024-09-15T15:30:00+00:00,162,Werder Bremen,FSV Mainz 05,False,2,1,W
+1224006,2024-09-21T13:30:00+00:00,162,Werder Bremen,Bayern München,True,0,5,L
+1224014,2024-09-29T15:30:00+00:00,162,Werder Bremen,1899 Hoffenheim,False,4,3,W
+1224024,2024-10-05T13:30:00+00:00,162,Werder Bremen,SC Freiburg,True,0,1,L
+1224034,2024-10-20T15:30:00+00:00,162,Werder Bremen,VfL Wolfsburg,False,4,2,W
+1224041,2024-10-26T16:30:00+00:00,162,Werder Bremen,Bayer Leverkusen,True,2,2,D
+1224054,2024-11-03T16:30:00+00:00,162,Werder Bremen,Borussia Mönchengladbach,False,1,4,L
+1224059,2024-11-09T14:30:00+00:00,162,Werder Bremen,Holstein Kiel,True,2,1,W
+1224069,2024-11-23T17:30:00+00:00,162,Werder Bremen,Eintracht Frankfurt,False,0,1,L
+1224077,2024-11-30T14:30:00+00:00,162,Werder Bremen,VfB Stuttgart,True,2,2,D
+1224090,2024-12-07T14:30:00+00:00,162,Werder Bremen,VfL Bochum,False,1,0,W
+1224100,2024-12-14T17:30:00+00:00,162,Werder Bremen,FC St. Pauli,False,2,0,W
+1224106,2024-12-21T14:30:00+00:00,162,Werder Bremen,Union Berlin,True,4,1,W
+1224110,2025-01-12T14:30:00+00:00,162,Werder Bremen,RB Leipzig,False,2,4,L
+1224123,2025-01-15T19:30:00+00:00,162,Werder Bremen,1. FC Heidenheim,True,3,3,D
+1224133,2025-01-19T16:30:00+00:00,162,Werder Bremen,FC Augsburg,True,0,2,L
+1224138,2025-01-25T14:30:00+00:00,162,Werder Bremen,Borussia Dortmund,False,2,2,D
+1224151,2025-01-31T19:30:00+00:00,162,Werder Bremen,FSV Mainz 05,True,1,0,W
+1224155,2025-02-07T19:30:00+00:00,162,Werder Bremen,Bayern München,False,0,3,L
+1224168,2025-02-16T14:30:00+00:00,162,Werder Bremen,1899 Hoffenheim,True,1,3,L
+1224177,2025-02-21T19:30:00+00:00,162,Werder Bremen,SC Freiburg,False,0,5,L
+1224186,2025-03-01T14:30:00+00:00,162,Werder Bremen,VfL Wolfsburg,True,1,2,L
+1224191,2025-03-08T14:30:00+00:00,162,Werder Bremen,Bayer Leverkusen,False,2,0,W
+1224203,2025-03-15T14:30:00+00:00,162,Werder Bremen,Borussia Mönchengladbach,True,2,4,L
+1224217,2025-03-29T14:30:00+00:00,162,Werder Bremen,Holstein Kiel,False,3,0,W
+1224220,2025-04-05T16:30:00+00:00,162,Werder Bremen,Eintracht Frankfurt,True,2,0,W
+1224228,2025-04-13T13:30:00+00:00,162,Werder Bremen,VfB Stuttgart,False,2,1,W
+1224239,2025-04-19T13:30:00+00:00,162,Werder Bremen,VfL Bochum,True,1,0,W
+1224250,2025-04-27T15:30:00+00:00,162,Werder Bremen,FC St. Pauli,True,0,0,D
+1224261,2025-05-03T13:30:00+00:00,162,Werder Bremen,Union Berlin,False,2,2,D
+1224267,2025-05-10T13:30:00+00:00,162,Werder Bremen,RB Leipzig,True,0,0,D
+1224275,2025-05-17T13:30:00+00:00,162,Werder Bremen,1. FC Heidenheim,False,4,1,W

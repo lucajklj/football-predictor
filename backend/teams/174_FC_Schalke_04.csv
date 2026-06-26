@@ -1,0 +1,35 @@
+fixture_id,date,team_id,team_name,opponent,is_home,goals_scored,goals_conceded,result
+871167,2022-08-07T15:30:00+00:00,174,FC Schalke 04,1. FC Köln,False,1,3,L
+871180,2022-08-13T16:30:00+00:00,174,FC Schalke 04,Borussia Monchengladbach,True,2,2,D
+871187,2022-08-20T13:30:00+00:00,174,FC Schalke 04,VfL Wolfsburg,False,0,0,D
+871198,2022-08-27T13:30:00+00:00,174,FC Schalke 04,Union Berlin,True,1,6,L
+871208,2022-09-03T13:30:00+00:00,174,FC Schalke 04,VfB Stuttgart,False,1,1,D
+871216,2022-09-10T16:30:00+00:00,174,FC Schalke 04,Vfl Bochum,True,3,1,W
+871226,2022-09-17T13:30:00+00:00,174,FC Schalke 04,Borussia Dortmund,False,0,1,L
+871234,2022-10-02T15:30:00+00:00,174,FC Schalke 04,FC Augsburg,True,2,3,L
+871237,2022-10-08T13:30:00+00:00,174,FC Schalke 04,Bayer Leverkusen,False,0,4,L
+871252,2022-10-14T18:30:00+00:00,174,FC Schalke 04,1899 Hoffenheim,True,0,3,L
+871262,2022-10-23T15:30:00+00:00,174,FC Schalke 04,Hertha Berlin,False,1,2,L
+871270,2022-10-30T16:30:00+00:00,174,FC Schalke 04,SC Freiburg,True,0,2,L
+871280,2022-11-05T17:30:00+00:00,174,FC Schalke 04,Werder Bremen,False,1,2,L
+871289,2022-11-09T19:30:00+00:00,174,FC Schalke 04,FSV Mainz 05,True,1,0,W
+871297,2022-11-12T17:30:00+00:00,174,FC Schalke 04,Bayern Munich,True,0,2,L
+871304,2023-01-21T14:30:00+00:00,174,FC Schalke 04,Eintracht Frankfurt,False,0,3,L
+871315,2023-01-24T17:30:00+00:00,174,FC Schalke 04,RB Leipzig,True,1,6,L
+871324,2023-01-29T14:30:00+00:00,174,FC Schalke 04,1. FC Köln,True,0,0,D
+871329,2023-02-04T17:30:00+00:00,174,FC Schalke 04,Borussia Monchengladbach,False,0,0,D
+871342,2023-02-10T19:30:00+00:00,174,FC Schalke 04,VfL Wolfsburg,True,0,0,D
+871346,2023-02-19T14:30:00+00:00,174,FC Schalke 04,Union Berlin,False,0,0,D
+871360,2023-02-25T17:30:00+00:00,174,FC Schalke 04,VfB Stuttgart,True,2,1,W
+871368,2023-03-04T14:30:00+00:00,174,FC Schalke 04,Vfl Bochum,False,2,0,W
+871378,2023-03-11T17:30:00+00:00,174,FC Schalke 04,Borussia Dortmund,True,2,2,D
+871387,2023-03-18T14:30:00+00:00,174,FC Schalke 04,FC Augsburg,False,1,1,D
+871396,2023-04-01T13:30:00+00:00,174,FC Schalke 04,Bayer Leverkusen,True,0,3,L
+871402,2023-04-09T17:30:00+00:00,174,FC Schalke 04,1899 Hoffenheim,False,0,2,L
+871414,2023-04-14T18:30:00+00:00,174,FC Schalke 04,Hertha Berlin,True,5,2,W
+871418,2023-04-23T13:30:00+00:00,174,FC Schalke 04,SC Freiburg,False,0,4,L
+871433,2023-04-29T16:30:00+00:00,174,FC Schalke 04,Werder Bremen,True,2,1,W
+871437,2023-05-05T18:30:00+00:00,174,FC Schalke 04,FSV Mainz 05,False,3,2,W
+871443,2023-05-13T13:30:00+00:00,174,FC Schalke 04,Bayern Munich,False,0,6,L
+871459,2023-05-20T13:30:00+00:00,174,FC Schalke 04,Eintracht Frankfurt,True,2,2,D
+871462,2023-05-27T13:30:00+00:00,174,FC Schalke 04,RB Leipzig,False,2,4,L

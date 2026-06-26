@@ -1,0 +1,107 @@
+fixture_id,date,team_id,team_name,opponent,is_home,goals_scored,goals_conceded,result
+871479,2022-08-07T13:00:00+00:00,106,Stade Brestois 29,Lens,False,2,3,L
+871487,2022-08-14T18:45:00+00:00,106,Stade Brestois 29,Marseille,True,1,1,D
+871491,2022-08-21T13:00:00+00:00,106,Stade Brestois 29,Angers,False,3,1,W
+871507,2022-08-28T13:00:00+00:00,106,Stade Brestois 29,Montpellier,True,0,7,L
+871518,2022-08-31T19:00:00+00:00,106,Stade Brestois 29,Rennes,False,1,3,L
+871527,2022-09-04T13:00:00+00:00,106,Stade Brestois 29,Strasbourg,True,1,1,D
+871535,2022-09-10T15:00:00+00:00,106,Stade Brestois 29,Paris Saint Germain,False,0,1,L
+871548,2022-09-18T13:00:00+00:00,106,Stade Brestois 29,Ajaccio,True,0,1,L
+871551,2022-10-02T13:00:00+00:00,106,Stade Brestois 29,Auxerre,False,1,1,D
+871567,2022-10-09T13:00:00+00:00,106,Stade Brestois 29,Lorient,True,1,2,L
+871573,2022-10-16T13:00:00+00:00,106,Stade Brestois 29,Nantes,False,1,4,L
+871582,2022-10-23T13:00:00+00:00,106,Stade Brestois 29,Clermont Foot,False,3,1,W
+871598,2022-10-30T14:00:00+00:00,106,Stade Brestois 29,Reims,True,0,0,D
+871605,2022-11-06T14:00:00+00:00,106,Stade Brestois 29,Nice,False,0,1,L
+871618,2022-11-13T14:00:00+00:00,106,Stade Brestois 29,Estac Troyes,True,2,1,W
+871627,2022-12-28T20:00:00+00:00,106,Stade Brestois 29,Lyon,True,2,4,L
+871630,2023-01-01T14:00:00+00:00,106,Stade Brestois 29,Monaco,False,0,1,L
+871648,2023-01-11T18:00:00+00:00,106,Stade Brestois 29,Lille,True,0,0,D
+871659,2023-01-15T14:00:00+00:00,106,Stade Brestois 29,Toulouse,False,1,1,D
+871668,2023-01-29T14:00:00+00:00,106,Stade Brestois 29,Angers,True,4,0,W
+871671,2023-02-01T20:00:00+00:00,106,Stade Brestois 29,Lyon,False,0,0,D
+871687,2023-02-05T16:05:00+00:00,106,Stade Brestois 29,Lens,True,1,1,D
+871695,2023-02-12T14:00:00+00:00,106,Stade Brestois 29,Montpellier,False,0,3,L
+871706,2023-02-19T14:00:00+00:00,106,Stade Brestois 29,Monaco,True,1,2,L
+871716,2023-02-24T20:00:00+00:00,106,Stade Brestois 29,Lille,False,1,2,L
+871725,2023-03-05T14:00:00+00:00,106,Stade Brestois 29,Strasbourg,False,1,0,W
+871739,2023-03-11T20:00:00+00:00,106,Stade Brestois 29,Paris Saint Germain,True,1,2,L
+871749,2023-03-19T14:00:00+00:00,106,Stade Brestois 29,Estac Troyes,False,2,2,D
+871758,2023-04-02T13:00:00+00:00,106,Stade Brestois 29,Toulouse,True,3,1,W
+871768,2023-04-09T13:00:00+00:00,106,Stade Brestois 29,Reims,False,1,1,D
+871777,2023-04-16T13:00:00+00:00,106,Stade Brestois 29,Nice,True,1,0,W
+871780,2023-04-23T13:00:00+00:00,106,Stade Brestois 29,Ajaccio,False,0,0,D
+871796,2023-05-03T19:00:00+00:00,106,Stade Brestois 29,Nantes,True,2,0,W
+871803,2023-05-07T13:00:00+00:00,106,Stade Brestois 29,Lorient,False,1,2,L
+871817,2023-05-14T13:00:00+00:00,106,Stade Brestois 29,Auxerre,True,1,0,W
+871827,2023-05-21T13:00:00+00:00,106,Stade Brestois 29,Clermont Foot,True,2,1,W
+871835,2023-05-27T19:00:00+00:00,106,Stade Brestois 29,Marseille,False,2,1,W
+871847,2023-06-03T19:00:00+00:00,106,Stade Brestois 29,Rennes,True,1,2,L
+1044889,2023-08-13T11:00:00+00:00,106,Stade Brestois 29,Lens,True,3,2,W
+1044897,2023-08-20T13:00:00+00:00,106,Stade Brestois 29,Le Havre,False,2,1,W
+1044902,2023-08-26T17:00:00+00:00,106,Stade Brestois 29,Marseille,False,0,2,L
+1044916,2023-09-02T15:00:00+00:00,106,Stade Brestois 29,Rennes,True,0,0,D
+1044924,2023-09-17T13:00:00+00:00,106,Stade Brestois 29,Reims,False,2,1,W
+1044934,2023-09-23T19:00:00+00:00,106,Stade Brestois 29,Lyon,True,1,0,W
+1044940,2023-10-01T13:00:00+00:00,106,Stade Brestois 29,Nice,False,0,0,D
+1044952,2023-10-08T13:00:00+00:00,106,Stade Brestois 29,Toulouse,True,1,1,D
+1044957,2023-10-22T13:00:00+00:00,106,Stade Brestois 29,Lille,False,0,1,L
+1044970,2023-10-29T12:00:00+00:00,106,Stade Brestois 29,Paris Saint Germain,True,2,3,L
+1044976,2023-11-05T16:05:00+00:00,106,Stade Brestois 29,Monaco,False,0,2,L
+1044997,2023-11-26T14:00:00+00:00,106,Stade Brestois 29,Montpellier,False,3,1,W
+1045006,2023-12-03T14:00:00+00:00,106,Stade Brestois 29,Clermont Foot,True,3,0,W
+1044988,2023-12-07T19:30:00+00:00,106,Stade Brestois 29,Strasbourg,True,1,1,D
+1045014,2023-12-10T14:00:00+00:00,106,Stade Brestois 29,Metz,False,1,0,W
+1045022,2023-12-17T12:00:00+00:00,106,Stade Brestois 29,Nantes,False,2,0,W
+1045033,2023-12-20T20:00:00+00:00,106,Stade Brestois 29,Lorient,True,4,0,W
+1045041,2024-01-14T14:00:00+00:00,106,Stade Brestois 29,Montpellier,True,2,0,W
+1045043,2024-01-28T19:45:00+00:00,106,Stade Brestois 29,Paris Saint Germain,False,2,2,D
+1045060,2024-02-04T16:05:00+00:00,106,Stade Brestois 29,Nice,True,0,0,D
+1045066,2024-02-11T14:00:00+00:00,106,Stade Brestois 29,Clermont Foot,False,1,1,D
+1045078,2024-02-18T19:45:00+00:00,106,Stade Brestois 29,Marseille,True,1,0,W
+1045080,2024-02-24T20:00:00+00:00,106,Stade Brestois 29,Strasbourg,False,3,0,W
+1045096,2024-03-03T14:00:00+00:00,106,Stade Brestois 29,Le Havre,True,1,0,W
+1045103,2024-03-09T20:00:00+00:00,106,Stade Brestois 29,Lens,False,0,1,L
+1045114,2024-03-17T12:00:00+00:00,106,Stade Brestois 29,Lille,True,1,1,D
+1045117,2024-03-31T11:00:00+00:00,106,Stade Brestois 29,Lorient,False,1,0,W
+1045132,2024-04-07T11:00:00+00:00,106,Stade Brestois 29,Metz,True,4,3,W
+1045138,2024-04-14T18:45:00+00:00,106,Stade Brestois 29,Lyon,False,3,4,L
+1045150,2024-04-21T15:05:00+00:00,106,Stade Brestois 29,Monaco,True,0,2,L
+1045153,2024-04-28T15:05:00+00:00,106,Stade Brestois 29,Rennes,False,5,4,W
+1045168,2024-05-04T19:00:00+00:00,106,Stade Brestois 29,Nantes,True,0,0,D
+1045177,2024-05-10T19:00:00+00:00,106,Stade Brestois 29,Reims,True,1,1,D
+1045178,2024-05-19T19:00:00+00:00,106,Stade Brestois 29,Toulouse,False,3,0,W
+1213747,2024-08-17T15:00:00+00:00,106,Stade Brestois 29,Marseille,True,1,5,L
+1213762,2024-08-25T13:00:00+00:00,106,Stade Brestois 29,Lens,False,0,2,L
+1213767,2024-08-31T15:00:00+00:00,106,Stade Brestois 29,Saint Etienne,True,4,0,W
+1213782,2024-09-14T19:00:00+00:00,106,Stade Brestois 29,Paris Saint Germain,False,1,3,L
+1213786,2024-09-22T15:00:00+00:00,106,Stade Brestois 29,Toulouse,True,2,0,W
+1213794,2024-09-27T17:00:00+00:00,106,Stade Brestois 29,Auxerre,False,0,3,L
+1213805,2024-10-06T15:00:00+00:00,106,Stade Brestois 29,Le Havre,True,2,0,W
+1213817,2024-10-19T15:00:00+00:00,106,Stade Brestois 29,Rennes,True,1,1,D
+1213827,2024-10-26T17:00:00+00:00,106,Stade Brestois 29,Reims,False,2,1,W
+1213835,2024-11-02T18:00:00+00:00,106,Stade Brestois 29,Nice,True,0,1,L
+1213839,2024-11-10T16:00:00+00:00,106,Stade Brestois 29,Montpellier,False,1,3,L
+1213852,2024-11-22T18:00:00+00:00,106,Stade Brestois 29,Monaco,False,2,3,L
+1213859,2024-11-30T18:00:00+00:00,106,Stade Brestois 29,Strasbourg,True,3,1,W
+1213868,2024-12-06T18:00:00+00:00,106,Stade Brestois 29,Lille,False,1,3,L
+1213879,2024-12-15T16:00:00+00:00,106,Stade Brestois 29,Nantes,True,4,1,W
+1213886,2025-01-05T14:00:00+00:00,106,Stade Brestois 29,Angers,False,0,2,L
+1213897,2025-01-11T16:00:00+00:00,106,Stade Brestois 29,Lyon,True,2,1,W
+1213908,2025-01-18T18:00:00+00:00,106,Stade Brestois 29,Rennes,False,2,1,W
+1213913,2025-01-26T14:00:00+00:00,106,Stade Brestois 29,Le Havre,False,1,0,W
+1213919,2025-02-01T16:00:00+00:00,106,Stade Brestois 29,Paris Saint Germain,True,2,5,L
+1213928,2025-02-07T18:00:00+00:00,106,Stade Brestois 29,Nantes,False,2,0,W
+1213940,2025-02-14T19:45:00+00:00,106,Stade Brestois 29,Auxerre,True,2,2,D
+1213948,2025-02-23T16:15:00+00:00,106,Stade Brestois 29,Strasbourg,False,0,0,D
+1213956,2025-03-02T14:00:00+00:00,106,Stade Brestois 29,Lyon,False,1,2,L
+1213968,2025-03-09T14:00:00+00:00,106,Stade Brestois 29,Angers,True,2,0,W
+1213975,2025-03-16T16:15:00+00:00,106,Stade Brestois 29,Reims,True,0,0,D
+1213985,2025-03-30T13:00:00+00:00,106,Stade Brestois 29,Toulouse,False,4,2,W
+1213992,2025-04-05T17:00:00+00:00,106,Stade Brestois 29,Monaco,True,2,1,W
+1214004,2025-04-13T13:00:00+00:00,106,Stade Brestois 29,Saint Etienne,False,3,3,D
+1214010,2025-04-20T15:15:00+00:00,106,Stade Brestois 29,Lens,True,1,3,L
+1214024,2025-04-27T18:45:00+00:00,106,Stade Brestois 29,Marseille,False,1,4,L
+1214029,2025-05-04T15:15:00+00:00,106,Stade Brestois 29,Montpellier,True,1,0,W
+1214042,2025-05-10T19:00:00+00:00,106,Stade Brestois 29,Lille,True,2,0,W
+1214046,2025-05-17T19:00:00+00:00,106,Stade Brestois 29,Nice,False,0,6,L

@@ -1,0 +1,77 @@
+fixture_id,date,team_id,team_name,opponent,is_home,goals_scored,goals_conceded,result
+881786,2022-08-14T18:45:00+00:00,514,Salernitana,AS Roma,True,0,1,L
+881791,2022-08-20T16:30:00+00:00,514,Salernitana,Udinese,False,0,0,D
+881807,2022-08-28T16:30:00+00:00,514,Salernitana,Sampdoria,True,4,0,W
+881819,2022-09-01T18:45:00+00:00,514,Salernitana,Bologna,False,1,1,D
+881828,2022-09-05T16:30:00+00:00,514,Salernitana,Empoli,True,2,2,D
+881834,2022-09-11T18:45:00+00:00,514,Salernitana,Juventus,False,2,2,D
+881846,2022-09-16T18:45:00+00:00,514,Salernitana,Lecce,True,1,2,L
+881859,2022-10-02T13:00:00+00:00,514,Salernitana,Sassuolo,False,0,5,L
+881866,2022-10-09T13:00:00+00:00,514,Salernitana,Hellas Verona,True,2,1,W
+881873,2022-10-16T10:30:00+00:00,514,Salernitana,Inter,False,0,2,L
+881887,2022-10-22T13:00:00+00:00,514,Salernitana,Spezia,True,1,0,W
+881893,2022-10-30T17:00:00+00:00,514,Salernitana,Lazio,False,3,1,W
+881904,2022-11-05T14:00:00+00:00,514,Salernitana,Cremonese,True,2,2,D
+881911,2022-11-09T19:45:00+00:00,514,Salernitana,Fiorentina,False,1,2,L
+881926,2022-11-13T14:00:00+00:00,514,Salernitana,Monza,False,0,3,L
+881938,2023-01-04T11:30:00+00:00,514,Salernitana,AC Milan,True,1,2,L
+881947,2023-01-08T11:30:00+00:00,514,Salernitana,Torino,True,1,1,D
+881950,2023-01-15T17:00:00+00:00,514,Salernitana,Atalanta,False,2,8,L
+881967,2023-01-21T17:00:00+00:00,514,Salernitana,Napoli,True,0,2,L
+881975,2023-01-27T19:45:00+00:00,514,Salernitana,Lecce,False,2,1,W
+881986,2023-02-07T19:45:00+00:00,514,Salernitana,Juventus,True,0,3,L
+881992,2023-02-13T17:30:00+00:00,514,Salernitana,Hellas Verona,False,0,1,L
+882005,2023-02-19T14:00:00+00:00,514,Salernitana,Lazio,True,0,2,L
+882018,2023-02-26T14:00:00+00:00,514,Salernitana,Monza,True,3,0,W
+882026,2023-03-05T14:00:00+00:00,514,Salernitana,Sampdoria,False,0,0,D
+882036,2023-03-13T19:45:00+00:00,514,Salernitana,AC Milan,False,1,1,D
+882045,2023-03-18T17:00:00+00:00,514,Salernitana,Bologna,True,2,2,D
+882059,2023-04-02T13:00:00+00:00,514,Salernitana,Spezia,False,1,1,D
+882066,2023-04-07T15:00:00+00:00,514,Salernitana,Inter,True,1,1,D
+882079,2023-04-16T13:00:00+00:00,514,Salernitana,Torino,False,1,1,D
+882084,2023-04-22T13:00:00+00:00,514,Salernitana,Sassuolo,True,3,0,W
+882095,2023-04-30T13:00:00+00:00,514,Salernitana,Napoli,False,1,1,D
+882108,2023-05-03T16:00:00+00:00,514,Salernitana,Fiorentina,True,3,3,D
+882112,2023-05-08T16:30:00+00:00,514,Salernitana,Empoli,False,1,2,L
+882126,2023-05-13T13:00:00+00:00,514,Salernitana,Atalanta,True,1,0,W
+882134,2023-05-22T16:30:00+00:00,514,Salernitana,AS Roma,False,2,2,D
+882143,2023-05-27T13:00:00+00:00,514,Salernitana,Udinese,True,3,2,W
+882151,2023-06-03T19:00:00+00:00,514,Salernitana,Cremonese,False,0,2,L
+1052259,2023-08-20T16:30:00+00:00,514,Salernitana,AS Roma,False,2,2,D
+1052272,2023-08-28T16:30:00+00:00,514,Salernitana,Udinese,True,1,1,D
+1052277,2023-09-03T18:45:00+00:00,514,Salernitana,Lecce,False,0,2,L
+1052292,2023-09-18T16:30:00+00:00,514,Salernitana,Torino,True,0,3,L
+1052299,2023-09-22T16:30:00+00:00,514,Salernitana,Frosinone,True,1,1,D
+1052304,2023-09-27T16:30:00+00:00,514,Salernitana,Empoli,False,0,1,L
+1052319,2023-09-30T18:45:00+00:00,514,Salernitana,Inter,True,0,4,L
+1052331,2023-10-08T10:30:00+00:00,514,Salernitana,Monza,False,0,3,L
+1052339,2023-10-22T13:00:00+00:00,514,Salernitana,Cagliari,True,2,2,D
+1052345,2023-10-27T18:45:00+00:00,514,Salernitana,Genoa,False,0,1,L
+1052361,2023-11-04T14:00:00+00:00,514,Salernitana,Napoli,True,0,2,L
+1052371,2023-11-10T17:30:00+00:00,514,Salernitana,Sassuolo,False,2,2,D
+1052382,2023-11-25T14:00:00+00:00,514,Salernitana,Lazio,True,2,1,W
+1052383,2023-12-03T14:00:00+00:00,514,Salernitana,Fiorentina,False,0,3,L
+1052402,2023-12-10T17:00:00+00:00,514,Salernitana,Bologna,True,1,2,L
+1052403,2023-12-18T19:45:00+00:00,514,Salernitana,Atalanta,False,1,4,L
+1052420,2023-12-22T19:45:00+00:00,514,Salernitana,AC Milan,True,2,2,D
+1052427,2023-12-30T17:00:00+00:00,514,Salernitana,Hellas Verona,False,1,0,W
+1052439,2024-01-07T17:00:00+00:00,514,Salernitana,Juventus,True,1,2,L
+1052452,2024-01-13T14:00:00+00:00,514,Salernitana,Napoli,False,1,2,L
+1052459,2024-01-21T17:00:00+00:00,514,Salernitana,Genoa,True,1,2,L
+1052472,2024-01-29T19:45:00+00:00,514,Salernitana,AS Roma,True,1,2,L
+1052481,2024-02-04T11:30:00+00:00,514,Salernitana,Torino,False,0,0,D
+1052491,2024-02-09T19:45:00+00:00,514,Salernitana,Empoli,True,1,3,L
+1052497,2024-02-16T20:00:00+00:00,514,Salernitana,Inter,False,0,4,L
+1052511,2024-02-24T17:00:00+00:00,514,Salernitana,Monza,True,0,2,L
+1052522,2024-03-02T14:00:00+00:00,514,Salernitana,Udinese,False,1,1,D
+1052524,2024-03-09T14:00:00+00:00,514,Salernitana,Cagliari,False,2,4,L
+1052541,2024-03-16T17:00:00+00:00,514,Salernitana,Lecce,True,0,1,L
+1052543,2024-04-01T10:30:00+00:00,514,Salernitana,Bologna,False,0,3,L
+1052561,2024-04-05T18:45:00+00:00,514,Salernitana,Sassuolo,True,2,2,D
+1052567,2024-04-12T18:45:00+00:00,514,Salernitana,Lazio,False,1,4,L
+1052580,2024-04-21T16:00:00+00:00,514,Salernitana,Fiorentina,True,0,2,L
+1052586,2024-04-26T18:45:00+00:00,514,Salernitana,Frosinone,False,0,3,L
+1052599,2024-05-06T16:00:00+00:00,514,Salernitana,Atalanta,True,1,2,L
+1052608,2024-05-12T16:00:00+00:00,514,Salernitana,Juventus,False,1,1,D
+1052619,2024-05-20T16:30:00+00:00,514,Salernitana,Hellas Verona,True,1,2,L
+1052631,2024-05-25T18:45:00+00:00,514,Salernitana,AC Milan,False,3,3,D

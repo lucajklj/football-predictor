@@ -1,0 +1,39 @@
+fixture_id,date,team_id,team_name,opponent,is_home,goals_scored,goals_conceded,result
+1208502,2024-08-17T17:00:00+00:00,537,Leganes,Osasuna,False,1,1,D
+1208509,2024-08-25T17:00:00+00:00,537,Leganes,Las Palmas,True,2,1,W
+1208520,2024-08-28T17:00:00+00:00,537,Leganes,Valladolid,False,0,0,D
+1208526,2024-08-31T19:30:00+00:00,537,Leganes,Mallorca,True,0,1,L
+1208531,2024-09-13T19:00:00+00:00,537,Leganes,Real Betis,False,0,2,L
+1208552,2024-09-19T17:00:00+00:00,537,Leganes,Athletic Club,True,0,2,L
+1208541,2024-09-22T12:00:00+00:00,537,Leganes,Getafe,False,1,1,D
+1208565,2024-09-28T14:15:00+00:00,537,Leganes,Rayo Vallecano,False,1,1,D
+1208569,2024-10-04T19:00:00+00:00,537,Leganes,Valencia,True,0,0,D
+1208575,2024-10-20T14:15:00+00:00,537,Leganes,Atletico Madrid,False,1,3,L
+1208588,2024-10-27T12:00:00+00:00,537,Leganes,Celta Vigo,True,3,0,W
+1208596,2024-11-02T15:15:00+00:00,537,Leganes,Girona,False,3,4,L
+1208604,2024-11-09T20:00:00+00:00,537,Leganes,Sevilla,True,1,0,W
+1208615,2024-11-24T17:30:00+00:00,537,Leganes,Real Madrid,True,0,3,L
+1208622,2024-11-30T15:15:00+00:00,537,Leganes,Alaves,False,1,1,D
+1208634,2024-12-08T13:00:00+00:00,537,Leganes,Real Sociedad,True,0,3,L
+1208639,2024-12-15T20:00:00+00:00,537,Leganes,Barcelona,False,1,0,W
+1208652,2024-12-22T17:30:00+00:00,537,Leganes,Villarreal,True,2,5,L
+1212928,2025-01-11T17:30:00+00:00,537,Leganes,Espanyol,False,1,1,D
+1208668,2025-01-18T15:15:00+00:00,537,Leganes,Atletico Madrid,True,1,0,W
+1208674,2025-01-26T17:30:00+00:00,537,Leganes,Athletic Club,False,0,0,D
+1208688,2025-01-31T20:00:00+00:00,537,Leganes,Rayo Vallecano,True,0,1,L
+1208700,2025-02-09T15:15:00+00:00,537,Leganes,Valencia,False,0,2,L
+1208709,2025-02-15T13:00:00+00:00,537,Leganes,Alaves,True,3,3,D
+1208718,2025-02-23T20:00:00+00:00,537,Leganes,Real Sociedad,False,0,3,L
+1208725,2025-03-02T13:00:00+00:00,537,Leganes,Getafe,True,1,0,W
+1208731,2025-03-08T13:00:00+00:00,537,Leganes,Celta Vigo,False,1,2,L
+1208741,2025-03-16T13:00:00+00:00,537,Leganes,Real Betis,True,2,3,L
+1208754,2025-03-29T20:00:00+00:00,537,Leganes,Real Madrid,False,2,3,L
+1208758,2025-04-07T19:00:00+00:00,537,Leganes,Osasuna,True,1,1,D
+1208769,2025-04-12T19:00:00+00:00,537,Leganes,Barcelona,True,0,1,L
+1208781,2025-04-19T16:30:00+00:00,537,Leganes,Mallorca,False,0,0,D
+1208790,2025-04-24T17:00:00+00:00,537,Leganes,Girona,True,1,1,D
+1208799,2025-05-04T14:15:00+00:00,537,Leganes,Sevilla,False,2,2,D
+1212944,2025-05-11T12:00:00+00:00,537,Leganes,Espanyol,True,3,2,W
+1208817,2025-05-14T17:00:00+00:00,537,Leganes,Villarreal,False,0,3,L
+1208826,2025-05-18T17:00:00+00:00,537,Leganes,Las Palmas,False,1,0,W
+1208831,2025-05-24T16:30:00+00:00,537,Leganes,Valladolid,True,3,0,W

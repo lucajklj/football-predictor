@@ -1,0 +1,107 @@
+fixture_id,date,team_id,team_name,opponent,is_home,goals_scored,goals_conceded,result
+871478,2022-08-07T18:45:00+00:00,81,Marseille,Reims,True,4,1,W
+871487,2022-08-14T18:45:00+00:00,81,Marseille,Stade Brestois 29,False,1,1,D
+871496,2022-08-20T19:00:00+00:00,81,Marseille,Nantes,True,2,1,W
+871504,2022-08-28T13:00:00+00:00,81,Marseille,Nice,False,3,0,W
+871515,2022-08-31T19:00:00+00:00,81,Marseille,Clermont Foot,True,1,0,W
+871521,2022-09-03T15:00:00+00:00,81,Marseille,Auxerre,False,2,0,W
+871534,2022-09-10T19:00:00+00:00,81,Marseille,Lille,True,2,1,W
+871547,2022-09-18T13:00:00+00:00,81,Marseille,Rennes,True,1,1,D
+871553,2022-09-30T19:00:00+00:00,81,Marseille,Angers,False,3,0,W
+871566,2022-10-08T15:00:00+00:00,81,Marseille,Ajaccio,True,1,2,L
+871574,2022-10-16T18:45:00+00:00,81,Marseille,Paris Saint Germain,False,0,1,L
+871586,2022-10-22T19:00:00+00:00,81,Marseille,Lens,True,0,1,L
+871597,2022-10-29T19:00:00+00:00,81,Marseille,Strasbourg,False,2,2,D
+871606,2022-11-06T19:45:00+00:00,81,Marseille,Lyon,True,1,0,W
+871610,2022-11-13T19:45:00+00:00,81,Marseille,Monaco,False,3,2,W
+871625,2022-12-29T20:00:00+00:00,81,Marseille,Toulouse,True,6,1,W
+871638,2023-01-02T18:00:00+00:00,81,Marseille,Montpellier,False,2,1,W
+871649,2023-01-11T20:00:00+00:00,81,Marseille,Estac Troyes,False,2,0,W
+871655,2023-01-14T18:00:00+00:00,81,Marseille,Lorient,True,3,1,W
+871665,2023-01-28T20:00:00+00:00,81,Marseille,Monaco,True,1,1,D
+871670,2023-02-01T18:00:00+00:00,81,Marseille,Nantes,False,2,0,W
+871684,2023-02-05T19:45:00+00:00,81,Marseille,Nice,True,1,3,L
+871692,2023-02-11T20:00:00+00:00,81,Marseille,Clermont Foot,False,2,0,W
+871708,2023-02-19T19:45:00+00:00,81,Marseille,Toulouse,False,3,2,W
+871718,2023-02-26T19:45:00+00:00,81,Marseille,Paris Saint Germain,True,0,3,L
+871726,2023-03-05T19:45:00+00:00,81,Marseille,Rennes,False,1,0,W
+871738,2023-03-12T19:45:00+00:00,81,Marseille,Strasbourg,True,2,2,D
+871747,2023-03-19T19:45:00+00:00,81,Marseille,Reims,False,2,1,W
+871756,2023-03-31T19:00:00+00:00,81,Marseille,Montpellier,True,1,1,D
+871762,2023-04-09T18:45:00+00:00,81,Marseille,Lorient,False,0,0,D
+871774,2023-04-16T18:45:00+00:00,81,Marseille,Estac Troyes,True,3,1,W
+871787,2023-04-23T18:45:00+00:00,81,Marseille,Lyon,False,2,1,W
+871793,2023-04-30T18:45:00+00:00,81,Marseille,Auxerre,True,2,1,W
+871807,2023-05-06T19:00:00+00:00,81,Marseille,Lens,False,1,2,L
+871813,2023-05-14T18:45:00+00:00,81,Marseille,Angers,True,3,1,W
+871824,2023-05-20T19:00:00+00:00,81,Marseille,Lille,False,1,2,L
+871835,2023-05-27T19:00:00+00:00,81,Marseille,Stade Brestois 29,True,1,2,L
+871840,2023-06-03T19:00:00+00:00,81,Marseille,Ajaccio,False,0,1,L
+1044884,2023-08-12T15:00:00+00:00,81,Marseille,Reims,True,2,1,W
+1044898,2023-08-18T19:00:00+00:00,81,Marseille,Metz,False,2,2,D
+1044902,2023-08-26T17:00:00+00:00,81,Marseille,Stade Brestois 29,True,2,0,W
+1044913,2023-09-01T19:00:00+00:00,81,Marseille,Nantes,False,1,1,D
+1044920,2023-09-17T15:05:00+00:00,81,Marseille,Toulouse,True,0,0,D
+1044926,2023-09-24T18:45:00+00:00,81,Marseille,Paris Saint Germain,False,0,4,L
+1044939,2023-09-30T19:00:00+00:00,81,Marseille,Monaco,False,2,3,L
+1044946,2023-10-08T11:00:00+00:00,81,Marseille,Le Havre,True,3,0,W
+1044959,2023-10-21T19:00:00+00:00,81,Marseille,Nice,False,0,1,L
+1044974,2023-11-04T20:00:00+00:00,81,Marseille,Lille,True,0,0,D
+1044984,2023-11-12T19:45:00+00:00,81,Marseille,Lens,False,0,1,L
+1044990,2023-11-25T20:00:00+00:00,81,Marseille,Strasbourg,False,1,1,D
+1044999,2023-12-03T19:45:00+00:00,81,Marseille,Rennes,True,2,0,W
+1044963,2023-12-06T20:00:00+00:00,81,Marseille,Lyon,True,3,0,W
+1045010,2023-12-10T19:45:00+00:00,81,Marseille,Lorient,False,4,2,W
+1045017,2023-12-17T16:05:00+00:00,81,Marseille,Clermont Foot,True,2,1,W
+1045032,2023-12-20T20:00:00+00:00,81,Marseille,Montpellier,False,1,1,D
+1045035,2024-01-12T20:00:00+00:00,81,Marseille,Strasbourg,True,1,1,D
+1045045,2024-01-27T20:00:00+00:00,81,Marseille,Monaco,True,2,2,D
+1045056,2024-02-04T19:45:00+00:00,81,Marseille,Lyon,False,0,1,L
+1045063,2024-02-09T20:00:00+00:00,81,Marseille,Metz,True,1,1,D
+1045078,2024-02-18T19:45:00+00:00,81,Marseille,Stade Brestois 29,False,0,1,L
+1045082,2024-02-25T19:45:00+00:00,81,Marseille,Montpellier,True,4,1,W
+1045092,2024-03-02T20:00:00+00:00,81,Marseille,Clermont Foot,False,5,1,W
+1045099,2024-03-10T19:45:00+00:00,81,Marseille,Nantes,True,2,0,W
+1045106,2024-03-17T16:05:00+00:00,81,Marseille,Rennes,False,0,2,L
+1045116,2024-03-31T18:45:00+00:00,81,Marseille,Paris Saint Germain,True,0,2,L
+1045127,2024-04-05T19:00:00+00:00,81,Marseille,Lille,False,1,3,L
+1045143,2024-04-21T17:00:00+00:00,81,Marseille,Toulouse,False,2,2,D
+1045135,2024-04-24T19:00:00+00:00,81,Marseille,Nice,True,2,2,D
+1045154,2024-04-28T19:00:00+00:00,81,Marseille,Lens,True,2,1,W
+1045172,2024-05-12T19:00:00+00:00,81,Marseille,Lorient,True,3,1,W
+1045164,2024-05-15T19:00:00+00:00,81,Marseille,Reims,False,0,1,L
+1045185,2024-05-19T19:00:00+00:00,81,Marseille,Le Havre,False,2,1,W
+1213747,2024-08-17T15:00:00+00:00,81,Marseille,Stade Brestois 29,False,5,1,W
+1213764,2024-08-25T18:45:00+00:00,81,Marseille,Reims,True,2,2,D
+1213773,2024-08-31T19:00:00+00:00,81,Marseille,Toulouse,False,3,1,W
+1213781,2024-09-14T15:00:00+00:00,81,Marseille,Nice,True,2,0,W
+1213783,2024-09-22T18:45:00+00:00,81,Marseille,Lyon,False,3,2,W
+1213792,2024-09-29T18:45:00+00:00,81,Marseille,Strasbourg,False,0,1,L
+1213806,2024-10-04T18:45:00+00:00,81,Marseille,Angers,True,1,1,D
+1213814,2024-10-20T18:45:00+00:00,81,Marseille,Montpellier,False,5,0,W
+1213821,2024-10-27T19:45:00+00:00,81,Marseille,Paris Saint Germain,True,0,3,L
+1213832,2024-11-03T19:45:00+00:00,81,Marseille,Nantes,False,2,1,W
+1213837,2024-11-08T19:45:00+00:00,81,Marseille,Auxerre,True,1,3,L
+1213847,2024-11-23T16:00:00+00:00,81,Marseille,Lens,False,3,1,W
+1213862,2024-12-01T19:45:00+00:00,81,Marseille,Monaco,True,2,1,W
+1213866,2024-12-08T19:45:00+00:00,81,Marseille,Saint Etienne,False,2,0,W
+1213880,2024-12-14T16:00:00+00:00,81,Marseille,Lille,True,1,1,D
+1213888,2025-01-05T19:45:00+00:00,81,Marseille,Le Havre,True,5,1,W
+1213899,2025-01-11T20:05:00+00:00,81,Marseille,Rennes,False,2,1,W
+1213900,2025-01-19T19:45:00+00:00,81,Marseille,Strasbourg,True,1,1,D
+1213917,2025-01-26T19:45:00+00:00,81,Marseille,Nice,False,0,2,L
+1213918,2025-02-02T19:45:00+00:00,81,Marseille,Lyon,True,3,2,W
+1213934,2025-02-09T19:45:00+00:00,81,Marseille,Angers,False,2,0,W
+1213937,2025-02-15T16:00:00+00:00,81,Marseille,Saint Etienne,True,5,1,W
+1213951,2025-02-22T20:05:00+00:00,81,Marseille,Auxerre,False,0,3,L
+1213955,2025-03-02T19:45:00+00:00,81,Marseille,Nantes,True,2,0,W
+1213971,2025-03-08T20:05:00+00:00,81,Marseille,Lens,True,0,1,L
+1213972,2025-03-16T19:45:00+00:00,81,Marseille,Paris Saint Germain,False,1,3,L
+1213987,2025-03-29T16:00:00+00:00,81,Marseille,Reims,False,1,3,L
+1213990,2025-04-06T18:45:00+00:00,81,Marseille,Toulouse,True,3,2,W
+1214007,2025-04-12T15:00:00+00:00,81,Marseille,Monaco,False,0,3,L
+1214013,2025-04-19T19:05:00+00:00,81,Marseille,Montpellier,True,5,1,W
+1214024,2025-04-27T18:45:00+00:00,81,Marseille,Stade Brestois 29,True,4,1,W
+1214027,2025-05-04T18:45:00+00:00,81,Marseille,Lille,False,1,1,D
+1214038,2025-05-10T19:00:00+00:00,81,Marseille,Le Havre,False,3,1,W
+1214044,2025-05-17T19:00:00+00:00,81,Marseille,Rennes,True,4,2,W

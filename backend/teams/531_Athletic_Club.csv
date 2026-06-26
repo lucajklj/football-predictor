@@ -1,0 +1,115 @@
+fixture_id,date,team_id,team_name,opponent,is_home,goals_scored,goals_conceded,result
+877942,2022-08-15T15:30:00+00:00,531,Athletic Club,Mallorca,True,0,0,D
+877952,2022-08-21T15:30:00+00:00,531,Athletic Club,Valencia,True,1,0,W
+877968,2022-08-29T18:00:00+00:00,531,Athletic Club,Cadiz,False,4,0,W
+877972,2022-09-04T14:15:00+00:00,531,Athletic Club,Espanyol,True,0,1,L
+877989,2022-09-11T14:15:00+00:00,531,Athletic Club,Elche,False,4,1,W
+877992,2022-09-17T19:00:00+00:00,531,Athletic Club,Rayo Vallecano,True,3,2,W
+878011,2022-09-30T19:00:00+00:00,531,Athletic Club,Almeria,True,4,0,W
+878020,2022-10-08T16:30:00+00:00,531,Athletic Club,Sevilla,False,1,1,D
+878022,2022-10-15T19:00:00+00:00,531,Athletic Club,Atletico Madrid,True,0,1,L
+878037,2022-10-18T18:00:00+00:00,531,Athletic Club,Getafe,False,2,2,D
+878045,2022-10-23T19:00:00+00:00,531,Athletic Club,Barcelona,False,0,4,L
+878052,2022-10-30T17:30:00+00:00,531,Athletic Club,Villarreal,True,1,0,W
+878067,2022-11-04T20:00:00+00:00,531,Athletic Club,Girona,False,1,2,L
+878072,2022-11-08T19:00:00+00:00,531,Athletic Club,Valladolid,True,3,0,W
+878087,2022-12-29T18:15:00+00:00,531,Athletic Club,Real Betis,False,0,0,D
+878092,2023-01-09T20:00:00+00:00,531,Athletic Club,Osasuna,True,0,0,D
+878107,2023-01-14T20:00:00+00:00,531,Athletic Club,Real Sociedad,False,1,3,L
+878112,2023-01-22T20:00:00+00:00,531,Athletic Club,Real Madrid,True,0,2,L
+878125,2023-01-29T17:30:00+00:00,531,Athletic Club,Celta Vigo,False,0,1,L
+878132,2023-02-03T20:00:00+00:00,531,Athletic Club,Cadiz,True,4,1,W
+878146,2023-02-11T20:00:00+00:00,531,Athletic Club,Valencia,False,2,1,W
+878159,2023-02-19T17:30:00+00:00,531,Athletic Club,Atletico Madrid,False,0,1,L
+878162,2023-02-26T13:00:00+00:00,531,Athletic Club,Girona,True,2,3,L
+878177,2023-03-05T17:30:00+00:00,531,Athletic Club,Rayo Vallecano,False,0,0,D
+878182,2023-03-12T20:00:00+00:00,531,Athletic Club,Barcelona,True,0,1,L
+878198,2023-03-17T20:00:00+00:00,531,Athletic Club,Valladolid,False,3,1,W
+878202,2023-04-01T14:15:00+00:00,531,Athletic Club,Getafe,True,0,0,D
+878216,2023-04-08T14:15:00+00:00,531,Athletic Club,Espanyol,False,2,1,W
+878222,2023-04-15T14:15:00+00:00,531,Athletic Club,Real Sociedad,True,2,0,W
+878234,2023-04-22T14:15:00+00:00,531,Athletic Club,Almeria,False,2,1,W
+878242,2023-04-27T20:00:00+00:00,531,Athletic Club,Sevilla,True,0,1,L
+878257,2023-05-01T17:00:00+00:00,531,Athletic Club,Mallorca,False,1,1,D
+878262,2023-05-04T20:00:00+00:00,531,Athletic Club,Real Betis,True,0,1,L
+878274,2023-05-13T16:30:00+00:00,531,Athletic Club,Villarreal,False,1,5,L
+878282,2023-05-20T14:15:00+00:00,531,Athletic Club,Celta Vigo,True,2,1,W
+878296,2023-05-25T19:30:00+00:00,531,Athletic Club,Osasuna,False,0,2,L
+878302,2023-05-28T17:00:00+00:00,531,Athletic Club,Elche,True,0,1,L
+878315,2023-06-04T16:30:00+00:00,531,Athletic Club,Real Madrid,False,1,1,D
+1037953,2023-08-12T19:30:00+00:00,531,Athletic Club,Real Madrid,True,0,2,L
+1037967,2023-08-19T19:30:00+00:00,531,Athletic Club,Osasuna,False,2,0,W
+1037972,2023-08-27T19:30:00+00:00,531,Athletic Club,Real Betis,True,4,2,W
+1037988,2023-09-03T14:15:00+00:00,531,Athletic Club,Mallorca,False,0,0,D
+1037992,2023-09-16T12:00:00+00:00,531,Athletic Club,Cadiz,True,3,0,W
+1038009,2023-09-22T19:00:00+00:00,531,Athletic Club,Alaves,False,2,0,W
+1038012,2023-09-27T17:00:00+00:00,531,Athletic Club,Getafe,True,2,2,D
+1038029,2023-09-30T19:00:00+00:00,531,Athletic Club,Real Sociedad,False,0,3,L
+1038037,2023-10-06T19:00:00+00:00,531,Athletic Club,Almeria,True,3,0,W
+1038044,2023-10-22T19:00:00+00:00,531,Athletic Club,Barcelona,False,0,1,L
+1038053,2023-10-29T17:30:00+00:00,531,Athletic Club,Valencia,True,2,2,D
+1038065,2023-11-05T17:30:00+00:00,531,Athletic Club,Villarreal,False,3,2,W
+1038073,2023-11-10T20:00:00+00:00,531,Athletic Club,Celta Vigo,True,4,3,W
+1038088,2023-11-27T20:00:00+00:00,531,Athletic Club,Girona,False,1,1,D
+1038093,2023-12-02T15:15:00+00:00,531,Athletic Club,Rayo Vallecano,True,4,0,W
+1038109,2023-12-11T15:15:00+00:00,531,Athletic Club,Granada CF,False,1,1,D
+1038113,2023-12-16T15:15:00+00:00,531,Athletic Club,Atletico Madrid,True,2,0,W
+1038122,2023-12-20T20:30:00+00:00,531,Athletic Club,Las Palmas,True,1,0,W
+1038135,2024-01-04T18:15:00+00:00,531,Athletic Club,Sevilla,False,2,0,W
+1038143,2024-01-13T17:30:00+00:00,531,Athletic Club,Real Sociedad,True,2,1,W
+1038156,2024-01-20T17:30:00+00:00,531,Athletic Club,Valencia,False,0,1,L
+1038167,2024-01-28T15:15:00+00:00,531,Athletic Club,Cadiz,False,0,0,D
+1038172,2024-02-02T20:00:00+00:00,531,Athletic Club,Mallorca,True,4,0,W
+1038182,2024-02-12T20:00:00+00:00,531,Athletic Club,Almeria,False,0,0,D
+1038192,2024-02-19T20:00:00+00:00,531,Athletic Club,Girona,True,3,2,W
+1038211,2024-02-25T15:15:00+00:00,531,Athletic Club,Real Betis,False,1,3,L
+1038212,2024-03-03T20:00:00+00:00,531,Athletic Club,Barcelona,True,0,0,D
+1038228,2024-03-10T15:15:00+00:00,531,Athletic Club,Las Palmas,False,2,0,W
+1038241,2024-03-16T20:00:00+00:00,531,Athletic Club,Alaves,True,2,0,W
+1038248,2024-03-31T19:00:00+00:00,531,Athletic Club,Real Madrid,False,0,2,L
+1038252,2024-04-14T16:30:00+00:00,531,Athletic Club,Villarreal,True,1,1,D
+1038263,2024-04-19T19:00:00+00:00,531,Athletic Club,Granada CF,True,1,1,D
+1038278,2024-04-27T19:00:00+00:00,531,Athletic Club,Atletico Madrid,False,1,3,L
+1038284,2024-05-03T19:00:00+00:00,531,Athletic Club,Getafe,False,2,0,W
+1038292,2024-05-11T19:00:00+00:00,531,Athletic Club,Osasuna,True,2,2,D
+1038305,2024-05-15T20:00:00+00:00,531,Athletic Club,Celta Vigo,False,1,2,L
+1038312,2024-05-19T17:00:00+00:00,531,Athletic Club,Sevilla,True,2,0,W
+1038327,2024-05-25T16:30:00+00:00,531,Athletic Club,Rayo Vallecano,False,1,0,W
+1208494,2024-08-15T17:00:00+00:00,531,Athletic Club,Getafe,True,1,1,D
+1208510,2024-08-24T17:00:00+00:00,531,Athletic Club,Barcelona,False,1,2,L
+1208512,2024-08-28T17:00:00+00:00,531,Athletic Club,Valencia,True,1,0,W
+1208521,2024-08-31T17:00:00+00:00,531,Athletic Club,Atletico Madrid,True,0,1,L
+1208534,2024-09-15T16:30:00+00:00,531,Athletic Club,Las Palmas,False,3,2,W
+1208552,2024-09-19T17:00:00+00:00,531,Athletic Club,Leganes,False,2,0,W
+1208539,2024-09-22T14:15:00+00:00,531,Athletic Club,Celta Vigo,True,3,1,W
+1208557,2024-09-29T14:15:00+00:00,531,Athletic Club,Sevilla,True,1,1,D
+1208570,2024-10-06T12:00:00+00:00,531,Athletic Club,Girona,False,1,2,L
+1212919,2024-10-19T12:00:00+00:00,531,Athletic Club,Espanyol,True,4,1,W
+1208585,2024-10-28T20:00:00+00:00,531,Athletic Club,Mallorca,False,0,0,D
+1208593,2024-11-03T20:00:00+00:00,531,Athletic Club,Real Betis,True,1,1,D
+1208605,2024-11-10T17:30:00+00:00,531,Athletic Club,Valladolid,False,1,1,D
+1208611,2024-11-24T20:00:00+00:00,531,Athletic Club,Real Sociedad,True,1,0,W
+1208623,2024-12-01T17:30:00+00:00,531,Athletic Club,Rayo Vallecano,False,2,1,W
+1208656,2024-12-04T20:00:00+00:00,531,Athletic Club,Real Madrid,True,2,1,W
+1208629,2024-12-08T15:15:00+00:00,531,Athletic Club,Villarreal,True,2,0,W
+1208641,2024-12-15T15:15:00+00:00,531,Athletic Club,Alaves,False,1,1,D
+1208653,2024-12-21T17:30:00+00:00,531,Athletic Club,Osasuna,False,2,1,W
+1208667,2025-01-19T13:00:00+00:00,531,Athletic Club,Celta Vigo,False,2,1,W
+1208674,2025-01-26T17:30:00+00:00,531,Athletic Club,Leganes,True,0,0,D
+1208689,2025-02-02T20:00:00+00:00,531,Athletic Club,Real Betis,False,2,2,D
+1208692,2025-02-08T15:15:00+00:00,531,Athletic Club,Girona,True,3,0,W
+1212933,2025-02-16T13:00:00+00:00,531,Athletic Club,Espanyol,False,1,1,D
+1208710,2025-02-23T13:00:00+00:00,531,Athletic Club,Valladolid,True,7,1,W
+1208723,2025-03-01T20:00:00+00:00,531,Athletic Club,Atletico Madrid,False,0,1,L
+1208728,2025-03-09T17:30:00+00:00,531,Athletic Club,Mallorca,True,1,1,D
+1208740,2025-03-16T15:15:00+00:00,531,Athletic Club,Sevilla,False,1,0,W
+1208746,2025-03-30T16:30:00+00:00,531,Athletic Club,Osasuna,True,0,0,D
+1208759,2025-04-06T19:00:00+00:00,531,Athletic Club,Villarreal,False,0,0,D
+1208764,2025-04-13T19:00:00+00:00,531,Athletic Club,Rayo Vallecano,True,3,1,W
+1208775,2025-04-20T19:00:00+00:00,531,Athletic Club,Real Madrid,False,0,1,L
+1208782,2025-04-23T17:00:00+00:00,531,Athletic Club,Las Palmas,True,1,0,W
+1208794,2025-05-04T19:00:00+00:00,531,Athletic Club,Real Sociedad,False,0,0,D
+1208808,2025-05-11T16:30:00+00:00,531,Athletic Club,Alaves,True,1,0,W
+1208810,2025-05-15T19:30:00+00:00,531,Athletic Club,Getafe,False,2,0,W
+1208821,2025-05-18T17:00:00+00:00,531,Athletic Club,Valencia,False,1,0,W
+1208827,2025-05-25T19:00:00+00:00,531,Athletic Club,Barcelona,True,0,3,L

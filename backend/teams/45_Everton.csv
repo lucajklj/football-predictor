@@ -1,0 +1,115 @@
+fixture_id,date,team_id,team_name,opponent,is_home,goals_scored,goals_conceded,result
+867953,2022-08-06T16:30:00+00:00,45,Everton,Chelsea,True,0,1,L
+867957,2022-08-13T11:30:00+00:00,45,Everton,Aston Villa,False,1,2,L
+867968,2022-08-20T14:00:00+00:00,45,Everton,Nottingham Forest,True,1,1,D
+867978,2022-08-27T14:00:00+00:00,45,Everton,Brentford,False,1,1,D
+867989,2022-08-30T19:00:00+00:00,45,Everton,Leeds,False,1,1,D
+868000,2022-09-03T11:30:00+00:00,45,Everton,Liverpool,True,0,0,D
+868020,2022-09-18T13:15:00+00:00,45,Everton,West Ham,True,1,0,W
+868034,2022-10-01T14:00:00+00:00,45,Everton,Southampton,False,2,1,W
+868041,2022-10-09T18:00:00+00:00,45,Everton,Manchester United,True,1,2,L
+868054,2022-10-15T16:30:00+00:00,45,Everton,Tottenham,False,0,2,L
+868063,2022-10-19T18:30:00+00:00,45,Everton,Newcastle,False,0,1,L
+868068,2022-10-22T14:00:00+00:00,45,Everton,Crystal Palace,True,3,0,W
+868081,2022-10-29T16:30:00+00:00,45,Everton,Fulham,False,0,0,D
+868088,2022-11-05T17:30:00+00:00,45,Everton,Leicester,True,0,2,L
+868096,2022-11-12T15:00:00+00:00,45,Everton,Bournemouth,False,0,3,L
+868111,2022-12-26T15:00:00+00:00,45,Everton,Wolves,True,1,2,L
+868120,2022-12-31T15:00:00+00:00,45,Everton,Manchester City,False,1,1,D
+868131,2023-01-03T19:45:00+00:00,45,Everton,Brighton,True,1,4,L
+868140,2023-01-14T15:00:00+00:00,45,Everton,Southampton,True,1,2,L
+868155,2023-01-21T15:00:00+00:00,45,Everton,West Ham,False,0,2,L
+868160,2023-02-04T12:30:00+00:00,45,Everton,Arsenal,True,1,0,W
+868172,2023-02-13T20:00:00+00:00,45,Everton,Liverpool,False,0,2,L
+868180,2023-02-18T15:00:00+00:00,45,Everton,Leeds,True,1,0,W
+868188,2023-02-25T15:00:00+00:00,45,Everton,Aston Villa,True,0,2,L
+868007,2023-03-01T19:45:00+00:00,45,Everton,Arsenal,False,0,4,L
+868203,2023-03-05T14:00:00+00:00,45,Everton,Nottingham Forest,False,2,2,D
+868208,2023-03-11T15:00:00+00:00,45,Everton,Brentford,True,1,0,W
+868220,2023-03-18T17:30:00+00:00,45,Everton,Chelsea,False,2,2,D
+868231,2023-04-03T19:00:00+00:00,45,Everton,Tottenham,True,1,1,D
+868242,2023-04-08T11:30:00+00:00,45,Everton,Manchester United,False,0,2,L
+868248,2023-04-15T14:00:00+00:00,45,Everton,Fulham,True,1,3,L
+868260,2023-04-22T14:00:00+00:00,45,Everton,Crystal Palace,False,0,0,D
+868266,2023-04-27T18:45:00+00:00,45,Everton,Newcastle,True,1,4,L
+868282,2023-05-01T19:00:00+00:00,45,Everton,Leicester,False,2,2,D
+868287,2023-05-08T16:30:00+00:00,45,Everton,Brighton,False,5,1,W
+868301,2023-05-14T13:00:00+00:00,45,Everton,Manchester City,True,0,3,L
+868315,2023-05-20T14:00:00+00:00,45,Everton,Wolves,False,1,1,D
+868321,2023-05-28T15:30:00+00:00,45,Everton,Bournemouth,True,1,0,W
+1035041,2023-08-12T14:00:00+00:00,45,Everton,Fulham,True,0,1,L
+1035047,2023-08-20T13:00:00+00:00,45,Everton,Aston Villa,False,0,4,L
+1035063,2023-08-26T14:00:00+00:00,45,Everton,Wolves,True,0,1,L
+1035076,2023-09-02T11:30:00+00:00,45,Everton,Sheffield Utd,False,2,2,D
+1035079,2023-09-17T15:30:00+00:00,45,Everton,Arsenal,True,0,1,L
+1035088,2023-09-23T16:30:00+00:00,45,Everton,Brentford,False,3,1,W
+1035099,2023-09-30T14:00:00+00:00,45,Everton,Luton,True,1,2,L
+1035111,2023-10-07T14:00:00+00:00,45,Everton,Bournemouth,True,3,0,W
+1035121,2023-10-21T11:30:00+00:00,45,Everton,Liverpool,False,0,2,L
+1035135,2023-10-29T13:00:00+00:00,45,Everton,West Ham,False,1,0,W
+1035139,2023-11-04T15:00:00+00:00,45,Everton,Brighton,True,1,1,D
+1035152,2023-11-11T15:00:00+00:00,45,Everton,Crystal Palace,False,3,2,W
+1035296,2023-11-26T16:30:00+00:00,45,Everton,Manchester United,True,0,3,L
+1035312,2023-12-02T17:30:00+00:00,45,Everton,Nottingham Forest,False,1,0,W
+1035316,2023-12-07T19:30:00+00:00,45,Everton,Newcastle,True,3,0,W
+1035327,2023-12-10T14:00:00+00:00,45,Everton,Chelsea,True,2,0,W
+1035337,2023-12-16T17:30:00+00:00,45,Everton,Burnley,False,2,0,W
+1035351,2023-12-23T15:00:00+00:00,45,Everton,Tottenham,False,1,2,L
+1035360,2023-12-27T20:15:00+00:00,45,Everton,Manchester City,True,1,3,L
+1035373,2023-12-30T15:00:00+00:00,45,Everton,Wolves,False,0,3,L
+1035380,2024-01-14T14:00:00+00:00,45,Everton,Aston Villa,True,0,0,D
+1035385,2024-01-30T19:45:00+00:00,45,Everton,Fulham,False,0,0,D
+1035400,2024-02-03T12:30:00+00:00,45,Everton,Tottenham,True,2,2,D
+1035409,2024-02-10T12:30:00+00:00,45,Everton,Manchester City,False,0,2,L
+1035416,2024-02-19T20:00:00+00:00,45,Everton,Crystal Palace,True,1,1,D
+1035427,2024-02-24T15:00:00+00:00,45,Everton,Brighton,False,1,1,D
+1035436,2024-03-02T15:00:00+00:00,45,Everton,West Ham,True,1,3,L
+1035451,2024-03-09T12:30:00+00:00,45,Everton,Manchester United,False,0,2,L
+1035464,2024-03-30T15:00:00+00:00,45,Everton,Bournemouth,False,1,2,L
+1035481,2024-04-02T18:30:00+00:00,45,Everton,Newcastle,False,1,1,D
+1035487,2024-04-06T14:00:00+00:00,45,Everton,Burnley,True,1,0,W
+1035498,2024-04-15T19:00:00+00:00,45,Everton,Chelsea,False,0,6,L
+1035507,2024-04-21T12:30:00+00:00,45,Everton,Nottingham Forest,True,2,0,W
+1035458,2024-04-24T19:00:00+00:00,45,Everton,Liverpool,True,2,0,W
+1035516,2024-04-27T16:30:00+00:00,45,Everton,Brentford,True,1,0,W
+1035531,2024-05-03T19:00:00+00:00,45,Everton,Luton,False,1,1,D
+1035536,2024-05-11T14:00:00+00:00,45,Everton,Sheffield Utd,True,1,0,W
+1035544,2024-05-19T15:00:00+00:00,45,Everton,Arsenal,False,1,2,L
+1208024,2024-08-17T14:00:00+00:00,45,Everton,Brighton,True,0,3,L
+1208039,2024-08-24T14:00:00+00:00,45,Everton,Tottenham,False,0,4,L
+1208044,2024-08-31T14:00:00+00:00,45,Everton,Bournemouth,True,2,3,L
+1208052,2024-09-14T16:30:00+00:00,45,Everton,Aston Villa,False,2,3,L
+1208065,2024-09-21T14:00:00+00:00,45,Everton,Leicester,False,1,1,D
+1208075,2024-09-28T14:00:00+00:00,45,Everton,Crystal Palace,True,2,1,W
+1208087,2024-10-05T16:30:00+00:00,45,Everton,Newcastle,True,0,0,D
+1208093,2024-10-19T14:00:00+00:00,45,Everton,Ipswich,False,2,0,W
+1208109,2024-10-26T16:30:00+00:00,45,Everton,Fulham,True,1,1,D
+1208120,2024-11-02T15:00:00+00:00,45,Everton,Southampton,False,0,1,L
+1208131,2024-11-09T15:00:00+00:00,45,Everton,West Ham,False,0,0,D
+1208136,2024-11-23T15:00:00+00:00,45,Everton,Brentford,True,0,0,D
+1208148,2024-12-01T13:30:00+00:00,45,Everton,Manchester United,False,0,4,L
+1208156,2024-12-04T19:30:00+00:00,45,Everton,Wolves,True,4,0,W
+1208174,2024-12-14T15:00:00+00:00,45,Everton,Arsenal,False,0,0,D
+1208186,2024-12-22T14:00:00+00:00,45,Everton,Chelsea,True,0,0,D
+1208198,2024-12-26T12:30:00+00:00,45,Everton,Manchester City,False,1,1,D
+1208206,2024-12-29T15:00:00+00:00,45,Everton,Nottingham Forest,True,0,2,L
+1208213,2025-01-04T15:00:00+00:00,45,Everton,Bournemouth,False,0,1,L
+1208225,2025-01-15T19:30:00+00:00,45,Everton,Aston Villa,True,0,1,L
+1208236,2025-01-19T14:00:00+00:00,45,Everton,Tottenham,True,3,2,W
+1208245,2025-01-25T15:00:00+00:00,45,Everton,Brighton,False,1,0,W
+1208257,2025-02-01T15:00:00+00:00,45,Everton,Leicester,True,4,0,W
+1208166,2025-02-12T19:30:00+00:00,45,Everton,Liverpool,True,2,2,D
+1208265,2025-02-15T17:30:00+00:00,45,Everton,Crystal Palace,False,2,1,W
+1208276,2025-02-22T12:30:00+00:00,45,Everton,Manchester United,True,2,2,D
+1208283,2025-02-26T19:30:00+00:00,45,Everton,Brentford,False,1,1,D
+1208302,2025-03-08T20:00:00+00:00,45,Everton,Wolves,False,1,1,D
+1208306,2025-03-15T15:00:00+00:00,45,Everton,West Ham,True,1,1,D
+1208322,2025-04-02T19:00:00+00:00,45,Everton,Liverpool,False,0,1,L
+1208326,2025-04-05T11:30:00+00:00,45,Everton,Arsenal,True,1,1,D
+1208340,2025-04-12T14:00:00+00:00,45,Everton,Nottingham Forest,False,1,0,W
+1208346,2025-04-19T14:00:00+00:00,45,Everton,Manchester City,True,0,2,L
+1208356,2025-04-26T11:30:00+00:00,45,Everton,Chelsea,False,0,1,L
+1208369,2025-05-03T14:00:00+00:00,45,Everton,Ipswich,True,2,2,D
+1208374,2025-05-10T14:00:00+00:00,45,Everton,Fulham,False,3,1,W
+1208389,2025-05-18T11:00:00+00:00,45,Everton,Southampton,True,2,0,W
+1208398,2025-05-25T15:00:00+00:00,45,Everton,Newcastle,False,1,0,W

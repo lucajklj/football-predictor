@@ -1,0 +1,115 @@
+fixture_id,date,team_id,team_name,opponent,is_home,goals_scored,goals_conceded,result
+867946,2022-08-05T19:00:00+00:00,42,Arsenal,Crystal Palace,False,2,0,W
+867956,2022-08-13T14:00:00+00:00,42,Arsenal,Leicester,True,4,2,W
+867966,2022-08-20T16:30:00+00:00,42,Arsenal,Bournemouth,False,3,0,W
+867976,2022-08-27T16:30:00+00:00,42,Arsenal,Fulham,True,2,1,W
+867987,2022-08-31T18:30:00+00:00,42,Arsenal,Aston Villa,True,2,1,W
+868001,2022-09-04T15:30:00+00:00,42,Arsenal,Manchester United,False,1,3,L
+868017,2022-09-18T11:00:00+00:00,42,Arsenal,Brentford,False,3,0,W
+868027,2022-10-01T11:30:00+00:00,42,Arsenal,Tottenham,True,3,1,W
+868037,2022-10-09T15:30:00+00:00,42,Arsenal,Liverpool,True,3,2,W
+868049,2022-10-16T13:00:00+00:00,42,Arsenal,Leeds,False,1,0,W
+868072,2022-10-23T13:00:00+00:00,42,Arsenal,Southampton,False,1,1,D
+868077,2022-10-30T14:00:00+00:00,42,Arsenal,Nottingham Forest,True,5,0,W
+868087,2022-11-06T12:00:00+00:00,42,Arsenal,Chelsea,False,1,0,W
+868105,2022-11-12T19:45:00+00:00,42,Arsenal,Wolves,False,2,0,W
+868106,2022-12-26T20:00:00+00:00,42,Arsenal,West Ham,True,3,1,W
+868117,2022-12-31T17:30:00+00:00,42,Arsenal,Brighton,False,4,2,W
+868126,2023-01-03T19:45:00+00:00,42,Arsenal,Newcastle,True,0,0,D
+868144,2023-01-15T16:30:00+00:00,42,Arsenal,Tottenham,False,2,0,W
+868147,2023-01-22T16:30:00+00:00,42,Arsenal,Manchester United,True,3,2,W
+868160,2023-02-04T12:30:00+00:00,42,Arsenal,Everton,False,0,1,L
+868167,2023-02-11T15:00:00+00:00,42,Arsenal,Brentford,True,1,1,D
+868057,2023-02-15T19:30:00+00:00,42,Arsenal,Manchester City,True,1,3,L
+868176,2023-02-18T12:30:00+00:00,42,Arsenal,Aston Villa,False,4,2,W
+868191,2023-02-25T15:00:00+00:00,42,Arsenal,Leicester,False,1,0,W
+868007,2023-03-01T19:45:00+00:00,42,Arsenal,Everton,True,4,0,W
+868196,2023-03-04T15:00:00+00:00,42,Arsenal,Bournemouth,True,3,2,W
+868209,2023-03-12T14:00:00+00:00,42,Arsenal,Fulham,False,3,0,W
+868216,2023-03-19T14:00:00+00:00,42,Arsenal,Crystal Palace,True,4,1,W
+868227,2023-04-01T14:00:00+00:00,42,Arsenal,Leeds,True,4,1,W
+868241,2023-04-09T15:30:00+00:00,42,Arsenal,Liverpool,False,2,2,D
+868254,2023-04-16T13:00:00+00:00,42,Arsenal,West Ham,False,2,2,D
+868257,2023-04-21T19:00:00+00:00,42,Arsenal,Southampton,True,3,3,D
+868275,2023-04-26T19:00:00+00:00,42,Arsenal,Manchester City,False,1,4,L
+868277,2023-05-02T19:00:00+00:00,42,Arsenal,Chelsea,True,3,1,W
+868291,2023-05-07T15:30:00+00:00,42,Arsenal,Newcastle,False,2,0,W
+868296,2023-05-14T15:30:00+00:00,42,Arsenal,Brighton,True,0,3,L
+868312,2023-05-20T16:30:00+00:00,42,Arsenal,Nottingham Forest,False,0,1,L
+868316,2023-05-28T15:30:00+00:00,42,Arsenal,Wolves,True,5,0,W
+1035038,2023-08-12T11:30:00+00:00,42,Arsenal,Nottingham Forest,True,2,1,W
+1035048,2023-08-21T19:00:00+00:00,42,Arsenal,Crystal Palace,False,1,0,W
+1035058,2023-08-26T14:00:00+00:00,42,Arsenal,Fulham,True,2,2,D
+1035067,2023-09-03T15:30:00+00:00,42,Arsenal,Manchester United,True,3,1,W
+1035079,2023-09-17T15:30:00+00:00,42,Arsenal,Everton,False,1,0,W
+1035087,2023-09-24T13:00:00+00:00,42,Arsenal,Tottenham,True,2,2,D
+1035097,2023-09-30T14:00:00+00:00,42,Arsenal,Bournemouth,False,4,0,W
+1035107,2023-10-08T15:30:00+00:00,42,Arsenal,Manchester City,True,1,0,W
+1035120,2023-10-21T16:30:00+00:00,42,Arsenal,Chelsea,False,2,2,D
+1035128,2023-10-28T14:00:00+00:00,42,Arsenal,Sheffield Utd,True,5,0,W
+1035143,2023-11-04T17:30:00+00:00,42,Arsenal,Newcastle,False,0,1,L
+1035148,2023-11-11T15:00:00+00:00,42,Arsenal,Burnley,True,3,1,W
+1035294,2023-11-25T17:30:00+00:00,42,Arsenal,Brentford,False,1,0,W
+1035305,2023-12-02T15:00:00+00:00,42,Arsenal,Wolves,True,2,1,W
+1035318,2023-12-05T20:15:00+00:00,42,Arsenal,Luton,False,4,3,W
+1035324,2023-12-09T17:30:00+00:00,42,Arsenal,Aston Villa,False,0,1,L
+1035335,2023-12-17T14:00:00+00:00,42,Arsenal,Brighton,True,2,0,W
+1035347,2023-12-23T17:30:00+00:00,42,Arsenal,Liverpool,False,1,1,D
+1035355,2023-12-28T20:15:00+00:00,42,Arsenal,West Ham,True,0,2,L
+1035366,2023-12-31T14:00:00+00:00,42,Arsenal,Fulham,False,1,2,L
+1035375,2024-01-20T12:30:00+00:00,42,Arsenal,Crystal Palace,True,5,0,W
+1035387,2024-01-30T19:30:00+00:00,42,Arsenal,Nottingham Forest,False,2,1,W
+1035395,2024-02-04T16:30:00+00:00,42,Arsenal,Liverpool,True,3,1,W
+1035412,2024-02-11T14:00:00+00:00,42,Arsenal,West Ham,False,6,0,W
+1035415,2024-02-17T15:00:00+00:00,42,Arsenal,Burnley,False,5,0,W
+1035425,2024-02-24T20:00:00+00:00,42,Arsenal,Newcastle,True,4,1,W
+1035442,2024-03-04T20:00:00+00:00,42,Arsenal,Sheffield Utd,False,6,0,W
+1035445,2024-03-09T17:30:00+00:00,42,Arsenal,Brentford,True,2,1,W
+1035469,2024-03-31T15:30:00+00:00,42,Arsenal,Manchester City,False,0,0,D
+1035475,2024-04-03T18:30:00+00:00,42,Arsenal,Luton,True,2,0,W
+1035485,2024-04-06T16:30:00+00:00,42,Arsenal,Brighton,False,3,0,W
+1035495,2024-04-14T15:30:00+00:00,42,Arsenal,Aston Villa,True,0,2,L
+1035513,2024-04-20T18:30:00+00:00,42,Arsenal,Wolves,False,2,0,W
+1035454,2024-04-23T19:00:00+00:00,42,Arsenal,Chelsea,True,5,0,W
+1035521,2024-04-28T13:00:00+00:00,42,Arsenal,Tottenham,False,3,2,W
+1035524,2024-05-04T11:30:00+00:00,42,Arsenal,Bournemouth,True,3,0,W
+1035538,2024-05-12T15:30:00+00:00,42,Arsenal,Manchester United,False,1,0,W
+1035544,2024-05-19T15:00:00+00:00,42,Arsenal,Everton,True,2,1,W
+1208023,2024-08-17T14:00:00+00:00,42,Arsenal,Wolves,True,2,0,W
+1208032,2024-08-24T16:30:00+00:00,42,Arsenal,Aston Villa,False,2,0,W
+1208041,2024-08-31T11:30:00+00:00,42,Arsenal,Brighton,True,1,1,D
+1208059,2024-09-15T13:00:00+00:00,42,Arsenal,Tottenham,False,1,0,W
+1208067,2024-09-22T15:30:00+00:00,42,Arsenal,Manchester City,False,2,2,D
+1208072,2024-09-28T14:00:00+00:00,42,Arsenal,Leicester,True,4,2,W
+1208081,2024-10-05T14:00:00+00:00,42,Arsenal,Southampton,True,3,1,W
+1208091,2024-10-19T16:30:00+00:00,42,Arsenal,Bournemouth,False,0,2,L
+1208103,2024-10-27T15:30:00+00:00,42,Arsenal,Liverpool,True,2,2,D
+1208118,2024-11-02T12:30:00+00:00,42,Arsenal,Newcastle,False,0,1,L
+1208125,2024-11-10T16:30:00+00:00,42,Arsenal,Chelsea,False,1,1,D
+1208134,2024-11-23T15:00:00+00:00,42,Arsenal,Nottingham Forest,True,3,0,W
+1208151,2024-11-30T17:30:00+00:00,42,Arsenal,West Ham,False,5,2,W
+1208154,2024-12-04T20:15:00+00:00,42,Arsenal,Manchester United,True,2,0,W
+1208167,2024-12-08T14:00:00+00:00,42,Arsenal,Fulham,False,1,1,D
+1208174,2024-12-14T15:00:00+00:00,42,Arsenal,Everton,True,0,0,D
+1208185,2024-12-21T17:30:00+00:00,42,Arsenal,Crystal Palace,False,5,1,W
+1208194,2024-12-27T20:15:00+00:00,42,Arsenal,Ipswich,True,1,0,W
+1208204,2025-01-01T17:30:00+00:00,42,Arsenal,Brentford,False,3,1,W
+1208215,2025-01-04T17:30:00+00:00,42,Arsenal,Brighton,False,1,1,D
+1208223,2025-01-15T20:00:00+00:00,42,Arsenal,Tottenham,True,2,1,W
+1208233,2025-01-18T17:30:00+00:00,42,Arsenal,Aston Villa,True,2,2,D
+1208252,2025-01-25T15:00:00+00:00,42,Arsenal,Wolves,False,1,0,W
+1208254,2025-02-02T16:30:00+00:00,42,Arsenal,Manchester City,True,5,1,W
+1208267,2025-02-15T12:30:00+00:00,42,Arsenal,Leicester,False,2,0,W
+1208274,2025-02-22T15:00:00+00:00,42,Arsenal,West Ham,True,0,1,L
+1208285,2025-02-26T19:30:00+00:00,42,Arsenal,Nottingham Forest,False,0,0,D
+1208298,2025-03-09T16:30:00+00:00,42,Arsenal,Manchester United,False,1,1,D
+1208304,2025-03-16T13:30:00+00:00,42,Arsenal,Chelsea,True,1,0,W
+1208314,2025-04-01T18:45:00+00:00,42,Arsenal,Fulham,True,2,1,W
+1208326,2025-04-05T11:30:00+00:00,42,Arsenal,Everton,False,1,1,D
+1208334,2025-04-12T16:30:00+00:00,42,Arsenal,Brentford,True,1,1,D
+1208348,2025-04-20T13:00:00+00:00,42,Arsenal,Ipswich,False,4,0,W
+1208354,2025-04-23T19:00:00+00:00,42,Arsenal,Crystal Palace,True,2,2,D
+1208363,2025-05-03T16:30:00+00:00,42,Arsenal,Bournemouth,True,1,2,L
+1208376,2025-05-11T15:30:00+00:00,42,Arsenal,Liverpool,False,2,2,D
+1208383,2025-05-18T15:30:00+00:00,42,Arsenal,Newcastle,True,1,0,W
+1208400,2025-05-25T15:00:00+00:00,42,Arsenal,Southampton,False,2,1,W

@@ -1,0 +1,39 @@
+fixture_id,date,team_id,team_name,opponent,is_home,goals_scored,goals_conceded,result
+871474,2022-08-05T19:00:00+00:00,98,Ajaccio,Lyon,False,1,2,L
+871480,2022-08-14T13:00:00+00:00,98,Ajaccio,Lens,True,0,0,D
+871498,2022-08-21T15:05:00+00:00,98,Ajaccio,Rennes,False,1,2,L
+871500,2022-08-26T19:00:00+00:00,98,Ajaccio,Lille,True,1,3,L
+871513,2022-08-31T17:00:00+00:00,98,Ajaccio,Montpellier,False,0,2,L
+871520,2022-09-04T13:00:00+00:00,98,Ajaccio,Lorient,True,0,1,L
+871530,2022-09-11T13:00:00+00:00,98,Ajaccio,Nice,True,0,1,L
+871548,2022-09-18T13:00:00+00:00,98,Ajaccio,Stade Brestois 29,False,1,0,W
+871550,2022-10-02T13:00:00+00:00,98,Ajaccio,Clermont Foot,True,1,3,L
+871566,2022-10-08T15:00:00+00:00,98,Ajaccio,Marseille,False,2,1,W
+871579,2022-10-16T13:00:00+00:00,98,Ajaccio,Estac Troyes,False,1,1,D
+871580,2022-10-21T19:00:00+00:00,98,Ajaccio,Paris Saint Germain,True,0,3,L
+871590,2022-10-30T12:00:00+00:00,98,Ajaccio,Auxerre,False,0,1,L
+871600,2022-11-05T16:00:00+00:00,98,Ajaccio,Strasbourg,True,4,2,W
+871611,2022-11-13T14:00:00+00:00,98,Ajaccio,Nantes,False,2,2,D
+871620,2022-12-28T14:00:00+00:00,98,Ajaccio,Angers,True,1,0,W
+871636,2023-01-01T14:00:00+00:00,98,Ajaccio,Toulouse,False,0,2,L
+871640,2023-01-11T18:00:00+00:00,98,Ajaccio,Reims,True,0,1,L
+871650,2023-01-15T16:05:00+00:00,98,Ajaccio,Monaco,False,1,7,L
+871660,2023-01-29T16:05:00+00:00,98,Ajaccio,Lyon,True,0,2,L
+871674,2023-02-01T18:00:00+00:00,98,Ajaccio,Angers,False,2,1,W
+871680,2023-02-05T14:00:00+00:00,98,Ajaccio,Nantes,True,0,2,L
+871696,2023-02-10T20:00:00+00:00,98,Ajaccio,Nice,False,0,3,L
+871701,2023-02-19T14:00:00+00:00,98,Ajaccio,Lorient,False,0,3,L
+871710,2023-02-26T14:00:00+00:00,98,Ajaccio,Estac Troyes,True,2,1,W
+871727,2023-03-05T14:00:00+00:00,98,Ajaccio,Reims,False,0,1,L
+871730,2023-03-12T14:00:00+00:00,98,Ajaccio,Montpellier,True,0,1,L
+871740,2023-03-19T12:00:00+00:00,98,Ajaccio,Monaco,True,0,2,L
+871753,2023-04-02T13:00:00+00:00,98,Ajaccio,Clermont Foot,False,1,2,L
+871760,2023-04-09T13:00:00+00:00,98,Ajaccio,Auxerre,True,0,3,L
+871776,2023-04-16T13:00:00+00:00,98,Ajaccio,Strasbourg,False,1,3,L
+871780,2023-04-23T13:00:00+00:00,98,Ajaccio,Stade Brestois 29,True,0,0,D
+871792,2023-04-29T15:00:00+00:00,98,Ajaccio,Lille,False,0,3,L
+871800,2023-05-07T13:00:00+00:00,98,Ajaccio,Toulouse,True,0,0,D
+871814,2023-05-13T19:00:00+00:00,98,Ajaccio,Paris Saint Germain,False,0,5,L
+871820,2023-05-21T11:00:00+00:00,98,Ajaccio,Rennes,True,0,5,L
+871836,2023-05-27T19:00:00+00:00,98,Ajaccio,Lens,False,0,3,L
+871840,2023-06-03T19:00:00+00:00,98,Ajaccio,Marseille,True,1,0,W

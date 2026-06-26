@@ -1,0 +1,103 @@
+fixture_id,date,team_id,team_name,opponent,is_home,goals_scored,goals_conceded,result
+871171,2022-08-06T13:30:00+00:00,170,FC Augsburg,SC Freiburg,True,0,4,L
+871174,2022-08-13T13:30:00+00:00,170,FC Augsburg,Bayer Leverkusen,False,2,1,W
+871189,2022-08-20T13:30:00+00:00,170,FC Augsburg,FSV Mainz 05,True,1,2,L
+871196,2022-08-27T13:30:00+00:00,170,FC Augsburg,1899 Hoffenheim,False,0,1,L
+871207,2022-09-04T13:30:00+00:00,170,FC Augsburg,Hertha Berlin,True,0,2,L
+871217,2022-09-09T18:30:00+00:00,170,FC Augsburg,Werder Bremen,False,1,0,W
+871218,2022-09-17T13:30:00+00:00,170,FC Augsburg,Bayern Munich,True,1,0,W
+871234,2022-10-02T15:30:00+00:00,170,FC Augsburg,FC Schalke 04,False,3,2,W
+871242,2022-10-08T13:30:00+00:00,170,FC Augsburg,VfL Wolfsburg,True,1,1,D
+871248,2022-10-16T13:30:00+00:00,170,FC Augsburg,1. FC Köln,False,2,3,L
+871261,2022-10-22T13:30:00+00:00,170,FC Augsburg,RB Leipzig,True,3,3,D
+871269,2022-10-29T13:30:00+00:00,170,FC Augsburg,VfB Stuttgart,False,1,2,L
+871278,2022-11-05T14:30:00+00:00,170,FC Augsburg,Eintracht Frankfurt,True,1,2,L
+871283,2022-11-09T19:30:00+00:00,170,FC Augsburg,Union Berlin,False,2,2,D
+871295,2022-11-12T14:30:00+00:00,170,FC Augsburg,Vfl Bochum,True,0,1,L
+871299,2023-01-22T14:30:00+00:00,170,FC Augsburg,Borussia Dortmund,False,3,4,L
+871313,2023-01-25T19:30:00+00:00,170,FC Augsburg,Borussia Monchengladbach,True,1,0,W
+871320,2023-01-28T14:30:00+00:00,170,FC Augsburg,SC Freiburg,False,1,3,L
+871333,2023-02-03T19:30:00+00:00,170,FC Augsburg,Bayer Leverkusen,True,1,0,W
+871339,2023-02-11T14:30:00+00:00,170,FC Augsburg,FSV Mainz 05,False,1,3,L
+871351,2023-02-17T19:30:00+00:00,170,FC Augsburg,1899 Hoffenheim,True,1,0,W
+871359,2023-02-25T14:30:00+00:00,170,FC Augsburg,Hertha Berlin,False,0,2,L
+871369,2023-03-04T14:30:00+00:00,170,FC Augsburg,Werder Bremen,True,2,1,W
+871371,2023-03-11T14:30:00+00:00,170,FC Augsburg,Bayern Munich,False,3,5,L
+871387,2023-03-18T14:30:00+00:00,170,FC Augsburg,FC Schalke 04,True,1,1,D
+871395,2023-04-01T13:30:00+00:00,170,FC Augsburg,VfL Wolfsburg,False,2,2,D
+871405,2023-04-08T13:30:00+00:00,170,FC Augsburg,1. FC Köln,True,1,3,L
+871408,2023-04-15T13:30:00+00:00,170,FC Augsburg,RB Leipzig,False,2,3,L
+871423,2023-04-21T18:30:00+00:00,170,FC Augsburg,VfB Stuttgart,True,1,1,D
+871429,2023-04-29T13:30:00+00:00,170,FC Augsburg,Eintracht Frankfurt,False,1,1,D
+871440,2023-05-06T13:30:00+00:00,170,FC Augsburg,Union Berlin,True,1,0,W
+871450,2023-05-13T13:30:00+00:00,170,FC Augsburg,Vfl Bochum,False,2,3,L
+871457,2023-05-21T15:30:00+00:00,170,FC Augsburg,Borussia Dortmund,True,0,3,L
+871465,2023-05-27T13:30:00+00:00,170,FC Augsburg,Borussia Monchengladbach,False,0,2,L
+1048888,2023-08-19T13:30:00+00:00,170,FC Augsburg,Borussia Monchengladbach,True,4,4,D
+1048890,2023-08-27T15:30:00+00:00,170,FC Augsburg,Bayern Munich,False,1,3,L
+1048906,2023-09-02T13:30:00+00:00,170,FC Augsburg,Vfl Bochum,True,2,2,D
+1048909,2023-09-16T13:30:00+00:00,170,FC Augsburg,RB Leipzig,False,0,3,L
+1048924,2023-09-23T13:30:00+00:00,170,FC Augsburg,FSV Mainz 05,True,2,1,W
+1048927,2023-10-01T15:30:00+00:00,170,FC Augsburg,SC Freiburg,False,0,2,L
+1048942,2023-10-07T13:30:00+00:00,170,FC Augsburg,SV Darmstadt 98,True,1,2,L
+1048951,2023-10-22T15:30:00+00:00,170,FC Augsburg,FC Heidenheim,False,5,2,W
+1048960,2023-10-28T13:30:00+00:00,170,FC Augsburg,VfL Wolfsburg,True,3,2,W
+1048967,2023-11-04T14:30:00+00:00,170,FC Augsburg,1. FC Köln,False,1,1,D
+1048977,2023-11-11T14:30:00+00:00,170,FC Augsburg,1899 Hoffenheim,True,1,1,D
+1048981,2023-11-25T14:30:00+00:00,170,FC Augsburg,Union Berlin,False,1,1,D
+1048995,2023-12-03T18:30:00+00:00,170,FC Augsburg,Eintracht Frankfurt,True,2,1,W
+1049004,2023-12-09T14:30:00+00:00,170,FC Augsburg,Werder Bremen,False,0,2,L
+1049014,2023-12-16T14:30:00+00:00,170,FC Augsburg,Borussia Dortmund,True,1,1,D
+1049023,2023-12-20T19:30:00+00:00,170,FC Augsburg,VfB Stuttgart,False,0,3,L
+1049032,2024-01-13T14:30:00+00:00,170,FC Augsburg,Bayer Leverkusen,True,0,1,L
+1049038,2024-01-21T16:30:00+00:00,170,FC Augsburg,Borussia Monchengladbach,False,2,1,W
+1049050,2024-01-27T14:30:00+00:00,170,FC Augsburg,Bayern Munich,True,2,3,L
+1049058,2024-02-03T14:30:00+00:00,170,FC Augsburg,Vfl Bochum,False,1,1,D
+1049068,2024-02-10T14:30:00+00:00,170,FC Augsburg,RB Leipzig,True,2,2,D
+1049073,2024-02-17T14:30:00+00:00,170,FC Augsburg,FSV Mainz 05,False,0,1,L
+1049086,2024-02-25T18:30:00+00:00,170,FC Augsburg,SC Freiburg,True,2,1,W
+1049096,2024-03-02T14:30:00+00:00,170,FC Augsburg,SV Darmstadt 98,False,6,0,W
+1049104,2024-03-09T14:30:00+00:00,170,FC Augsburg,FC Heidenheim,True,1,0,W
+1049109,2024-03-16T14:30:00+00:00,170,FC Augsburg,VfL Wolfsburg,False,3,1,W
+1049122,2024-03-31T13:30:00+00:00,170,FC Augsburg,1. FC Köln,True,1,1,D
+1049131,2024-04-07T13:30:00+00:00,170,FC Augsburg,1899 Hoffenheim,False,1,3,L
+1049139,2024-04-12T18:30:00+00:00,170,FC Augsburg,Union Berlin,True,2,0,W
+1049145,2024-04-19T18:30:00+00:00,170,FC Augsburg,Eintracht Frankfurt,False,1,3,L
+1049158,2024-04-27T13:30:00+00:00,170,FC Augsburg,Werder Bremen,True,0,3,L
+1049160,2024-05-04T13:30:00+00:00,170,FC Augsburg,Borussia Dortmund,False,1,5,L
+1049176,2024-05-10T18:30:00+00:00,170,FC Augsburg,VfB Stuttgart,True,0,1,L
+1049180,2024-05-18T13:30:00+00:00,170,FC Augsburg,Bayer Leverkusen,False,1,2,L
+1223980,2024-08-24T13:30:00+00:00,170,FC Augsburg,Werder Bremen,True,2,2,D
+1223988,2024-09-01T13:30:00+00:00,170,FC Augsburg,1. FC Heidenheim,False,0,4,L
+1223997,2024-09-15T13:30:00+00:00,170,FC Augsburg,FC St. Pauli,True,3,1,W
+1224007,2024-09-20T18:30:00+00:00,170,FC Augsburg,FSV Mainz 05,True,2,3,L
+1224012,2024-09-28T13:30:00+00:00,170,FC Augsburg,RB Leipzig,False,0,4,L
+1224025,2024-10-04T18:30:00+00:00,170,FC Augsburg,Borussia Mönchengladbach,True,2,1,W
+1224033,2024-10-19T13:30:00+00:00,170,FC Augsburg,SC Freiburg,False,1,3,L
+1224042,2024-10-26T13:30:00+00:00,170,FC Augsburg,Borussia Dortmund,True,2,1,W
+1224053,2024-11-02T14:30:00+00:00,170,FC Augsburg,VfL Wolfsburg,False,1,1,D
+1224060,2024-11-10T14:30:00+00:00,170,FC Augsburg,1899 Hoffenheim,True,0,0,D
+1224067,2024-11-22T19:30:00+00:00,170,FC Augsburg,Bayern München,False,0,3,L
+1224079,2024-11-30T14:30:00+00:00,170,FC Augsburg,VfL Bochum,True,1,0,W
+1224086,2024-12-07T14:30:00+00:00,170,FC Augsburg,Eintracht Frankfurt,False,2,2,D
+1224096,2024-12-14T14:30:00+00:00,170,FC Augsburg,Bayer Leverkusen,True,0,2,L
+1224109,2024-12-21T14:30:00+00:00,170,FC Augsburg,Holstein Kiel,False,1,5,L
+1224115,2025-01-12T16:30:00+00:00,170,FC Augsburg,VfB Stuttgart,True,0,1,L
+1224125,2025-01-15T19:30:00+00:00,170,FC Augsburg,Union Berlin,False,2,0,W
+1224133,2025-01-19T16:30:00+00:00,170,FC Augsburg,Werder Bremen,False,2,0,W
+1224141,2025-01-25T14:30:00+00:00,170,FC Augsburg,1. FC Heidenheim,True,2,1,W
+1224154,2025-02-01T14:30:00+00:00,170,FC Augsburg,FC St. Pauli,False,1,1,D
+1224161,2025-02-08T14:30:00+00:00,170,FC Augsburg,FSV Mainz 05,False,0,0,D
+1224169,2025-02-14T19:30:00+00:00,170,FC Augsburg,RB Leipzig,True,0,0,D
+1224180,2025-02-22T14:30:00+00:00,170,FC Augsburg,Borussia Mönchengladbach,False,3,0,W
+1224187,2025-03-02T16:30:00+00:00,170,FC Augsburg,SC Freiburg,True,0,0,D
+1224193,2025-03-08T14:30:00+00:00,170,FC Augsburg,Borussia Dortmund,False,1,0,W
+1224204,2025-03-15T14:30:00+00:00,170,FC Augsburg,VfL Wolfsburg,True,1,0,W
+1224213,2025-03-29T14:30:00+00:00,170,FC Augsburg,1899 Hoffenheim,False,1,1,D
+1224222,2025-04-04T18:30:00+00:00,170,FC Augsburg,Bayern München,True,1,3,L
+1224234,2025-04-12T13:30:00+00:00,170,FC Augsburg,VfL Bochum,False,2,1,W
+1224241,2025-04-20T13:30:00+00:00,170,FC Augsburg,Eintracht Frankfurt,True,0,0,D
+1224245,2025-04-26T13:30:00+00:00,170,FC Augsburg,Bayer Leverkusen,False,0,2,L
+1224258,2025-05-04T13:30:00+00:00,170,FC Augsburg,Holstein Kiel,True,1,3,L
+1224264,2025-05-11T17:30:00+00:00,170,FC Augsburg,VfB Stuttgart,False,0,4,L
+1224277,2025-05-17T13:30:00+00:00,170,FC Augsburg,Union Berlin,True,1,2,L

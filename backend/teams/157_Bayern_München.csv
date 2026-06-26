@@ -1,0 +1,103 @@
+fixture_id,date,team_id,team_name,opponent,is_home,goals_scored,goals_conceded,result
+871164,2022-08-05T18:30:00+00:00,157,Bayern Munich,Eintracht Frankfurt,False,6,1,W
+871173,2022-08-14T15:30:00+00:00,157,Bayern Munich,VfL Wolfsburg,True,2,0,W
+871188,2022-08-21T15:30:00+00:00,157,Bayern Munich,Vfl Bochum,False,7,0,W
+871191,2022-08-27T16:30:00+00:00,157,Bayern Munich,Borussia Monchengladbach,True,1,1,D
+871202,2022-09-03T13:30:00+00:00,157,Bayern Munich,Union Berlin,False,1,1,D
+871209,2022-09-10T13:30:00+00:00,157,Bayern Munich,VfB Stuttgart,True,2,2,D
+871218,2022-09-17T13:30:00+00:00,157,Bayern Munich,FC Augsburg,False,0,1,L
+871227,2022-09-30T18:30:00+00:00,157,Bayern Munich,Bayer Leverkusen,True,4,0,W
+871236,2022-10-08T16:30:00+00:00,157,Bayern Munich,Borussia Dortmund,False,2,2,D
+871245,2022-10-16T17:30:00+00:00,157,Bayern Munich,SC Freiburg,True,5,0,W
+871258,2022-10-22T13:30:00+00:00,157,Bayern Munich,1899 Hoffenheim,False,2,0,W
+871263,2022-10-29T13:30:00+00:00,157,Bayern Munich,FSV Mainz 05,True,6,2,W
+871279,2022-11-05T14:30:00+00:00,157,Bayern Munich,Hertha Berlin,False,3,2,W
+871281,2022-11-08T19:30:00+00:00,157,Bayern Munich,Werder Bremen,True,6,1,W
+871297,2022-11-12T17:30:00+00:00,157,Bayern Munich,FC Schalke 04,False,2,0,W
+871300,2023-01-20T19:30:00+00:00,157,Bayern Munich,RB Leipzig,False,1,1,D
+871308,2023-01-24T19:30:00+00:00,157,Bayern Munich,1. FC Köln,True,1,1,D
+871317,2023-01-28T17:30:00+00:00,157,Bayern Munich,Eintracht Frankfurt,True,1,1,D
+871331,2023-02-05T16:30:00+00:00,157,Bayern Munich,VfL Wolfsburg,False,4,2,W
+871335,2023-02-11T14:30:00+00:00,157,Bayern Munich,Vfl Bochum,True,3,0,W
+871347,2023-02-18T14:30:00+00:00,157,Bayern Munich,Borussia Monchengladbach,False,2,3,L
+871353,2023-02-26T16:30:00+00:00,157,Bayern Munich,Union Berlin,True,3,0,W
+871370,2023-03-04T17:30:00+00:00,157,Bayern Munich,VfB Stuttgart,False,2,1,W
+871371,2023-03-11T14:30:00+00:00,157,Bayern Munich,FC Augsburg,True,5,3,W
+871381,2023-03-19T16:30:00+00:00,157,Bayern Munich,Bayer Leverkusen,False,1,2,L
+871389,2023-04-01T16:30:00+00:00,157,Bayern Munich,Borussia Dortmund,True,4,2,W
+871400,2023-04-08T13:30:00+00:00,157,Bayern Munich,SC Freiburg,False,1,0,W
+871407,2023-04-15T13:30:00+00:00,157,Bayern Munich,1899 Hoffenheim,True,1,1,D
+871419,2023-04-22T13:30:00+00:00,157,Bayern Munich,FSV Mainz 05,False,1,3,L
+871425,2023-04-30T13:30:00+00:00,157,Bayern Munich,Hertha Berlin,True,2,0,W
+871442,2023-05-06T16:30:00+00:00,157,Bayern Munich,Werder Bremen,False,2,1,W
+871443,2023-05-13T13:30:00+00:00,157,Bayern Munich,FC Schalke 04,True,6,0,W
+871452,2023-05-20T16:30:00+00:00,157,Bayern Munich,RB Leipzig,True,1,3,L
+871464,2023-05-27T13:30:00+00:00,157,Bayern Munich,1. FC Köln,False,2,1,W
+1048881,2023-08-18T18:30:00+00:00,157,Bayern Munich,Werder Bremen,False,4,0,W
+1048890,2023-08-27T15:30:00+00:00,157,Bayern Munich,FC Augsburg,True,3,1,W
+1048903,2023-09-02T16:30:00+00:00,157,Bayern Munich,Borussia Monchengladbach,False,2,1,W
+1048908,2023-09-15T18:30:00+00:00,157,Bayern Munich,Bayer Leverkusen,True,2,2,D
+1048917,2023-09-23T13:30:00+00:00,157,Bayern Munich,Vfl Bochum,True,7,0,W
+1048926,2023-09-30T16:30:00+00:00,157,Bayern Munich,RB Leipzig,False,2,2,D
+1048935,2023-10-08T15:30:00+00:00,157,Bayern Munich,SC Freiburg,True,3,0,W
+1048948,2023-10-21T16:30:00+00:00,157,Bayern Munich,FSV Mainz 05,False,3,1,W
+1048953,2023-10-28T13:30:00+00:00,157,Bayern Munich,SV Darmstadt 98,True,8,0,W
+1048962,2023-11-04T17:30:00+00:00,157,Bayern Munich,Borussia Dortmund,False,4,0,W
+1048971,2023-11-11T14:30:00+00:00,157,Bayern Munich,FC Heidenheim,True,4,2,W
+1048985,2023-11-24T19:30:00+00:00,157,Bayern Munich,1. FC Köln,False,1,0,W
+1049000,2023-12-09T14:30:00+00:00,157,Bayern Munich,Eintracht Frankfurt,False,1,5,L
+1049007,2023-12-17T18:30:00+00:00,157,Bayern Munich,VfB Stuttgart,True,3,0,W
+1049020,2023-12-20T19:30:00+00:00,157,Bayern Munich,VfL Wolfsburg,False,2,1,W
+1049025,2024-01-12T19:30:00+00:00,157,Bayern Munich,1899 Hoffenheim,True,3,0,W
+1049034,2024-01-21T14:30:00+00:00,157,Bayern Munich,Werder Bremen,True,0,1,L
+1048989,2024-01-24T19:30:00+00:00,157,Bayern Munich,Union Berlin,True,1,0,W
+1049050,2024-01-27T14:30:00+00:00,157,Bayern Munich,FC Augsburg,False,3,2,W
+1049052,2024-02-03T14:30:00+00:00,157,Bayern Munich,Borussia Monchengladbach,True,3,1,W
+1049063,2024-02-10T17:30:00+00:00,157,Bayern Munich,Bayer Leverkusen,False,0,3,L
+1049076,2024-02-18T16:30:00+00:00,157,Bayern Munich,Vfl Bochum,False,2,3,L
+1049079,2024-02-24T17:30:00+00:00,157,Bayern Munich,RB Leipzig,True,2,1,W
+1049089,2024-03-01T19:30:00+00:00,157,Bayern Munich,SC Freiburg,False,2,2,D
+1049097,2024-03-09T14:30:00+00:00,157,Bayern Munich,FSV Mainz 05,True,8,1,W
+1049114,2024-03-16T14:30:00+00:00,157,Bayern Munich,SV Darmstadt 98,False,5,2,W
+1049115,2024-03-30T17:30:00+00:00,157,Bayern Munich,Borussia Dortmund,True,0,2,L
+1049132,2024-04-06T13:30:00+00:00,157,Bayern Munich,FC Heidenheim,False,2,3,L
+1049133,2024-04-13T13:30:00+00:00,157,Bayern Munich,1. FC Köln,True,2,0,W
+1049143,2024-04-20T16:30:00+00:00,157,Bayern Munich,Union Berlin,False,5,1,W
+1049151,2024-04-27T13:30:00+00:00,157,Bayern Munich,Eintracht Frankfurt,True,2,1,W
+1049167,2024-05-04T13:30:00+00:00,157,Bayern Munich,VfB Stuttgart,False,1,3,L
+1049169,2024-05-12T15:30:00+00:00,157,Bayern Munich,VfL Wolfsburg,True,2,0,W
+1049183,2024-05-18T13:30:00+00:00,157,Bayern Munich,1899 Hoffenheim,False,2,4,L
+1223981,2024-08-25T13:30:00+00:00,157,Bayern München,VfL Wolfsburg,False,3,2,W
+1223986,2024-09-01T15:30:00+00:00,157,Bayern München,SC Freiburg,True,2,0,W
+1224001,2024-09-14T16:30:00+00:00,157,Bayern München,Holstein Kiel,False,6,1,W
+1224006,2024-09-21T13:30:00+00:00,157,Bayern München,Werder Bremen,False,5,0,W
+1224011,2024-09-28T16:30:00+00:00,157,Bayern München,Bayer Leverkusen,True,1,1,D
+1224022,2024-10-06T15:30:00+00:00,157,Bayern München,Eintracht Frankfurt,False,3,3,D
+1224030,2024-10-19T16:30:00+00:00,157,Bayern München,VfB Stuttgart,True,4,0,W
+1224045,2024-10-27T14:30:00+00:00,157,Bayern München,VfL Bochum,False,5,0,W
+1224048,2024-11-02T14:30:00+00:00,157,Bayern München,Union Berlin,True,3,0,W
+1224064,2024-11-09T14:30:00+00:00,157,Bayern München,FC St. Pauli,False,1,0,W
+1224067,2024-11-22T19:30:00+00:00,157,Bayern München,FC Augsburg,True,3,0,W
+1224075,2024-11-30T17:30:00+00:00,157,Bayern München,Borussia Dortmund,False,1,1,D
+1224085,2024-12-07T14:30:00+00:00,157,Bayern München,1. FC Heidenheim,True,4,2,W
+1224097,2024-12-14T14:30:00+00:00,157,Bayern München,FSV Mainz 05,False,1,2,L
+1224103,2024-12-20T19:30:00+00:00,157,Bayern München,RB Leipzig,True,5,1,W
+1224117,2025-01-11T17:30:00+00:00,157,Bayern München,Borussia Mönchengladbach,False,1,0,W
+1224121,2025-01-15T19:30:00+00:00,157,Bayern München,1899 Hoffenheim,True,5,0,W
+1224130,2025-01-18T14:30:00+00:00,157,Bayern München,VfL Wolfsburg,True,3,2,W
+1224140,2025-01-25T14:30:00+00:00,157,Bayern München,SC Freiburg,False,2,1,W
+1224148,2025-02-01T14:30:00+00:00,157,Bayern München,Holstein Kiel,True,4,3,W
+1224155,2025-02-07T19:30:00+00:00,157,Bayern München,Werder Bremen,True,3,0,W
+1224164,2025-02-15T17:30:00+00:00,157,Bayern München,Bayer Leverkusen,False,0,0,D
+1224173,2025-02-23T16:30:00+00:00,157,Bayern München,Eintracht Frankfurt,True,4,0,W
+1224182,2025-02-28T19:30:00+00:00,157,Bayern München,VfB Stuttgart,False,3,1,W
+1224192,2025-03-08T14:30:00+00:00,157,Bayern München,VfL Bochum,True,2,3,L
+1224206,2025-03-15T14:30:00+00:00,157,Bayern München,Union Berlin,False,1,1,D
+1224210,2025-03-29T14:30:00+00:00,157,Bayern München,FC St. Pauli,True,3,2,W
+1224222,2025-04-04T18:30:00+00:00,157,Bayern München,FC Augsburg,False,3,1,W
+1224229,2025-04-12T16:30:00+00:00,157,Bayern München,Borussia Dortmund,True,2,2,D
+1224238,2025-04-19T13:30:00+00:00,157,Bayern München,1. FC Heidenheim,False,4,0,W
+1224247,2025-04-26T13:30:00+00:00,157,Bayern München,FSV Mainz 05,True,3,0,W
+1224254,2025-05-03T13:30:00+00:00,157,Bayern München,RB Leipzig,False,3,3,D
+1224265,2025-05-10T16:30:00+00:00,157,Bayern München,Borussia Mönchengladbach,True,2,0,W
+1224274,2025-05-17T13:30:00+00:00,157,Bayern München,1899 Hoffenheim,False,4,0,W

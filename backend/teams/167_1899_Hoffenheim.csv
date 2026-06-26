@@ -1,0 +1,103 @@
+fixture_id,date,team_id,team_name,opponent,is_home,goals_scored,goals_conceded,result
+871168,2022-08-06T13:30:00+00:00,167,1899 Hoffenheim,Borussia Monchengladbach,False,1,3,L
+871178,2022-08-13T13:30:00+00:00,167,1899 Hoffenheim,Vfl Bochum,True,3,2,W
+871183,2022-08-20T13:30:00+00:00,167,1899 Hoffenheim,Bayer Leverkusen,False,3,0,W
+871196,2022-08-27T13:30:00+00:00,167,1899 Hoffenheim,FC Augsburg,True,1,0,W
+871200,2022-09-02T18:30:00+00:00,167,1899 Hoffenheim,Borussia Dortmund,False,0,1,L
+871213,2022-09-10T13:30:00+00:00,167,1899 Hoffenheim,FSV Mainz 05,True,4,1,W
+871224,2022-09-18T17:30:00+00:00,167,1899 Hoffenheim,SC Freiburg,True,0,0,D
+871233,2022-10-02T13:30:00+00:00,167,1899 Hoffenheim,Hertha Berlin,False,1,1,D
+871239,2022-10-07T18:30:00+00:00,167,1899 Hoffenheim,Werder Bremen,True,1,2,L
+871252,2022-10-14T18:30:00+00:00,167,1899 Hoffenheim,FC Schalke 04,False,3,0,W
+871258,2022-10-22T13:30:00+00:00,167,1899 Hoffenheim,Bayern Munich,True,0,2,L
+871266,2022-10-30T18:30:00+00:00,167,1899 Hoffenheim,1. FC Köln,False,1,1,D
+871276,2022-11-05T14:30:00+00:00,167,1899 Hoffenheim,RB Leipzig,True,1,3,L
+871285,2022-11-09T19:30:00+00:00,167,1899 Hoffenheim,Eintracht Frankfurt,False,2,4,L
+871293,2022-11-12T14:30:00+00:00,167,1899 Hoffenheim,VfL Wolfsburg,True,1,2,L
+871301,2023-01-21T14:30:00+00:00,167,1899 Hoffenheim,Union Berlin,False,1,3,L
+871312,2023-01-24T19:30:00+00:00,167,1899 Hoffenheim,VfB Stuttgart,True,2,2,D
+871322,2023-01-28T14:30:00+00:00,167,1899 Hoffenheim,Borussia Monchengladbach,True,1,4,L
+871332,2023-02-04T14:30:00+00:00,167,1899 Hoffenheim,Vfl Bochum,False,2,5,L
+871340,2023-02-11T14:30:00+00:00,167,1899 Hoffenheim,Bayer Leverkusen,True,1,3,L
+871351,2023-02-17T19:30:00+00:00,167,1899 Hoffenheim,FC Augsburg,False,0,1,L
+871358,2023-02-25T14:30:00+00:00,167,1899 Hoffenheim,Borussia Dortmund,True,0,1,L
+871365,2023-03-04T14:30:00+00:00,167,1899 Hoffenheim,FSV Mainz 05,False,0,1,L
+871373,2023-03-12T14:30:00+00:00,167,1899 Hoffenheim,SC Freiburg,False,1,2,L
+871384,2023-03-18T14:30:00+00:00,167,1899 Hoffenheim,Hertha Berlin,True,3,1,W
+871397,2023-04-02T15:30:00+00:00,167,1899 Hoffenheim,Werder Bremen,False,2,1,W
+871402,2023-04-09T17:30:00+00:00,167,1899 Hoffenheim,FC Schalke 04,True,2,0,W
+871407,2023-04-15T13:30:00+00:00,167,1899 Hoffenheim,Bayern Munich,False,1,1,D
+871420,2023-04-22T13:30:00+00:00,167,1899 Hoffenheim,1. FC Köln,True,1,3,L
+871426,2023-04-29T13:30:00+00:00,167,1899 Hoffenheim,RB Leipzig,False,0,1,L
+871438,2023-05-06T13:30:00+00:00,167,1899 Hoffenheim,Eintracht Frankfurt,True,3,1,W
+871449,2023-05-13T13:30:00+00:00,167,1899 Hoffenheim,VfL Wolfsburg,False,1,2,L
+871456,2023-05-20T13:30:00+00:00,167,1899 Hoffenheim,Union Berlin,True,4,2,W
+871469,2023-05-27T13:30:00+00:00,167,1899 Hoffenheim,VfB Stuttgart,False,1,1,D
+1048887,2023-08-19T13:30:00+00:00,167,1899 Hoffenheim,SC Freiburg,True,1,2,L
+1048897,2023-08-26T13:30:00+00:00,167,1899 Hoffenheim,FC Heidenheim,False,3,2,W
+1048904,2023-09-02T13:30:00+00:00,167,1899 Hoffenheim,VfL Wolfsburg,True,3,1,W
+1048913,2023-09-16T13:30:00+00:00,167,1899 Hoffenheim,1. FC Köln,False,3,1,W
+1048919,2023-09-23T13:30:00+00:00,167,1899 Hoffenheim,Union Berlin,False,2,0,W
+1048931,2023-09-29T18:30:00+00:00,167,1899 Hoffenheim,Borussia Dortmund,True,1,3,L
+1048941,2023-10-07T16:30:00+00:00,167,1899 Hoffenheim,Werder Bremen,False,3,2,W
+1048950,2023-10-21T13:30:00+00:00,167,1899 Hoffenheim,Eintracht Frankfurt,True,1,3,L
+1048961,2023-10-28T13:30:00+00:00,167,1899 Hoffenheim,VfB Stuttgart,False,3,2,W
+1048968,2023-11-04T14:30:00+00:00,167,1899 Hoffenheim,Bayer Leverkusen,True,2,3,L
+1048977,2023-11-11T14:30:00+00:00,167,1899 Hoffenheim,FC Augsburg,False,1,1,D
+1048986,2023-11-26T16:30:00+00:00,167,1899 Hoffenheim,FSV Mainz 05,True,1,1,D
+1048993,2023-12-02T14:30:00+00:00,167,1899 Hoffenheim,Borussia Monchengladbach,False,1,2,L
+1049003,2023-12-08T19:30:00+00:00,167,1899 Hoffenheim,Vfl Bochum,True,3,1,W
+1049008,2023-12-16T17:30:00+00:00,167,1899 Hoffenheim,RB Leipzig,False,1,3,L
+1049021,2023-12-19T19:30:00+00:00,167,1899 Hoffenheim,SV Darmstadt 98,True,3,3,D
+1049025,2024-01-12T19:30:00+00:00,167,1899 Hoffenheim,Bayern Munich,False,0,3,L
+1049036,2024-01-20T14:30:00+00:00,167,1899 Hoffenheim,SC Freiburg,False,2,3,L
+1049048,2024-01-27T14:30:00+00:00,167,1899 Hoffenheim,FC Heidenheim,True,1,1,D
+1049055,2024-02-04T14:30:00+00:00,167,1899 Hoffenheim,VfL Wolfsburg,False,2,2,D
+1049066,2024-02-11T16:30:00+00:00,167,1899 Hoffenheim,1. FC Köln,True,1,1,D
+1049075,2024-02-17T14:30:00+00:00,167,1899 Hoffenheim,Union Berlin,True,0,1,L
+1049080,2024-02-25T16:30:00+00:00,167,1899 Hoffenheim,Borussia Dortmund,False,3,2,W
+1049093,2024-03-03T16:30:00+00:00,167,1899 Hoffenheim,Werder Bremen,True,2,1,W
+1049100,2024-03-10T16:30:00+00:00,167,1899 Hoffenheim,Eintracht Frankfurt,False,1,3,L
+1049112,2024-03-16T17:30:00+00:00,167,1899 Hoffenheim,VfB Stuttgart,True,0,3,L
+1049117,2024-03-30T14:30:00+00:00,167,1899 Hoffenheim,Bayer Leverkusen,False,1,2,L
+1049131,2024-04-07T13:30:00+00:00,167,1899 Hoffenheim,FC Augsburg,True,3,1,W
+1049136,2024-04-13T13:30:00+00:00,167,1899 Hoffenheim,FSV Mainz 05,False,1,4,L
+1049148,2024-04-20T13:30:00+00:00,167,1899 Hoffenheim,Borussia Monchengladbach,True,4,3,W
+1049157,2024-04-26T18:30:00+00:00,167,1899 Hoffenheim,Vfl Bochum,False,2,3,L
+1049165,2024-05-03T18:30:00+00:00,167,1899 Hoffenheim,RB Leipzig,True,1,1,D
+1049177,2024-05-12T13:30:00+00:00,167,1899 Hoffenheim,SV Darmstadt 98,False,6,0,W
+1049183,2024-05-18T13:30:00+00:00,167,1899 Hoffenheim,Bayern Munich,True,4,2,W
+1223978,2024-08-24T13:30:00+00:00,167,1899 Hoffenheim,Holstein Kiel,True,3,2,W
+1223987,2024-08-31T13:30:00+00:00,167,1899 Hoffenheim,Eintracht Frankfurt,False,1,3,L
+1223995,2024-09-14T13:30:00+00:00,167,1899 Hoffenheim,Bayer Leverkusen,True,1,4,L
+1224008,2024-09-21T13:30:00+00:00,167,1899 Hoffenheim,Union Berlin,False,1,2,L
+1224014,2024-09-29T15:30:00+00:00,167,1899 Hoffenheim,Werder Bremen,True,3,4,L
+1224021,2024-10-06T17:30:00+00:00,167,1899 Hoffenheim,VfB Stuttgart,False,1,1,D
+1224032,2024-10-19T13:30:00+00:00,167,1899 Hoffenheim,VfL Bochum,True,3,1,W
+1224040,2024-10-27T18:30:00+00:00,167,1899 Hoffenheim,1. FC Heidenheim,False,0,0,D
+1224051,2024-11-02T14:30:00+00:00,167,1899 Hoffenheim,FC St. Pauli,True,0,2,L
+1224060,2024-11-10T14:30:00+00:00,167,1899 Hoffenheim,FC Augsburg,False,0,0,D
+1224070,2024-11-23T14:30:00+00:00,167,1899 Hoffenheim,RB Leipzig,True,4,3,W
+1224080,2024-12-01T14:30:00+00:00,167,1899 Hoffenheim,FSV Mainz 05,False,0,2,L
+1224087,2024-12-08T16:30:00+00:00,167,1899 Hoffenheim,SC Freiburg,True,1,1,D
+1224093,2024-12-15T16:30:00+00:00,167,1899 Hoffenheim,Borussia Dortmund,False,1,1,D
+1224105,2024-12-21T14:30:00+00:00,167,1899 Hoffenheim,Borussia Mönchengladbach,True,1,2,L
+1224112,2025-01-11T14:30:00+00:00,167,1899 Hoffenheim,VfL Wolfsburg,True,0,1,L
+1224121,2025-01-15T19:30:00+00:00,167,1899 Hoffenheim,Bayern München,False,0,5,L
+1224136,2025-01-18T14:30:00+00:00,167,1899 Hoffenheim,Holstein Kiel,False,3,1,W
+1224139,2025-01-26T14:30:00+00:00,167,1899 Hoffenheim,Eintracht Frankfurt,True,2,2,D
+1224146,2025-02-02T16:30:00+00:00,167,1899 Hoffenheim,Bayer Leverkusen,False,1,3,L
+1224158,2025-02-08T14:30:00+00:00,167,1899 Hoffenheim,Union Berlin,True,0,4,L
+1224168,2025-02-16T14:30:00+00:00,167,1899 Hoffenheim,Werder Bremen,False,3,1,W
+1224176,2025-02-23T18:30:00+00:00,167,1899 Hoffenheim,VfB Stuttgart,True,1,1,D
+1224189,2025-03-01T14:30:00+00:00,167,1899 Hoffenheim,VfL Bochum,False,1,0,W
+1224195,2025-03-09T16:30:00+00:00,167,1899 Hoffenheim,1. FC Heidenheim,True,1,1,D
+1224208,2025-03-14T19:30:00+00:00,167,1899 Hoffenheim,FC St. Pauli,False,0,1,L
+1224213,2025-03-29T14:30:00+00:00,167,1899 Hoffenheim,FC Augsburg,True,1,1,D
+1224218,2025-04-05T13:30:00+00:00,167,1899 Hoffenheim,RB Leipzig,False,1,3,L
+1224231,2025-04-12T13:30:00+00:00,167,1899 Hoffenheim,FSV Mainz 05,True,2,0,W
+1224240,2025-04-19T13:30:00+00:00,167,1899 Hoffenheim,SC Freiburg,False,2,3,L
+1224249,2025-04-26T13:30:00+00:00,167,1899 Hoffenheim,Borussia Dortmund,True,2,3,L
+1224260,2025-05-03T13:30:00+00:00,167,1899 Hoffenheim,Borussia Mönchengladbach,False,4,4,D
+1224268,2025-05-09T18:30:00+00:00,167,1899 Hoffenheim,VfL Wolfsburg,False,2,2,D
+1224274,2025-05-17T13:30:00+00:00,167,1899 Hoffenheim,Bayern München,True,0,4,L

@@ -1,0 +1,115 @@
+fixture_id,date,team_id,team_name,opponent,is_home,goals_scored,goals_conceded,result
+867952,2022-08-06T14:00:00+00:00,47,Tottenham,Southampton,True,4,1,W
+867960,2022-08-14T15:30:00+00:00,47,Tottenham,Chelsea,False,2,2,D
+867974,2022-08-20T11:30:00+00:00,47,Tottenham,Wolves,True,1,0,W
+867983,2022-08-28T15:30:00+00:00,47,Tottenham,Nottingham Forest,False,2,0,W
+867991,2022-08-31T18:45:00+00:00,47,Tottenham,West Ham,False,1,1,D
+868004,2022-09-03T14:00:00+00:00,47,Tottenham,Fulham,True,2,1,W
+868024,2022-09-17T16:30:00+00:00,47,Tottenham,Leicester,True,6,2,W
+868027,2022-10-01T11:30:00+00:00,47,Tottenham,Arsenal,False,1,3,L
+868038,2022-10-08T16:30:00+00:00,47,Tottenham,Brighton,False,1,0,W
+868054,2022-10-15T16:30:00+00:00,47,Tottenham,Everton,True,2,0,W
+868065,2022-10-19T19:15:00+00:00,47,Tottenham,Manchester United,False,0,2,L
+868073,2022-10-23T15:30:00+00:00,47,Tottenham,Newcastle,True,1,2,L
+868076,2022-10-29T14:00:00+00:00,47,Tottenham,Bournemouth,False,3,2,W
+868093,2022-11-06T16:30:00+00:00,47,Tottenham,Liverpool,True,1,2,L
+868103,2022-11-12T15:00:00+00:00,47,Tottenham,Leeds,True,4,3,W
+868108,2022-12-26T12:30:00+00:00,47,Tottenham,Brentford,False,2,2,D
+868123,2023-01-01T14:00:00+00:00,47,Tottenham,Aston Villa,True,0,2,L
+868130,2023-01-04T20:00:00+00:00,47,Tottenham,Crystal Palace,False,4,0,W
+868144,2023-01-15T16:30:00+00:00,47,Tottenham,Arsenal,True,0,2,L
+868013,2023-01-19T20:00:00+00:00,47,Tottenham,Manchester City,False,2,4,L
+868149,2023-01-23T20:00:00+00:00,47,Tottenham,Fulham,False,1,0,W
+868164,2023-02-05T16:30:00+00:00,47,Tottenham,Manchester City,True,1,0,W
+868171,2023-02-11T15:00:00+00:00,47,Tottenham,Leicester,False,1,4,L
+868184,2023-02-19T16:30:00+00:00,47,Tottenham,West Ham,True,2,0,W
+868194,2023-02-26T13:30:00+00:00,47,Tottenham,Chelsea,True,2,0,W
+868205,2023-03-04T15:00:00+00:00,47,Tottenham,Wolves,False,0,1,L
+868214,2023-03-11T15:00:00+00:00,47,Tottenham,Nottingham Forest,True,3,1,W
+868224,2023-03-18T15:00:00+00:00,47,Tottenham,Southampton,False,3,3,D
+868231,2023-04-03T19:00:00+00:00,47,Tottenham,Everton,False,1,1,D
+868244,2023-04-08T14:00:00+00:00,47,Tottenham,Brighton,True,2,1,W
+868253,2023-04-15T14:15:00+00:00,47,Tottenham,Bournemouth,True,2,3,L
+868265,2023-04-23T13:00:00+00:00,47,Tottenham,Newcastle,False,1,6,L
+868269,2023-04-27T19:15:00+00:00,47,Tottenham,Manchester United,True,2,2,D
+868283,2023-04-30T15:30:00+00:00,47,Tottenham,Liverpool,False,3,4,L
+868293,2023-05-06T14:00:00+00:00,47,Tottenham,Crystal Palace,True,1,0,W
+868297,2023-05-13T14:00:00+00:00,47,Tottenham,Aston Villa,False,1,2,L
+868313,2023-05-20T11:30:00+00:00,47,Tottenham,Brentford,True,1,3,L
+868322,2023-05-28T15:30:00+00:00,47,Tottenham,Leeds,False,4,1,W
+1035044,2023-08-13T13:00:00+00:00,47,Tottenham,Brentford,False,2,2,D
+1035054,2023-08-19T16:30:00+00:00,47,Tottenham,Manchester United,True,2,0,W
+1035057,2023-08-26T11:30:00+00:00,47,Tottenham,Bournemouth,False,2,0,W
+1035070,2023-09-02T14:00:00+00:00,47,Tottenham,Burnley,False,5,2,W
+1035084,2023-09-16T14:00:00+00:00,47,Tottenham,Sheffield Utd,True,2,1,W
+1035087,2023-09-24T13:00:00+00:00,47,Tottenham,Arsenal,False,2,2,D
+1035104,2023-09-30T16:30:00+00:00,47,Tottenham,Liverpool,True,2,1,W
+1035113,2023-10-07T11:30:00+00:00,47,Tottenham,Luton,False,1,0,W
+1035126,2023-10-23T19:00:00+00:00,47,Tottenham,Fulham,True,2,0,W
+1035132,2023-10-27T19:00:00+00:00,47,Tottenham,Crystal Palace,False,2,1,W
+1035146,2023-11-06T20:00:00+00:00,47,Tottenham,Chelsea,True,1,4,L
+1035156,2023-11-11T12:30:00+00:00,47,Tottenham,Wolves,False,1,2,L
+1035303,2023-11-26T14:00:00+00:00,47,Tottenham,Aston Villa,True,1,2,L
+1035310,2023-12-03T16:30:00+00:00,47,Tottenham,Manchester City,False,3,3,D
+1035320,2023-12-07T20:15:00+00:00,47,Tottenham,West Ham,True,1,2,L
+1035332,2023-12-10T16:30:00+00:00,47,Tottenham,Newcastle,True,4,1,W
+1035342,2023-12-15T20:00:00+00:00,47,Tottenham,Nottingham Forest,False,2,0,W
+1035351,2023-12-23T15:00:00+00:00,47,Tottenham,Everton,True,2,1,W
+1035357,2023-12-28T19:30:00+00:00,47,Tottenham,Brighton,False,2,4,L
+1035371,2023-12-31T14:00:00+00:00,47,Tottenham,Bournemouth,True,3,1,W
+1035381,2024-01-14T16:30:00+00:00,47,Tottenham,Manchester United,False,2,2,D
+1035388,2024-01-31T19:30:00+00:00,47,Tottenham,Brentford,True,3,2,W
+1035400,2024-02-03T12:30:00+00:00,47,Tottenham,Everton,False,2,2,D
+1035411,2024-02-10T15:00:00+00:00,47,Tottenham,Brighton,True,2,1,W
+1035423,2024-02-17T15:00:00+00:00,47,Tottenham,Wolves,True,1,2,L
+1035443,2024-03-02T15:00:00+00:00,47,Tottenham,Crystal Palace,True,3,1,W
+1035446,2024-03-10T13:00:00+00:00,47,Tottenham,Aston Villa,False,4,0,W
+1035459,2024-03-16T17:30:00+00:00,47,Tottenham,Fulham,False,0,3,L
+1035473,2024-03-30T15:00:00+00:00,47,Tottenham,Luton,True,2,1,W
+1035479,2024-04-02T19:15:00+00:00,47,Tottenham,West Ham,False,1,1,D
+1035492,2024-04-07T17:00:00+00:00,47,Tottenham,Nottingham Forest,True,3,1,W
+1035501,2024-04-13T11:30:00+00:00,47,Tottenham,Newcastle,False,0,4,L
+1035521,2024-04-28T13:00:00+00:00,47,Tottenham,Arsenal,True,2,3,L
+1035428,2024-05-02T18:30:00+00:00,47,Tottenham,Chelsea,False,0,2,L
+1035530,2024-05-05T15:30:00+00:00,47,Tottenham,Liverpool,False,2,4,L
+1035541,2024-05-11T14:00:00+00:00,47,Tottenham,Burnley,True,2,1,W
+1035512,2024-05-14T19:00:00+00:00,47,Tottenham,Manchester City,True,0,2,L
+1035553,2024-05-19T15:00:00+00:00,47,Tottenham,Sheffield Utd,False,3,0,W
+1208030,2024-08-19T19:00:00+00:00,47,Tottenham,Leicester,False,1,1,D
+1208039,2024-08-24T14:00:00+00:00,47,Tottenham,Everton,True,4,0,W
+1208048,2024-09-01T12:30:00+00:00,47,Tottenham,Newcastle,False,1,2,L
+1208059,2024-09-15T13:00:00+00:00,47,Tottenham,Arsenal,True,0,1,L
+1208069,2024-09-21T14:00:00+00:00,47,Tottenham,Brentford,True,3,1,W
+1208077,2024-09-29T15:30:00+00:00,47,Tottenham,Manchester United,False,3,0,W
+1208084,2024-10-06T15:30:00+00:00,47,Tottenham,Brighton,False,2,3,L
+1208099,2024-10-19T11:30:00+00:00,47,Tottenham,West Ham,True,4,1,W
+1208108,2024-10-27T13:00:00+00:00,47,Tottenham,Crystal Palace,False,0,1,L
+1208121,2024-11-03T14:00:00+00:00,47,Tottenham,Aston Villa,True,4,1,W
+1208130,2024-11-10T14:00:00+00:00,47,Tottenham,Ipswich,True,1,2,L
+1208140,2024-11-23T17:30:00+00:00,47,Tottenham,Manchester City,False,4,0,W
+1208150,2024-12-01T13:30:00+00:00,47,Tottenham,Fulham,True,1,1,D
+1208153,2024-12-05T20:15:00+00:00,47,Tottenham,Bournemouth,False,0,1,L
+1208171,2024-12-08T16:30:00+00:00,47,Tottenham,Chelsea,True,3,4,L
+1208181,2024-12-15T19:00:00+00:00,47,Tottenham,Southampton,False,5,0,W
+1208191,2024-12-22T16:30:00+00:00,47,Tottenham,Liverpool,True,3,6,L
+1208200,2024-12-26T15:00:00+00:00,47,Tottenham,Nottingham Forest,False,0,1,L
+1208211,2024-12-29T15:00:00+00:00,47,Tottenham,Wolves,True,2,2,D
+1208221,2025-01-04T12:30:00+00:00,47,Tottenham,Newcastle,True,1,2,L
+1208223,2025-01-15T20:00:00+00:00,47,Tottenham,Arsenal,False,1,2,L
+1208236,2025-01-19T14:00:00+00:00,47,Tottenham,Everton,False,2,3,L
+1208251,2025-01-26T14:00:00+00:00,47,Tottenham,Leicester,True,1,2,L
+1208255,2025-02-02T14:00:00+00:00,47,Tottenham,Brentford,False,2,0,W
+1208271,2025-02-16T16:30:00+00:00,47,Tottenham,Manchester United,True,1,0,W
+1208278,2025-02-22T15:00:00+00:00,47,Tottenham,Ipswich,False,4,1,W
+1208286,2025-02-26T19:30:00+00:00,47,Tottenham,Manchester City,True,0,1,L
+1208300,2025-03-09T14:00:00+00:00,47,Tottenham,Bournemouth,True,2,2,D
+1208307,2025-03-16T13:30:00+00:00,47,Tottenham,Fulham,False,0,2,L
+1208318,2025-04-03T19:00:00+00:00,47,Tottenham,Chelsea,False,0,1,L
+1208331,2025-04-06T13:00:00+00:00,47,Tottenham,Southampton,True,3,1,W
+1208342,2025-04-13T13:00:00+00:00,47,Tottenham,Wolves,False,2,4,L
+1208351,2025-04-21T19:00:00+00:00,47,Tottenham,Nottingham Forest,True,1,2,L
+1208357,2025-04-27T15:30:00+00:00,47,Tottenham,Liverpool,False,1,5,L
+1208372,2025-05-04T13:00:00+00:00,47,Tottenham,West Ham,False,1,1,D
+1208381,2025-05-11T13:15:00+00:00,47,Tottenham,Crystal Palace,True,0,2,L
+1208384,2025-05-16T18:30:00+00:00,47,Tottenham,Aston Villa,False,0,2,L
+1208401,2025-05-25T15:00:00+00:00,47,Tottenham,Brighton,True,1,4,L

@@ -1,0 +1,103 @@
+fixture_id,date,team_id,team_name,opponent,is_home,goals_scored,goals_conceded,result
+871164,2022-08-05T18:30:00+00:00,169,Eintracht Frankfurt,Bayern Munich,True,1,6,L
+871179,2022-08-13T13:30:00+00:00,169,Eintracht Frankfurt,Hertha Berlin,False,1,1,D
+871186,2022-08-21T13:30:00+00:00,169,Eintracht Frankfurt,1. FC Köln,True,1,1,D
+871199,2022-08-28T15:30:00+00:00,169,Eintracht Frankfurt,Werder Bremen,False,4,3,W
+871204,2022-09-03T16:30:00+00:00,169,Eintracht Frankfurt,RB Leipzig,True,4,0,W
+871214,2022-09-10T13:30:00+00:00,169,Eintracht Frankfurt,VfL Wolfsburg,True,0,1,L
+871225,2022-09-17T13:30:00+00:00,169,Eintracht Frankfurt,VfB Stuttgart,False,3,1,W
+871231,2022-10-01T13:30:00+00:00,169,Eintracht Frankfurt,Union Berlin,True,2,0,W
+871241,2022-10-08T13:30:00+00:00,169,Eintracht Frankfurt,Vfl Bochum,False,0,3,L
+871249,2022-10-15T13:30:00+00:00,169,Eintracht Frankfurt,Bayer Leverkusen,True,5,1,W
+871259,2022-10-22T16:30:00+00:00,169,Eintracht Frankfurt,Borussia Monchengladbach,False,3,1,W
+871267,2022-10-29T16:30:00+00:00,169,Eintracht Frankfurt,Borussia Dortmund,True,1,2,L
+871278,2022-11-05T14:30:00+00:00,169,Eintracht Frankfurt,FC Augsburg,False,2,1,W
+871285,2022-11-09T19:30:00+00:00,169,Eintracht Frankfurt,1899 Hoffenheim,True,4,2,W
+871292,2022-11-13T14:30:00+00:00,169,Eintracht Frankfurt,FSV Mainz 05,False,1,1,D
+871304,2023-01-21T14:30:00+00:00,169,Eintracht Frankfurt,FC Schalke 04,True,3,0,W
+871310,2023-01-25T19:30:00+00:00,169,Eintracht Frankfurt,SC Freiburg,False,1,1,D
+871317,2023-01-28T17:30:00+00:00,169,Eintracht Frankfurt,Bayern Munich,False,1,1,D
+871330,2023-02-04T14:30:00+00:00,169,Eintracht Frankfurt,Hertha Berlin,True,3,0,W
+871338,2023-02-12T16:30:00+00:00,169,Eintracht Frankfurt,1. FC Köln,False,0,3,L
+871348,2023-02-18T17:30:00+00:00,169,Eintracht Frankfurt,Werder Bremen,True,2,0,W
+871354,2023-02-25T14:30:00+00:00,169,Eintracht Frankfurt,RB Leipzig,False,1,2,L
+871367,2023-03-05T16:30:00+00:00,169,Eintracht Frankfurt,VfL Wolfsburg,False,2,2,D
+871375,2023-03-11T14:30:00+00:00,169,Eintracht Frankfurt,VfB Stuttgart,True,1,1,D
+871382,2023-03-19T14:30:00+00:00,169,Eintracht Frankfurt,Union Berlin,False,0,2,L
+871394,2023-03-31T18:30:00+00:00,169,Eintracht Frankfurt,Vfl Bochum,True,1,1,D
+871399,2023-04-08T13:30:00+00:00,169,Eintracht Frankfurt,Bayer Leverkusen,False,1,3,L
+871411,2023-04-15T16:30:00+00:00,169,Eintracht Frankfurt,Borussia Monchengladbach,True,1,1,D
+871416,2023-04-22T16:30:00+00:00,169,Eintracht Frankfurt,Borussia Dortmund,False,0,4,L
+871429,2023-04-29T13:30:00+00:00,169,Eintracht Frankfurt,FC Augsburg,True,1,1,D
+871438,2023-05-06T13:30:00+00:00,169,Eintracht Frankfurt,1899 Hoffenheim,False,1,3,L
+871448,2023-05-13T13:30:00+00:00,169,Eintracht Frankfurt,FSV Mainz 05,True,3,0,W
+871459,2023-05-20T13:30:00+00:00,169,Eintracht Frankfurt,FC Schalke 04,False,2,2,D
+871466,2023-05-27T13:30:00+00:00,169,Eintracht Frankfurt,SC Freiburg,True,2,1,W
+1048885,2023-08-20T15:30:00+00:00,169,Eintracht Frankfurt,SV Darmstadt 98,True,1,0,W
+1048893,2023-08-27T13:30:00+00:00,169,Eintracht Frankfurt,FSV Mainz 05,False,1,1,D
+1048902,2023-09-03T13:30:00+00:00,169,Eintracht Frankfurt,1. FC Köln,True,1,1,D
+1048914,2023-09-16T16:30:00+00:00,169,Eintracht Frankfurt,Vfl Bochum,False,1,1,D
+1048921,2023-09-24T15:30:00+00:00,169,Eintracht Frankfurt,SC Freiburg,True,0,0,D
+1048928,2023-09-30T13:30:00+00:00,169,Eintracht Frankfurt,VfL Wolfsburg,False,0,2,L
+1048939,2023-10-08T17:30:00+00:00,169,Eintracht Frankfurt,FC Heidenheim,True,2,0,W
+1048950,2023-10-21T13:30:00+00:00,169,Eintracht Frankfurt,1899 Hoffenheim,False,3,1,W
+1048956,2023-10-29T14:30:00+00:00,169,Eintracht Frankfurt,Borussia Dortmund,True,3,3,D
+1048963,2023-11-04T14:30:00+00:00,169,Eintracht Frankfurt,Union Berlin,False,3,0,W
+1048975,2023-11-12T16:30:00+00:00,169,Eintracht Frankfurt,Werder Bremen,False,2,2,D
+1048983,2023-11-25T17:30:00+00:00,169,Eintracht Frankfurt,VfB Stuttgart,True,1,2,L
+1048995,2023-12-03T18:30:00+00:00,169,Eintracht Frankfurt,FC Augsburg,False,1,2,L
+1049000,2023-12-09T14:30:00+00:00,169,Eintracht Frankfurt,Bayern Munich,True,5,1,W
+1049010,2023-12-17T16:30:00+00:00,169,Eintracht Frankfurt,Bayer Leverkusen,False,0,3,L
+1049019,2023-12-20T19:30:00+00:00,169,Eintracht Frankfurt,Borussia Monchengladbach,True,2,1,W
+1049026,2024-01-13T14:30:00+00:00,169,Eintracht Frankfurt,RB Leipzig,False,1,0,W
+1049042,2024-01-20T14:30:00+00:00,169,Eintracht Frankfurt,SV Darmstadt 98,False,2,2,D
+1049046,2024-01-26T19:30:00+00:00,169,Eintracht Frankfurt,FSV Mainz 05,True,1,0,W
+1049057,2024-02-03T17:30:00+00:00,169,Eintracht Frankfurt,1. FC Köln,False,0,2,L
+1049064,2024-02-10T14:30:00+00:00,169,Eintracht Frankfurt,Vfl Bochum,True,1,1,D
+1049071,2024-02-18T14:30:00+00:00,169,Eintracht Frankfurt,SC Freiburg,False,3,3,D
+1049083,2024-02-25T14:30:00+00:00,169,Eintracht Frankfurt,VfL Wolfsburg,True,2,2,D
+1049095,2024-03-02T14:30:00+00:00,169,Eintracht Frankfurt,FC Heidenheim,False,2,1,W
+1049100,2024-03-10T16:30:00+00:00,169,Eintracht Frankfurt,1899 Hoffenheim,True,3,1,W
+1049106,2024-03-17T16:30:00+00:00,169,Eintracht Frankfurt,Borussia Dortmund,False,1,3,L
+1049118,2024-03-30T14:30:00+00:00,169,Eintracht Frankfurt,Union Berlin,True,0,0,D
+1049127,2024-04-05T18:30:00+00:00,169,Eintracht Frankfurt,Werder Bremen,True,1,1,D
+1049140,2024-04-13T16:30:00+00:00,169,Eintracht Frankfurt,VfB Stuttgart,False,0,3,L
+1049145,2024-04-19T18:30:00+00:00,169,Eintracht Frankfurt,FC Augsburg,True,3,1,W
+1049151,2024-04-27T13:30:00+00:00,169,Eintracht Frankfurt,Bayern Munich,False,1,2,L
+1049162,2024-05-05T15:30:00+00:00,169,Eintracht Frankfurt,Bayer Leverkusen,True,1,5,L
+1049173,2024-05-11T13:30:00+00:00,169,Eintracht Frankfurt,Borussia Monchengladbach,False,1,1,D
+1049181,2024-05-18T13:30:00+00:00,169,Eintracht Frankfurt,RB Leipzig,True,2,2,D
+1223977,2024-08-24T16:30:00+00:00,169,Eintracht Frankfurt,Borussia Dortmund,False,0,2,L
+1223987,2024-08-31T13:30:00+00:00,169,Eintracht Frankfurt,1899 Hoffenheim,True,3,1,W
+1223998,2024-09-14T13:30:00+00:00,169,Eintracht Frankfurt,VfL Wolfsburg,False,2,1,W
+1224004,2024-09-21T16:30:00+00:00,169,Eintracht Frankfurt,Borussia Mönchengladbach,True,2,0,W
+1224019,2024-09-29T13:30:00+00:00,169,Eintracht Frankfurt,Holstein Kiel,False,4,2,W
+1224022,2024-10-06T15:30:00+00:00,169,Eintracht Frankfurt,Bayern München,True,3,3,D
+1224029,2024-10-19T13:30:00+00:00,169,Eintracht Frankfurt,Bayer Leverkusen,False,1,2,L
+1224044,2024-10-27T16:30:00+00:00,169,Eintracht Frankfurt,Union Berlin,False,1,1,D
+1224050,2024-11-02T14:30:00+00:00,169,Eintracht Frankfurt,VfL Bochum,True,7,2,W
+1224056,2024-11-10T16:30:00+00:00,169,Eintracht Frankfurt,VfB Stuttgart,False,3,2,W
+1224069,2024-11-23T17:30:00+00:00,169,Eintracht Frankfurt,Werder Bremen,True,1,0,W
+1224076,2024-12-01T16:30:00+00:00,169,Eintracht Frankfurt,1. FC Heidenheim,False,4,0,W
+1224086,2024-12-07T14:30:00+00:00,169,Eintracht Frankfurt,FC Augsburg,True,2,2,D
+1224092,2024-12-15T18:30:00+00:00,169,Eintracht Frankfurt,RB Leipzig,False,1,2,L
+1224104,2024-12-21T14:30:00+00:00,169,Eintracht Frankfurt,FSV Mainz 05,True,1,3,L
+1224118,2025-01-11T14:30:00+00:00,169,Eintracht Frankfurt,FC St. Pauli,False,1,0,W
+1224122,2025-01-14T19:30:00+00:00,169,Eintracht Frankfurt,SC Freiburg,True,4,1,W
+1224131,2025-01-17T19:30:00+00:00,169,Eintracht Frankfurt,Borussia Dortmund,True,2,0,W
+1224139,2025-01-26T14:30:00+00:00,169,Eintracht Frankfurt,1899 Hoffenheim,False,2,2,D
+1224149,2025-02-02T14:30:00+00:00,169,Eintracht Frankfurt,VfL Wolfsburg,True,1,1,D
+1224162,2025-02-08T17:30:00+00:00,169,Eintracht Frankfurt,Borussia Mönchengladbach,False,1,1,D
+1224166,2025-02-16T16:30:00+00:00,169,Eintracht Frankfurt,Holstein Kiel,True,3,1,W
+1224173,2025-02-23T16:30:00+00:00,169,Eintracht Frankfurt,Bayern München,False,0,4,L
+1224184,2025-03-01T17:30:00+00:00,169,Eintracht Frankfurt,Bayer Leverkusen,True,1,4,L
+1224194,2025-03-09T14:30:00+00:00,169,Eintracht Frankfurt,Union Berlin,True,1,2,L
+1224207,2025-03-16T15:20:00+00:00,169,Eintracht Frankfurt,VfL Bochum,False,3,1,W
+1224212,2025-03-29T17:30:00+00:00,169,Eintracht Frankfurt,VfB Stuttgart,True,1,0,W
+1224220,2025-04-05T16:30:00+00:00,169,Eintracht Frankfurt,Werder Bremen,False,0,2,L
+1224230,2025-04-13T15:30:00+00:00,169,Eintracht Frankfurt,1. FC Heidenheim,True,3,0,W
+1224241,2025-04-20T13:30:00+00:00,169,Eintracht Frankfurt,FC Augsburg,False,0,0,D
+1224248,2025-04-26T16:30:00+00:00,169,Eintracht Frankfurt,RB Leipzig,True,4,0,W
+1224259,2025-05-04T17:30:00+00:00,169,Eintracht Frankfurt,FSV Mainz 05,False,1,1,D
+1224266,2025-05-11T15:30:00+00:00,169,Eintracht Frankfurt,FC St. Pauli,True,2,2,D
+1224276,2025-05-17T13:30:00+00:00,169,Eintracht Frankfurt,SC Freiburg,False,3,1,W

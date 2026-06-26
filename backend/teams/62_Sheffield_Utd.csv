@@ -1,0 +1,39 @@
+fixture_id,date,team_id,team_name,opponent,is_home,goals_scored,goals_conceded,result
+1035042,2023-08-12T14:00:00+00:00,62,Sheffield Utd,Crystal Palace,True,0,1,L
+1035053,2023-08-18T18:45:00+00:00,62,Sheffield Utd,Nottingham Forest,False,1,2,L
+1035066,2023-08-27T13:00:00+00:00,62,Sheffield Utd,Manchester City,True,1,2,L
+1035076,2023-09-02T11:30:00+00:00,62,Sheffield Utd,Everton,True,2,2,D
+1035084,2023-09-16T14:00:00+00:00,62,Sheffield Utd,Tottenham,False,1,2,L
+1035096,2023-09-24T15:30:00+00:00,62,Sheffield Utd,Newcastle,True,0,8,L
+1035105,2023-09-30T14:00:00+00:00,62,Sheffield Utd,West Ham,False,0,2,L
+1035112,2023-10-07T14:00:00+00:00,62,Sheffield Utd,Fulham,False,1,3,L
+1035125,2023-10-21T19:00:00+00:00,62,Sheffield Utd,Manchester United,True,1,2,L
+1035128,2023-10-28T14:00:00+00:00,62,Sheffield Utd,Arsenal,False,0,5,L
+1035145,2023-11-04T15:00:00+00:00,62,Sheffield Utd,Wolves,True,2,1,W
+1035150,2023-11-12T14:00:00+00:00,62,Sheffield Utd,Brighton,False,1,1,D
+1035302,2023-11-25T15:00:00+00:00,62,Sheffield Utd,Bournemouth,True,1,3,L
+1035307,2023-12-02T15:00:00+00:00,62,Sheffield Utd,Burnley,False,0,5,L
+1035319,2023-12-06T19:30:00+00:00,62,Sheffield Utd,Liverpool,True,0,2,L
+1035331,2023-12-09T15:00:00+00:00,62,Sheffield Utd,Brentford,True,1,0,W
+1035338,2023-12-16T15:00:00+00:00,62,Sheffield Utd,Chelsea,False,0,2,L
+1035344,2023-12-22T20:00:00+00:00,62,Sheffield Utd,Aston Villa,False,1,1,D
+1035363,2023-12-26T15:00:00+00:00,62,Sheffield Utd,Luton,True,2,3,L
+1035369,2023-12-30T15:00:00+00:00,62,Sheffield Utd,Manchester City,False,0,2,L
+1035383,2024-01-21T14:00:00+00:00,62,Sheffield Utd,West Ham,True,2,2,D
+1035391,2024-01-30T20:00:00+00:00,62,Sheffield Utd,Crystal Palace,False,2,3,L
+1035403,2024-02-03T17:30:00+00:00,62,Sheffield Utd,Aston Villa,True,0,5,L
+1035408,2024-02-10T15:00:00+00:00,62,Sheffield Utd,Luton,False,3,1,W
+1035422,2024-02-18T14:00:00+00:00,62,Sheffield Utd,Brighton,True,0,5,L
+1035433,2024-02-25T13:30:00+00:00,62,Sheffield Utd,Wolves,False,0,1,L
+1035442,2024-03-04T20:00:00+00:00,62,Sheffield Utd,Arsenal,True,0,6,L
+1035444,2024-03-09T15:00:00+00:00,62,Sheffield Utd,Bournemouth,False,2,2,D
+1035472,2024-03-30T15:00:00+00:00,62,Sheffield Utd,Fulham,True,3,3,D
+1035482,2024-04-04T18:30:00+00:00,62,Sheffield Utd,Liverpool,False,1,3,L
+1035491,2024-04-07T16:30:00+00:00,62,Sheffield Utd,Chelsea,True,2,2,D
+1035496,2024-04-13T14:00:00+00:00,62,Sheffield Utd,Brentford,False,0,2,L
+1035511,2024-04-20T14:00:00+00:00,62,Sheffield Utd,Burnley,True,1,4,L
+1035461,2024-04-24T19:00:00+00:00,62,Sheffield Utd,Manchester United,False,2,4,L
+1035519,2024-04-27T14:00:00+00:00,62,Sheffield Utd,Newcastle,False,1,5,L
+1035533,2024-05-04T14:00:00+00:00,62,Sheffield Utd,Nottingham Forest,True,1,3,L
+1035536,2024-05-11T14:00:00+00:00,62,Sheffield Utd,Everton,False,0,1,L
+1035553,2024-05-19T15:00:00+00:00,62,Sheffield Utd,Tottenham,True,0,3,L

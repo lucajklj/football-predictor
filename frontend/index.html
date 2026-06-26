@@ -1,0 +1,597 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+    <meta charset="UTF-8">
+    <title>Predictor Fotbal</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@latest/tabler-icons.min.css">
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #0a5c2e 0%, #0d7a3e 50%, #0a5c2e 100%);
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            padding: 24px;
+            position: relative;
+            overflow-x: hidden;
+        }
+
+        body::before {
+            content: '';
+            position: fixed;
+            inset: 0;
+            background-image:
+                repeating-linear-gradient(0deg, transparent, transparent 59px, rgba(255,255,255,0.06) 59px, rgba(255,255,255,0.06) 60px),
+                repeating-linear-gradient(90deg, transparent, transparent 59px, rgba(255,255,255,0.06) 59px, rgba(255,255,255,0.06) 60px);
+            pointer-events: none;
+            z-index: 0;
+        }
+
+
+        .layout {
+            display: grid;
+            grid-template-columns: 1fr 2fr 1fr;
+            gap: 16px;
+            width: 100%;
+            max-width: 1400px;
+            margin: 0 auto;
+            z-index: 1;
+            align-items: start;
+        }
+
+        /* ── CARDS ── */
+        .card {
+            background: rgba(255,255,255,0.97);
+            border-radius: 20px;
+            padding: 24px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+        }
+
+        .card-header {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            margin-bottom: 16px;
+            padding-bottom: 12px;
+            border-bottom: 1.5px dashed #e5e7eb;
+        }
+
+        .card-header i {
+            font-size: 20px;
+            color: #0d7a3e;
+        }
+
+        .card-header span {
+            font-size: 15px;
+            font-weight: 700;
+            color: #0a3d1f;
+        }
+
+
+        .header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .header-icon {
+            width: 48px;
+            height: 48px;
+            background: #0d7a3e;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 0 auto 10px;
+            color: white;
+            font-size: 22px;
+        }
+
+        .header h2 {
+            font-size: 18px;
+            font-weight: 700;
+            color: #0a3d1f;
+        }
+
+        .header p {
+            font-size: 12px;
+            color: #6b7280;
+            margin-top: 3px;
+        }
+
+        .section-label {
+            font-size: 11px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: #6b7280;
+            margin-bottom: 8px;
+        }
+
+        .team-select {
+            display: grid;
+            grid-template-columns: 1fr auto 1fr;
+            gap: 10px;
+            align-items: end;
+            margin-bottom: 20px;
+        }
+
+        .vs-badge {
+            width: 32px;
+            height: 32px;
+            background: #f3f4f6;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 10px;
+            font-weight: 700;
+            color: #6b7280;
+        }
+
+        select {
+            width: 100%;
+            padding: 9px 10px;
+            border-radius: 10px;
+            border: 1.5px solid #e5e7eb;
+            font-size: 13px;
+            color: #111827;
+            background: white;
+            cursor: pointer;
+            transition: border-color 0.2s;
+        }
+
+        select:focus { outline: none; border-color: #0d7a3e; }
+
+        .divider {
+            border: none;
+            border-top: 1.5px dashed #e5e7eb;
+            margin: 16px 0;
+        }
+
+        .options-label {
+            font-size: 11px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: #6b7280;
+            margin-bottom: 10px;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+
+        .options {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 7px;
+            margin-bottom: 20px;
+        }
+
+        .option-item {
+            display: flex;
+            align-items: center;
+            gap: 7px;
+            padding: 9px 10px;
+            border: 1.5px solid #e5e7eb;
+            border-radius: 10px;
+            cursor: pointer;
+            transition: all 0.2s;
+            font-size: 12px;
+            color: #374151;
+        }
+
+        .option-item:hover { border-color: #0d7a3e; background: #f0faf4; }
+        .option-item input { accent-color: #0d7a3e; width: 14px; height: 14px; }
+        .option-item i { font-size: 15px; color: #0d7a3e; }
+
+        .btn-predict {
+            width: 100%;
+            padding: 13px;
+            background: #0d7a3e;
+            color: white;
+            border: none;
+            border-radius: 12px;
+            font-weight: 700;
+            font-size: 14px;
+            cursor: pointer;
+            transition: all 0.2s;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+            letter-spacing: 0.5px;
+        }
+
+        .btn-predict:hover { background: #0a5c2e; transform: translateY(-1px); }
+        .btn-predict:active { transform: translateY(0); }
+
+        .chart-container {
+            width: 100%;
+            margin: 20px auto 0;
+        }
+
+
+        .match-title {
+            text-align: center;
+            font-weight: 700;
+            color: #0d7a3e;
+            font-size: 13px;
+            margin-bottom: 12px;
+            padding: 7px;
+            background: #f0faf4;
+            border-radius: 8px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 12px;
+        }
+
+        thead tr { background: #0a3d1f; color: white; }
+
+        thead th {
+            padding: 9px 8px;
+            text-align: left;
+            font-weight: 600;
+            font-size: 11px;
+            letter-spacing: 0.5px;
+        }
+
+        thead th:first-child { border-radius: 8px 0 0 8px; }
+        thead th:last-child  { border-radius: 0 8px 8px 0; }
+
+        tbody tr { border-bottom: 1px solid #f3f4f6; transition: background 0.15s; }
+        tbody tr:hover { background: #f9fafb; }
+        tbody td { padding: 9px 8px; }
+
+        .w-pct { color: #16a34a; font-weight: 600; }
+        .d-pct { color: #d97706; font-weight: 600; }
+        .l-pct { color: #dc2626; font-weight: 600; }
+
+        .feat-badge {
+            background: #f0faf4;
+            color: #0a5c2e;
+            padding: 2px 6px;
+            border-radius: 6px;
+            font-size: 10px;
+            font-weight: 500;
+        }
+
+
+        .saved-list { display: flex; flex-direction: column; gap: 10px; }
+
+        .saved-item {
+            background: #f9fafb;
+            border: 1px solid #e5e7eb;
+            border-radius: 10px;
+            padding: 10px 12px;
+            font-size: 12px;
+        }
+
+        .saved-item-title {
+            font-weight: 700;
+            color: #0a3d1f;
+            margin-bottom: 6px;
+            font-size: 13px;
+        }
+
+        .saved-item-row {
+            display: flex;
+            justify-content: space-between;
+            color: #6b7280;
+            font-size: 11px;
+            margin-bottom: 3px;
+        }
+
+        .saved-item-row span:last-child { font-weight: 600; color: #374151; }
+
+        .btn-save {
+            width: auto;
+            padding: 5px 10px;
+            background: #0d7a3e;
+            color: white;
+            border: none;
+            border-radius: 7px;
+            font-size: 11px;
+            font-weight: 600;
+            cursor: pointer;
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+            transition: background 0.2s;
+        }
+
+        .btn-save:hover { background: #0a5c2e; transform: none; }
+
+        .btn-delete {
+            width: auto;
+            padding: 4px 8px;
+            background: #fee2e2;
+            color: #dc2626;
+            border: none;
+            border-radius: 6px;
+            font-size: 11px;
+            font-weight: 600;
+            cursor: pointer;
+            display: inline-flex;
+            align-items: center;
+            gap: 4px;
+            margin-top: 6px;
+            transition: background 0.2s;
+        }
+
+        .btn-delete:hover { background: #fecaca; transform: none; }
+
+        .empty-saved {
+            text-align: center;
+            color: #9ca3af;
+            font-size: 12px;
+            padding: 20px 0;
+        }
+    </style>
+</head>
+<body>
+
+<div class="layout">
+
+
+    <div class="card">
+        <div class="card-header">
+            <i class="ti ti-history"></i>
+            <span>Istoric Predicții</span>
+        </div>
+        <div id="matchTitle" class="match-title" style="display:none"></div>
+        <table>
+            <thead>
+                <tr>
+                    <th>Factori</th>
+                    <th>W%</th>
+                    <th>D%</th>
+                    <th>L%</th>
+                    <th>Inc.</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody id="historyBody"></tbody>
+        </table>
+    </div>
+
+
+    <div class="card">
+        <div class="header">
+            <div class="header-icon">
+                <i class="ti ti-ball-football"></i>
+            </div>
+            <h2>BallKnowledge - AI POWERED PREDICTOR</h2>
+            <p>Analizează probabilitățile unui meci de fotbal</p>
+        </div>
+
+        <div class="section-label">Selectează echipele</div>
+        <div class="team-select">
+            <div>
+                <div class="section-label" style="color:#0a3d1f">
+                    <i class="ti ti-home" style="font-size:12px"></i> Gazde
+                </div>
+                <select id="homeTeam"></select>
+            </div>
+            <div style="display:flex;flex-direction:column;align-items:center;padding-bottom:2px">
+                <div class="vs-badge">VS</div>
+            </div>
+            <div>
+                <div class="section-label" style="color:#0a3d1f">
+                    <i class="ti ti-plane" style="font-size:12px"></i> Oaspeți
+                </div>
+                <select id="awayTeam"></select>
+            </div>
+        </div>
+
+        <hr class="divider">
+
+        <div class="options-label">
+            <i class="ti ti-adjustments-horizontal"></i> Factori de analiză
+        </div>
+        <div class="options">
+            <label class="option-item">
+                <input type="checkbox" value="form_pts_last5">
+                <i class="ti ti-trending-up"></i> Formă (5 meciuri)
+            </label>
+            <label class="option-item">
+                <input type="checkbox" value="clean_sheets_rate">
+                <i class="ti ti-shield"></i> Clean Sheets
+            </label>
+            <label class="option-item">
+                <input type="checkbox" value="win_streak">
+                <i class="ti ti-flame"></i> Win Streak
+            </label>
+            <label class="option-item">
+                <input type="checkbox" value="btts_rate">
+                <i class="ti ti-arrows-exchange"></i> Ambele Marchează
+            </label>
+            <label class="option-item">
+                <input type="checkbox" value="over_2_5_rate">
+                <i class="ti ti-chart-bar"></i> Peste 2.5 Goluri
+            </label>
+        </div>
+
+        <button class="btn-predict" onclick="makePrediction()">
+            <i class="ti ti-cpu"></i> GENEREAZĂ PREDICȚIE
+        </button>
+
+        <div style="margin-top:14px;">
+            <div class="section-label">Tip grafic</div>
+            <select id="chartType">
+                <option value="pie">Pie Chart</option>
+                <option value="bar">Bar Chart</option>
+            </select>
+        </div>
+
+        <div class="chart-container">
+            <canvas id="predictionChart"></canvas>
+        </div>
+    </div>
+
+
+    <div class="card">
+        <div class="card-header">
+            <i class="ti ti-bookmark"></i>
+            <span>Meciuri Salvate</span>
+        </div>
+        <div id="savedList" class="saved-list">
+            <div class="empty-saved">
+                <i class="ti ti-bookmark-off" style="font-size:28px;display:block;margin-bottom:8px;color:#d1d5db"></i>
+                Niciun meci salvat încă.
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<script>
+    let chart = null;
+    let lastHome = null;
+    let lastAway = null;
+    let lastData = null;
+    let lastOpts = [];
+
+    window.onload = async () => {
+        const response = await fetch('http://127.0.0.1:5000/teams');
+        const teams = await response.json();
+        const hSelect = document.getElementById('homeTeam');
+        const aSelect = document.getElementById('awayTeam');
+        teams.forEach(team => {
+            hSelect.add(new Option(team, team));
+            aSelect.add(new Option(team, team));
+        });
+    };
+
+    async function makePrediction() {
+        const home = document.getElementById('homeTeam').value;
+        const away = document.getElementById('awayTeam').value;
+
+        if (home === away) {
+            alert('Nu poți selecta aceeași echipă de două ori!');
+            return;
+        }
+
+        const checkboxes = document.querySelectorAll('input[type="checkbox"]:checked');
+        const opts = Array.from(checkboxes).map(cb => cb.value);
+
+        if (home !== lastHome || away !== lastAway) {
+            document.getElementById('historyBody').innerHTML = '';
+            lastHome = home;
+            lastAway = away;
+        }
+
+        const response = await fetch('http://127.0.0.1:5000/predict', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ home_team: home, away_team: away, options: opts })
+        });
+
+        const data = await response.json();
+        lastData = data;
+        lastOpts = opts;
+
+        const selectedType = document.getElementById('chartType').value;
+
+        if (chart) chart.destroy();
+        const ctx = document.getElementById('predictionChart').getContext('2d');
+        chart = new Chart(ctx, {
+            type: selectedType,
+            data: data[selectedType],
+            options: {
+                plugins: {
+                    legend: {
+                        display: true,
+                        position: selectedType === 'pie' ? 'left' : 'bottom',
+                        labels: { font: { size: 12 }, padding: 14 }
+                    }
+                },
+                scales: {
+                    x: { display: selectedType === 'bar' },
+                    y: { display: selectedType === 'bar' }
+                }
+            }
+        });
+
+        const titleEl = document.getElementById('matchTitle');
+        titleEl.textContent = `${home} vs ${away}`;
+        titleEl.style.display = 'block';
+
+        const tbody = document.getElementById('historyBody');
+        const row = document.createElement('tr');
+        const w = data[selectedType].datasets[0].data[0];
+        const d = data[selectedType].datasets[0].data[1];
+        const l = data[selectedType].datasets[0].data[2];
+
+        row.innerHTML = `
+            <td><span class="feat-badge">${opts.length > 0 ? opts.join(', ') : 'Base only'}</span></td>
+            <td class="w-pct">${w}%</td>
+            <td class="d-pct">${d}%</td>
+            <td class="l-pct">${l}%</td>
+            <td>${data.confidence_score}% - ${data.confidence_label}</td>
+            <td>
+                <button class="btn-save" onclick="saveMatch('${home}', '${away}', ${w}, ${d}, ${l}, '${data.confidence_label}', '${opts.join(',')}')">
+                    <i class="ti ti-bookmark"></i> Salvează
+                </button>
+            </td>
+        `;
+        tbody.appendChild(row);
+    }
+
+
+    function saveMatch(home, away, w, d, l, confidence, optsStr) {
+        const savedList = document.getElementById('savedList');
+
+        const exists = Array.from(savedList.querySelectorAll('.saved-item-title'))
+        .some(el => el.textContent === `${home} vs ${away}`) &&
+        Array.from(savedList.querySelectorAll('.saved-item'))
+        .some(el => el.dataset.key === `${home}-${away}-${optsStr}`);
+
+    if (exists) {
+        alert('Acest meci cu acești factori este deja salvat!');
+        return;
+    }
+        const empty = savedList.querySelector('.empty-saved');
+        if (empty) empty.remove();
+
+        const id = Date.now();
+        const item = document.createElement('div');
+        item.className = 'saved-item';
+        item.id = `saved-${id}`;
+        item.innerHTML = `
+            <div class="saved-item-title">${home} vs ${away}</div>
+            <div class="saved-item-row"><span>Victorie Gazde</span><span class="w-pct">${w}%</span></div>
+            <div class="saved-item-row"><span>Egal</span><span class="d-pct">${d}%</span></div>
+            <div class="saved-item-row"><span>Victorie Oaspeți</span><span class="l-pct">${l}%</span></div>
+            <div class="saved-item-row"><span>Încredere</span><span>${confidence}</span></div>
+            <div class="saved-item-row"><span>Factori</span><span>${optsStr || 'Base only'}</span></div>
+            <button class="btn-delete" onclick="deleteMatch(${id})">
+                <i class="ti ti-trash"></i> Șterge
+            </button>
+        `;
+        item.dataset.key = `${home}-${away}-${optsStr}`;
+        savedList.appendChild(item);
+    }
+
+    function deleteMatch(id) {
+        const item = document.getElementById(`saved-${id}`);
+        if (item) item.remove();
+
+        const savedList = document.getElementById('savedList');
+        if (savedList.children.length === 0) {
+            savedList.innerHTML = `
+                <div class="empty-saved">
+                    <i class="ti ti-bookmark-off" style="font-size:28px;display:block;margin-bottom:8px;color:#d1d5db"></i>
+                    Niciun meci salvat încă.
+                </div>
+            `;
+        }
+    }
+</script>
+</body>
+</html>

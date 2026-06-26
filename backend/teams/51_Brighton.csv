@@ -1,0 +1,115 @@
+fixture_id,date,team_id,team_name,opponent,is_home,goals_scored,goals_conceded,result
+867954,2022-08-07T13:00:00+00:00,51,Brighton,Manchester United,False,2,1,W
+867959,2022-08-13T14:00:00+00:00,51,Brighton,Newcastle,True,0,0,D
+867975,2022-08-21T13:00:00+00:00,51,Brighton,West Ham,False,2,0,W
+867979,2022-08-27T14:00:00+00:00,51,Brighton,Leeds,True,1,0,W
+867988,2022-08-30T18:30:00+00:00,51,Brighton,Fulham,False,1,2,L
+867998,2022-09-04T13:00:00+00:00,51,Brighton,Leicester,True,5,2,W
+868032,2022-10-01T14:00:00+00:00,51,Brighton,Liverpool,False,3,3,D
+868038,2022-10-08T16:30:00+00:00,51,Brighton,Tottenham,True,0,1,L
+868047,2022-10-14T19:00:00+00:00,51,Brighton,Brentford,False,0,2,L
+868059,2022-10-18T18:30:00+00:00,51,Brighton,Nottingham Forest,True,0,0,D
+868070,2022-10-22T14:00:00+00:00,51,Brighton,Manchester City,False,1,3,L
+868079,2022-10-29T14:00:00+00:00,51,Brighton,Chelsea,True,4,1,W
+868095,2022-11-05T15:00:00+00:00,51,Brighton,Wolves,False,3,2,W
+868097,2022-11-13T14:00:00+00:00,51,Brighton,Aston Villa,True,1,2,L
+868115,2022-12-26T15:00:00+00:00,51,Brighton,Southampton,False,3,1,W
+868117,2022-12-31T17:30:00+00:00,51,Brighton,Arsenal,True,2,4,L
+868131,2023-01-03T19:45:00+00:00,51,Brighton,Everton,False,4,1,W
+868138,2023-01-14T15:00:00+00:00,51,Brighton,Liverpool,True,3,0,W
+868151,2023-01-21T15:00:00+00:00,51,Brighton,Leicester,False,2,2,D
+868158,2023-02-04T15:00:00+00:00,51,Brighton,Bournemouth,True,1,0,W
+868168,2023-02-11T15:00:00+00:00,51,Brighton,Crystal Palace,False,1,1,D
+868178,2023-02-18T15:00:00+00:00,51,Brighton,Fulham,True,0,1,L
+868199,2023-03-04T15:00:00+00:00,51,Brighton,West Ham,True,4,0,W
+868210,2023-03-11T15:00:00+00:00,51,Brighton,Leeds,False,2,2,D
+868018,2023-03-15T19:30:00+00:00,51,Brighton,Crystal Palace,True,1,0,W
+868228,2023-04-01T14:00:00+00:00,51,Brighton,Brentford,True,3,3,D
+868006,2023-04-04T18:45:00+00:00,51,Brighton,Bournemouth,False,2,0,W
+868244,2023-04-08T14:00:00+00:00,51,Brighton,Tottenham,False,1,2,L
+868247,2023-04-15T14:00:00+00:00,51,Brighton,Chelsea,False,2,1,W
+868268,2023-04-26T18:30:00+00:00,51,Brighton,Nottingham Forest,False,1,3,L
+868279,2023-04-29T14:00:00+00:00,51,Brighton,Wolves,True,6,0,W
+868219,2023-05-04T19:00:00+00:00,51,Brighton,Manchester United,True,1,0,W
+868287,2023-05-08T16:30:00+00:00,51,Brighton,Everton,True,1,5,L
+868296,2023-05-14T15:30:00+00:00,51,Brighton,Arsenal,False,3,0,W
+868193,2023-05-18T18:30:00+00:00,51,Brighton,Newcastle,False,1,4,L
+868307,2023-05-21T13:00:00+00:00,51,Brighton,Southampton,True,3,1,W
+868259,2023-05-24T19:00:00+00:00,51,Brighton,Manchester City,True,1,1,D
+868317,2023-05-28T15:30:00+00:00,51,Brighton,Aston Villa,False,1,2,L
+1035040,2023-08-12T14:00:00+00:00,51,Brighton,Luton,True,4,1,W
+1035056,2023-08-19T14:00:00+00:00,51,Brighton,Wolves,False,4,1,W
+1035060,2023-08-26T16:30:00+00:00,51,Brighton,West Ham,True,1,3,L
+1035069,2023-09-02T16:30:00+00:00,51,Brighton,Newcastle,True,3,1,W
+1035081,2023-09-16T14:00:00+00:00,51,Brighton,Manchester United,False,3,1,W
+1035089,2023-09-24T13:00:00+00:00,51,Brighton,Bournemouth,True,3,1,W
+1035098,2023-09-30T11:30:00+00:00,51,Brighton,Aston Villa,False,1,6,L
+1035108,2023-10-08T13:00:00+00:00,51,Brighton,Liverpool,True,2,2,D
+1035122,2023-10-21T14:00:00+00:00,51,Brighton,Manchester City,False,1,2,L
+1035130,2023-10-29T14:00:00+00:00,51,Brighton,Fulham,True,1,1,D
+1035139,2023-11-04T15:00:00+00:00,51,Brighton,Everton,False,1,1,D
+1035150,2023-11-12T14:00:00+00:00,51,Brighton,Sheffield Utd,True,1,1,D
+1035301,2023-11-25T15:00:00+00:00,51,Brighton,Nottingham Forest,False,3,2,W
+1035308,2023-12-03T14:00:00+00:00,51,Brighton,Chelsea,False,2,3,L
+1035315,2023-12-06T19:30:00+00:00,51,Brighton,Brentford,True,2,1,W
+1035325,2023-12-09T15:00:00+00:00,51,Brighton,Burnley,True,1,1,D
+1035335,2023-12-17T14:00:00+00:00,51,Brighton,Arsenal,False,0,2,L
+1035345,2023-12-21T20:00:00+00:00,51,Brighton,Crystal Palace,False,1,1,D
+1035357,2023-12-28T19:30:00+00:00,51,Brighton,Tottenham,True,4,2,W
+1035372,2024-01-02T19:30:00+00:00,51,Brighton,West Ham,False,0,0,D
+1035377,2024-01-22T19:45:00+00:00,51,Brighton,Wolves,True,0,0,D
+1035386,2024-01-30T19:45:00+00:00,51,Brighton,Luton,False,0,4,L
+1035397,2024-02-03T15:00:00+00:00,51,Brighton,Crystal Palace,True,4,1,W
+1035411,2024-02-10T15:00:00+00:00,51,Brighton,Tottenham,False,1,2,L
+1035422,2024-02-18T14:00:00+00:00,51,Brighton,Sheffield Utd,False,5,0,W
+1035427,2024-02-24T15:00:00+00:00,51,Brighton,Everton,True,1,1,D
+1035437,2024-03-02T15:00:00+00:00,51,Brighton,Fulham,False,0,3,L
+1035447,2024-03-10T14:00:00+00:00,51,Brighton,Nottingham Forest,True,1,0,W
+1035468,2024-03-31T13:00:00+00:00,51,Brighton,Liverpool,False,1,2,L
+1035476,2024-04-03T18:30:00+00:00,51,Brighton,Brentford,False,0,0,D
+1035485,2024-04-06T16:30:00+00:00,51,Brighton,Arsenal,True,0,3,L
+1035497,2024-04-13T14:00:00+00:00,51,Brighton,Burnley,False,1,1,D
+1035455,2024-04-25T19:00:00+00:00,51,Brighton,Manchester City,True,0,4,L
+1035514,2024-04-28T13:00:00+00:00,51,Brighton,Bournemouth,False,0,3,L
+1035526,2024-05-05T13:00:00+00:00,51,Brighton,Aston Villa,True,1,0,W
+1035539,2024-05-11T14:00:00+00:00,51,Brighton,Newcastle,False,1,1,D
+1035505,2024-05-15T18:45:00+00:00,51,Brighton,Chelsea,True,1,2,L
+1035546,2024-05-19T15:00:00+00:00,51,Brighton,Manchester United,True,0,2,L
+1208024,2024-08-17T14:00:00+00:00,51,Brighton,Everton,False,3,0,W
+1208033,2024-08-24T11:30:00+00:00,51,Brighton,Manchester United,True,2,1,W
+1208041,2024-08-31T11:30:00+00:00,51,Brighton,Arsenal,False,1,1,D
+1208053,2024-09-14T14:00:00+00:00,51,Brighton,Ipswich,True,0,0,D
+1208062,2024-09-22T13:00:00+00:00,51,Brighton,Nottingham Forest,True,2,2,D
+1208074,2024-09-28T14:00:00+00:00,51,Brighton,Chelsea,False,2,4,L
+1208084,2024-10-06T15:30:00+00:00,51,Brighton,Tottenham,True,3,2,W
+1208096,2024-10-19T14:00:00+00:00,51,Brighton,Newcastle,False,1,0,W
+1208106,2024-10-26T14:00:00+00:00,51,Brighton,Wolves,True,2,2,D
+1208116,2024-11-02T15:00:00+00:00,51,Brighton,Liverpool,False,1,2,L
+1208124,2024-11-09T17:30:00+00:00,51,Brighton,Manchester City,True,2,1,W
+1208133,2024-11-23T15:00:00+00:00,51,Brighton,Bournemouth,False,2,1,W
+1208144,2024-11-29T20:00:00+00:00,51,Brighton,Southampton,True,1,1,D
+1208157,2024-12-05T19:30:00+00:00,51,Brighton,Fulham,False,1,3,L
+1208169,2024-12-08T14:00:00+00:00,51,Brighton,Leicester,False,2,2,D
+1208175,2024-12-15T14:00:00+00:00,51,Brighton,Crystal Palace,True,1,3,L
+1208192,2024-12-21T15:00:00+00:00,51,Brighton,West Ham,False,1,1,D
+1208195,2024-12-27T19:30:00+00:00,51,Brighton,Brentford,True,0,0,D
+1208203,2024-12-30T19:45:00+00:00,51,Brighton,Aston Villa,False,2,2,D
+1208215,2025-01-04T17:30:00+00:00,51,Brighton,Arsenal,True,1,1,D
+1208226,2025-01-16T19:30:00+00:00,51,Brighton,Ipswich,False,2,0,W
+1208239,2025-01-19T14:00:00+00:00,51,Brighton,Manchester United,False,3,1,W
+1208245,2025-01-25T15:00:00+00:00,51,Brighton,Everton,True,0,1,L
+1208261,2025-02-01T12:30:00+00:00,51,Brighton,Nottingham Forest,False,0,7,L
+1208264,2025-02-14T20:00:00+00:00,51,Brighton,Chelsea,True,3,0,W
+1208282,2025-02-22T15:00:00+00:00,51,Brighton,Southampton,False,4,0,W
+1208284,2025-02-25T19:30:00+00:00,51,Brighton,Bournemouth,True,2,1,W
+1208294,2025-03-08T15:00:00+00:00,51,Brighton,Fulham,True,2,1,W
+1208310,2025-03-15T15:00:00+00:00,51,Brighton,Manchester City,False,2,2,D
+1208315,2025-04-02T18:45:00+00:00,51,Brighton,Aston Villa,True,0,3,L
+1208325,2025-04-05T14:00:00+00:00,51,Brighton,Crystal Palace,False,1,2,L
+1208335,2025-04-12T14:00:00+00:00,51,Brighton,Leicester,True,2,2,D
+1208344,2025-04-19T14:00:00+00:00,51,Brighton,Brentford,False,2,4,L
+1208355,2025-04-26T14:00:00+00:00,51,Brighton,West Ham,True,3,2,W
+1208366,2025-05-04T13:00:00+00:00,51,Brighton,Newcastle,True,1,1,D
+1208382,2025-05-10T14:00:00+00:00,51,Brighton,Wolves,False,2,0,W
+1208386,2025-05-19T19:00:00+00:00,51,Brighton,Liverpool,True,3,2,W
+1208401,2025-05-25T15:00:00+00:00,51,Brighton,Tottenham,False,4,1,W

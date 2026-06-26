@@ -1,0 +1,107 @@
+fixture_id,date,team_id,team_name,opponent,is_home,goals_scored,goals_conceded,result
+871472,2022-08-06T19:00:00+00:00,85,Paris Saint Germain,Clermont Foot,False,5,0,W
+871486,2022-08-13T19:00:00+00:00,85,Paris Saint Germain,Montpellier,True,5,2,W
+871493,2022-08-21T18:45:00+00:00,85,Paris Saint Germain,Lille,False,7,1,W
+871505,2022-08-28T18:45:00+00:00,85,Paris Saint Germain,Monaco,True,1,1,D
+871519,2022-08-31T19:00:00+00:00,85,Paris Saint Germain,Toulouse,False,3,0,W
+871523,2022-09-03T19:00:00+00:00,85,Paris Saint Germain,Nantes,False,3,0,W
+871535,2022-09-10T15:00:00+00:00,85,Paris Saint Germain,Stade Brestois 29,True,1,0,W
+871546,2022-09-18T18:45:00+00:00,85,Paris Saint Germain,Lyon,False,1,0,W
+871555,2022-10-01T19:00:00+00:00,85,Paris Saint Germain,Nice,True,2,1,W
+871569,2022-10-08T19:00:00+00:00,85,Paris Saint Germain,Reims,False,0,0,D
+871574,2022-10-16T18:45:00+00:00,85,Paris Saint Germain,Marseille,True,1,0,W
+871580,2022-10-21T19:00:00+00:00,85,Paris Saint Germain,Ajaccio,False,3,0,W
+871595,2022-10-29T15:00:00+00:00,85,Paris Saint Germain,Estac Troyes,True,4,3,W
+871603,2022-11-06T12:00:00+00:00,85,Paris Saint Germain,Lorient,False,2,1,W
+871615,2022-11-13T12:00:00+00:00,85,Paris Saint Germain,Auxerre,True,5,0,W
+871626,2022-12-28T20:00:00+00:00,85,Paris Saint Germain,Strasbourg,True,2,1,W
+871634,2023-01-01T19:45:00+00:00,85,Paris Saint Germain,Lens,False,1,3,L
+871646,2023-01-11T20:00:00+00:00,85,Paris Saint Germain,Angers,True,2,0,W
+871657,2023-01-15T19:45:00+00:00,85,Paris Saint Germain,Rennes,False,0,1,L
+871666,2023-01-29T19:45:00+00:00,85,Paris Saint Germain,Reims,True,1,1,D
+871676,2023-02-01T20:00:00+00:00,85,Paris Saint Germain,Montpellier,False,3,1,W
+871685,2023-02-04T16:00:00+00:00,85,Paris Saint Germain,Toulouse,True,2,1,W
+871690,2023-02-11T16:00:00+00:00,85,Paris Saint Germain,Monaco,False,1,3,L
+871703,2023-02-19T12:00:00+00:00,85,Paris Saint Germain,Lille,True,4,3,W
+871718,2023-02-26T19:45:00+00:00,85,Paris Saint Germain,Marseille,False,3,0,W
+871723,2023-03-04T20:00:00+00:00,85,Paris Saint Germain,Nantes,True,4,2,W
+871739,2023-03-11T20:00:00+00:00,85,Paris Saint Germain,Stade Brestois 29,False,2,1,W
+871744,2023-03-19T16:05:00+00:00,85,Paris Saint Germain,Rennes,True,0,2,L
+871757,2023-04-02T18:45:00+00:00,85,Paris Saint Germain,Lyon,True,0,1,L
+871765,2023-04-08T19:00:00+00:00,85,Paris Saint Germain,Nice,False,2,0,W
+871775,2023-04-15T19:00:00+00:00,85,Paris Saint Germain,Lens,True,3,1,W
+871782,2023-04-21T19:00:00+00:00,85,Paris Saint Germain,Angers,False,2,1,W
+871794,2023-04-30T15:05:00+00:00,85,Paris Saint Germain,Lorient,True,1,3,L
+871809,2023-05-07T18:45:00+00:00,85,Paris Saint Germain,Estac Troyes,False,3,1,W
+871814,2023-05-13T19:00:00+00:00,85,Paris Saint Germain,Ajaccio,True,5,0,W
+871821,2023-05-21T18:45:00+00:00,85,Paris Saint Germain,Auxerre,False,2,1,W
+871837,2023-05-27T19:00:00+00:00,85,Paris Saint Germain,Strasbourg,False,1,1,D
+871846,2023-06-03T19:00:00+00:00,85,Paris Saint Germain,Clermont Foot,True,2,3,L
+1044881,2023-08-12T19:00:00+00:00,85,Paris Saint Germain,Lorient,True,0,0,D
+1044890,2023-08-19T19:00:00+00:00,85,Paris Saint Germain,Toulouse,False,1,1,D
+1044899,2023-08-26T19:00:00+00:00,85,Paris Saint Germain,Lens,True,3,1,W
+1044911,2023-09-03T18:45:00+00:00,85,Paris Saint Germain,Lyon,False,4,1,W
+1044917,2023-09-15T19:00:00+00:00,85,Paris Saint Germain,Nice,True,2,3,L
+1044926,2023-09-24T18:45:00+00:00,85,Paris Saint Germain,Marseille,True,4,0,W
+1044941,2023-09-30T15:00:00+00:00,85,Paris Saint Germain,Clermont Foot,False,0,0,D
+1044945,2023-10-08T18:45:00+00:00,85,Paris Saint Germain,Rennes,False,3,1,W
+1044953,2023-10-21T15:00:00+00:00,85,Paris Saint Germain,Strasbourg,True,3,0,W
+1044970,2023-10-29T12:00:00+00:00,85,Paris Saint Germain,Stade Brestois 29,False,3,2,W
+1044971,2023-11-03T20:00:00+00:00,85,Paris Saint Germain,Montpellier,True,3,0,W
+1044983,2023-11-11T16:00:00+00:00,85,Paris Saint Germain,Reims,False,3,0,W
+1044989,2023-11-24T20:00:00+00:00,85,Paris Saint Germain,Monaco,True,5,2,W
+1045005,2023-12-03T12:00:00+00:00,85,Paris Saint Germain,Le Havre,False,2,0,W
+1045007,2023-12-09T20:00:00+00:00,85,Paris Saint Germain,Nantes,True,2,1,W
+1045020,2023-12-17T19:45:00+00:00,85,Paris Saint Germain,Lille,False,1,1,D
+1045025,2023-12-20T20:00:00+00:00,85,Paris Saint Germain,Metz,True,3,1,W
+1045042,2024-01-14T19:45:00+00:00,85,Paris Saint Germain,Lens,False,2,0,W
+1045043,2024-01-28T19:45:00+00:00,85,Paris Saint Germain,Stade Brestois 29,True,2,2,D
+1045052,2024-02-02T20:00:00+00:00,85,Paris Saint Germain,Strasbourg,False,2,1,W
+1045061,2024-02-10T20:00:00+00:00,85,Paris Saint Germain,Lille,True,3,1,W
+1045076,2024-02-17T20:00:00+00:00,85,Paris Saint Germain,Nantes,False,2,0,W
+1045079,2024-02-25T16:05:00+00:00,85,Paris Saint Germain,Rennes,True,1,1,D
+1045090,2024-03-01T20:00:00+00:00,85,Paris Saint Germain,Monaco,False,0,0,D
+1045097,2024-03-10T12:00:00+00:00,85,Paris Saint Germain,Reims,True,2,2,D
+1045113,2024-03-17T19:45:00+00:00,85,Paris Saint Germain,Montpellier,False,6,2,W
+1045116,2024-03-31T18:45:00+00:00,85,Paris Saint Germain,Marseille,False,2,0,W
+1045124,2024-04-06T19:00:00+00:00,85,Paris Saint Germain,Clermont Foot,True,1,1,D
+1045142,2024-04-21T19:00:00+00:00,85,Paris Saint Germain,Lyon,True,4,1,W
+1045136,2024-04-24T17:00:00+00:00,85,Paris Saint Germain,Lorient,False,4,1,W
+1045151,2024-04-27T19:00:00+00:00,85,Paris Saint Germain,Le Havre,True,3,3,D
+1045169,2024-05-12T19:00:00+00:00,85,Paris Saint Germain,Toulouse,True,1,3,L
+1045163,2024-05-15T19:00:00+00:00,85,Paris Saint Germain,Nice,False,2,1,W
+1045186,2024-05-19T19:00:00+00:00,85,Paris Saint Germain,Metz,False,2,0,W
+1213754,2024-08-16T18:45:00+00:00,85,Paris Saint Germain,Le Havre,False,4,1,W
+1213756,2024-08-23T18:45:00+00:00,85,Paris Saint Germain,Montpellier,True,6,0,W
+1213765,2024-09-01T18:45:00+00:00,85,Paris Saint Germain,Lille,False,3,1,W
+1213782,2024-09-14T19:00:00+00:00,85,Paris Saint Germain,Stade Brestois 29,True,3,1,W
+1213785,2024-09-21T19:00:00+00:00,85,Paris Saint Germain,Reims,False,1,1,D
+1213793,2024-09-27T19:00:00+00:00,85,Paris Saint Germain,Rennes,True,3,1,W
+1213802,2024-10-06T18:45:00+00:00,85,Paris Saint Germain,Nice,False,1,1,D
+1213818,2024-10-19T19:00:00+00:00,85,Paris Saint Germain,Strasbourg,True,4,2,W
+1213821,2024-10-27T19:45:00+00:00,85,Paris Saint Germain,Marseille,False,3,0,W
+1213836,2024-11-02T16:00:00+00:00,85,Paris Saint Germain,Lens,True,1,0,W
+1213845,2024-11-09T20:00:00+00:00,85,Paris Saint Germain,Angers,False,4,2,W
+1213846,2024-11-22T20:00:00+00:00,85,Paris Saint Germain,Toulouse,True,3,0,W
+1213861,2024-11-30T20:00:00+00:00,85,Paris Saint Germain,Nantes,True,1,1,D
+1213865,2024-12-06T20:00:00+00:00,85,Paris Saint Germain,Auxerre,False,0,0,D
+1213881,2024-12-15T19:45:00+00:00,85,Paris Saint Germain,Lyon,True,3,1,W
+1213882,2024-12-18T20:00:00+00:00,85,Paris Saint Germain,Monaco,False,4,2,W
+1213898,2025-01-12T19:45:00+00:00,85,Paris Saint Germain,Saint Etienne,True,2,1,W
+1213901,2025-01-18T16:00:00+00:00,85,Paris Saint Germain,Lens,False,2,1,W
+1213916,2025-01-25T20:05:00+00:00,85,Paris Saint Germain,Reims,True,1,1,D
+1213919,2025-02-01T16:00:00+00:00,85,Paris Saint Germain,Stade Brestois 29,False,5,2,W
+1213932,2025-02-07T20:05:00+00:00,85,Paris Saint Germain,Monaco,True,4,1,W
+1213936,2025-02-15T20:05:00+00:00,85,Paris Saint Germain,Toulouse,False,1,0,W
+1213953,2025-02-23T19:45:00+00:00,85,Paris Saint Germain,Lyon,False,3,2,W
+1213954,2025-03-01T20:05:00+00:00,85,Paris Saint Germain,Lille,True,4,1,W
+1213970,2025-03-08T16:00:00+00:00,85,Paris Saint Germain,Rennes,False,4,1,W
+1213972,2025-03-16T19:45:00+00:00,85,Paris Saint Germain,Marseille,True,3,1,W
+1213986,2025-03-29T18:00:00+00:00,85,Paris Saint Germain,Saint Etienne,False,6,1,W
+1213996,2025-04-05T15:00:00+00:00,85,Paris Saint Germain,Angers,True,1,0,W
+1214012,2025-04-19T15:00:00+00:00,85,Paris Saint Germain,Le Havre,True,2,1,W
+1214002,2025-04-22T18:45:00+00:00,85,Paris Saint Germain,Nantes,False,1,1,D
+1214023,2025-04-25T18:45:00+00:00,85,Paris Saint Germain,Nice,True,1,3,L
+1214033,2025-05-03T15:00:00+00:00,85,Paris Saint Germain,Strasbourg,False,1,2,L
+1214040,2025-05-10T19:00:00+00:00,85,Paris Saint Germain,Montpellier,False,4,1,W
+1214052,2025-05-17T19:00:00+00:00,85,Paris Saint Germain,Auxerre,True,3,1,W

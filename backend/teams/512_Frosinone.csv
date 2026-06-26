@@ -1,0 +1,39 @@
+fixture_id,date,team_id,team_name,opponent,is_home,goals_scored,goals_conceded,result
+1052255,2023-08-19T16:30:00+00:00,512,Frosinone,Napoli,True,1,3,L
+1052265,2023-08-26T16:30:00+00:00,512,Frosinone,Atalanta,True,2,1,W
+1052282,2023-09-02T16:30:00+00:00,512,Frosinone,Udinese,False,0,0,D
+1052285,2023-09-17T13:00:00+00:00,512,Frosinone,Sassuolo,True,4,2,W
+1052299,2023-09-22T16:30:00+00:00,512,Frosinone,Salernitana,False,1,1,D
+1052305,2023-09-28T16:30:00+00:00,512,Frosinone,Fiorentina,True,1,1,D
+1052318,2023-10-01T18:45:00+00:00,512,Frosinone,AS Roma,False,0,2,L
+1052325,2023-10-08T13:00:00+00:00,512,Frosinone,Hellas Verona,True,2,1,W
+1052334,2023-10-22T13:00:00+00:00,512,Frosinone,Bologna,False,1,2,L
+1052343,2023-10-29T11:30:00+00:00,512,Frosinone,Cagliari,False,3,4,L
+1052357,2023-11-06T17:30:00+00:00,512,Frosinone,Empoli,True,2,1,W
+1052365,2023-11-12T19:45:00+00:00,512,Frosinone,Inter,False,0,2,L
+1052377,2023-11-26T14:00:00+00:00,512,Frosinone,Genoa,True,2,1,W
+1052387,2023-12-02T19:45:00+00:00,512,Frosinone,AC Milan,False,1,3,L
+1052396,2023-12-10T11:30:00+00:00,512,Frosinone,Torino,True,0,0,D
+1052408,2023-12-16T14:00:00+00:00,512,Frosinone,Lecce,False,1,2,L
+1052415,2023-12-23T11:30:00+00:00,512,Frosinone,Juventus,True,1,2,L
+1052429,2023-12-29T19:45:00+00:00,512,Frosinone,Lazio,False,1,3,L
+1052435,2024-01-06T14:00:00+00:00,512,Frosinone,Monza,True,2,3,L
+1052443,2024-01-15T19:45:00+00:00,512,Frosinone,Atalanta,False,0,5,L
+1052455,2024-01-21T11:30:00+00:00,512,Frosinone,Cagliari,True,3,1,W
+1052467,2024-01-28T14:00:00+00:00,512,Frosinone,Hellas Verona,False,1,1,D
+1052476,2024-02-03T17:00:00+00:00,512,Frosinone,AC Milan,True,2,3,L
+1052485,2024-02-11T11:30:00+00:00,512,Frosinone,Fiorentina,False,1,5,L
+1052495,2024-02-18T17:00:00+00:00,512,Frosinone,AS Roma,True,0,3,L
+1052507,2024-02-25T11:30:00+00:00,512,Frosinone,Juventus,False,2,3,L
+1052515,2024-03-03T14:00:00+00:00,512,Frosinone,Lecce,True,1,1,D
+1052532,2024-03-09T14:00:00+00:00,512,Frosinone,Sassuolo,False,0,1,L
+1052535,2024-03-16T19:45:00+00:00,512,Frosinone,Lazio,True,2,3,L
+1052546,2024-03-30T14:00:00+00:00,512,Frosinone,Genoa,False,1,1,D
+1052555,2024-04-07T10:30:00+00:00,512,Frosinone,Bologna,True,0,0,D
+1052569,2024-04-14T10:30:00+00:00,512,Frosinone,Napoli,False,2,2,D
+1052582,2024-04-21T13:00:00+00:00,512,Frosinone,Torino,False,0,0,D
+1052586,2024-04-26T18:45:00+00:00,512,Frosinone,Salernitana,True,3,0,W
+1052594,2024-05-05T13:00:00+00:00,512,Frosinone,Empoli,False,0,0,D
+1052605,2024-05-10T18:45:00+00:00,512,Frosinone,Inter,True,0,5,L
+1052617,2024-05-19T13:00:00+00:00,512,Frosinone,Monza,False,1,0,W
+1052626,2024-05-26T18:45:00+00:00,512,Frosinone,Udinese,True,0,1,L

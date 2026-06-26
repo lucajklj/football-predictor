@@ -1,0 +1,115 @@
+fixture_id,date,team_id,team_name,opponent,is_home,goals_scored,goals_conceded,result
+877942,2022-08-15T15:30:00+00:00,798,Mallorca,Athletic Club,False,0,0,D
+877958,2022-08-20T17:30:00+00:00,798,Mallorca,Real Betis,True,1,2,L
+877971,2022-08-27T17:30:00+00:00,798,Mallorca,Rayo Vallecano,False,2,0,W
+877981,2022-09-03T12:00:00+00:00,798,Mallorca,Girona,True,1,1,D
+877991,2022-09-11T12:00:00+00:00,798,Mallorca,Real Madrid,False,1,4,L
+878001,2022-09-17T12:00:00+00:00,798,Mallorca,Almeria,True,1,0,W
+878007,2022-10-01T19:00:00+00:00,798,Mallorca,Barcelona,True,0,1,L
+878014,2022-10-10T19:00:00+00:00,798,Mallorca,Elche,False,1,1,D
+878024,2022-10-15T16:30:00+00:00,798,Mallorca,Sevilla,True,0,1,L
+878040,2022-10-19T18:00:00+00:00,798,Mallorca,Real Sociedad,False,0,1,L
+878048,2022-10-22T16:30:00+00:00,798,Mallorca,Valencia,False,2,1,W
+878059,2022-10-28T19:00:00+00:00,798,Mallorca,Espanyol,True,1,1,D
+878069,2022-11-06T17:30:00+00:00,798,Mallorca,Villarreal,False,2,0,W
+878076,2022-11-09T20:30:00+00:00,798,Mallorca,Atletico Madrid,True,1,0,W
+878085,2022-12-30T16:00:00+00:00,798,Mallorca,Getafe,False,0,2,L
+878094,2023-01-07T17:30:00+00:00,798,Mallorca,Valladolid,True,1,0,W
+878109,2023-01-14T17:30:00+00:00,798,Mallorca,Osasuna,False,0,1,L
+878118,2023-01-20T20:00:00+00:00,798,Mallorca,Celta Vigo,True,1,0,W
+878122,2023-01-28T13:00:00+00:00,798,Mallorca,Cadiz,False,0,2,L
+878137,2023-02-05T13:00:00+00:00,798,Mallorca,Real Madrid,True,1,0,W
+878150,2023-02-11T17:30:00+00:00,798,Mallorca,Sevilla,False,0,2,L
+878155,2023-02-18T17:30:00+00:00,798,Mallorca,Villarreal,True,4,2,W
+878165,2023-02-25T13:00:00+00:00,798,Mallorca,Espanyol,False,1,2,L
+878179,2023-03-04T17:30:00+00:00,798,Mallorca,Elche,True,0,1,L
+878185,2023-03-12T13:00:00+00:00,798,Mallorca,Real Sociedad,True,1,1,D
+878194,2023-03-19T13:00:00+00:00,798,Mallorca,Real Betis,False,0,1,L
+878204,2023-03-31T19:00:00+00:00,798,Mallorca,Osasuna,True,0,0,D
+878220,2023-04-09T12:00:00+00:00,798,Mallorca,Valladolid,False,3,3,D
+878224,2023-04-17T19:00:00+00:00,798,Mallorca,Celta Vigo,False,1,0,W
+878238,2023-04-23T16:30:00+00:00,798,Mallorca,Getafe,True,3,1,W
+878243,2023-04-26T17:30:00+00:00,798,Mallorca,Atletico Madrid,False,1,3,L
+878257,2023-05-01T17:00:00+00:00,798,Mallorca,Athletic Club,True,1,1,D
+878268,2023-05-04T17:30:00+00:00,798,Mallorca,Girona,False,1,2,L
+878278,2023-05-12T19:00:00+00:00,798,Mallorca,Cadiz,True,1,0,W
+878286,2023-05-20T16:30:00+00:00,798,Mallorca,Almeria,False,0,3,L
+878295,2023-05-25T17:30:00+00:00,798,Mallorca,Valencia,True,1,0,W
+878304,2023-05-28T17:00:00+00:00,798,Mallorca,Barcelona,False,0,3,L
+878313,2023-06-04T16:30:00+00:00,798,Mallorca,Rayo Vallecano,True,3,0,W
+1037957,2023-08-12T17:30:00+00:00,798,Mallorca,Las Palmas,False,1,1,D
+1037964,2023-08-18T17:30:00+00:00,798,Mallorca,Villarreal,True,0,1,L
+1037974,2023-08-26T17:30:00+00:00,798,Mallorca,Granada CF,False,2,3,L
+1037988,2023-09-03T14:15:00+00:00,798,Mallorca,Athletic Club,True,0,0,D
+1037994,2023-09-16T16:30:00+00:00,798,Mallorca,Celta Vigo,False,1,0,W
+1038006,2023-09-23T12:00:00+00:00,798,Mallorca,Girona,False,3,5,L
+1038016,2023-09-26T19:30:00+00:00,798,Mallorca,Barcelona,True,2,2,D
+1038031,2023-09-30T14:15:00+00:00,798,Mallorca,Rayo Vallecano,False,2,2,D
+1038035,2023-10-07T16:30:00+00:00,798,Mallorca,Valencia,True,1,1,D
+1038048,2023-10-21T12:00:00+00:00,798,Mallorca,Real Sociedad,False,0,1,L
+1038060,2023-10-28T16:30:00+00:00,798,Mallorca,Getafe,True,0,0,D
+1038062,2023-11-04T15:15:00+00:00,798,Mallorca,Real Betis,False,0,2,L
+1038082,2023-11-25T20:00:00+00:00,798,Mallorca,Atletico Madrid,False,0,1,L
+1038077,2023-11-29T20:00:00+00:00,798,Mallorca,Cadiz,True,1,1,D
+1038101,2023-12-03T13:00:00+00:00,798,Mallorca,Alaves,True,0,0,D
+1038106,2023-12-09T20:00:00+00:00,798,Mallorca,Sevilla,True,1,0,W
+1038112,2023-12-17T13:00:00+00:00,798,Mallorca,Almeria,False,0,0,D
+1038126,2023-12-21T20:30:00+00:00,798,Mallorca,Osasuna,True,3,2,W
+1038140,2024-01-03T18:15:00+00:00,798,Mallorca,Real Madrid,False,0,1,L
+1038150,2024-01-13T15:15:00+00:00,798,Mallorca,Celta Vigo,True,1,1,D
+1038160,2024-01-20T15:15:00+00:00,798,Mallorca,Villarreal,False,1,1,D
+1038168,2024-01-27T20:00:00+00:00,798,Mallorca,Real Betis,True,0,1,L
+1038172,2024-02-02T20:00:00+00:00,798,Mallorca,Athletic Club,False,0,4,L
+1038184,2024-02-11T15:15:00+00:00,798,Mallorca,Rayo Vallecano,True,2,1,W
+1038194,2024-02-18T17:30:00+00:00,798,Mallorca,Real Sociedad,True,1,2,L
+1038210,2024-02-24T17:30:00+00:00,798,Mallorca,Alaves,False,1,1,D
+1038217,2024-03-03T17:30:00+00:00,798,Mallorca,Girona,True,1,0,W
+1038223,2024-03-08T20:00:00+00:00,798,Mallorca,Barcelona,False,0,1,L
+1038240,2024-03-16T13:00:00+00:00,798,Mallorca,Granada CF,True,1,0,W
+1038251,2024-03-30T17:30:00+00:00,798,Mallorca,Valencia,False,0,0,D
+1038255,2024-04-13T16:30:00+00:00,798,Mallorca,Real Madrid,True,0,1,L
+1038270,2024-04-22T19:00:00+00:00,798,Mallorca,Sevilla,False,1,2,L
+1038275,2024-04-28T12:00:00+00:00,798,Mallorca,Cadiz,False,1,1,D
+1038285,2024-05-04T19:00:00+00:00,798,Mallorca,Atletico Madrid,True,0,1,L
+1038301,2024-05-11T12:00:00+00:00,798,Mallorca,Las Palmas,True,1,0,W
+1038309,2024-05-14T17:30:00+00:00,798,Mallorca,Osasuna,False,1,1,D
+1038318,2024-05-19T17:00:00+00:00,798,Mallorca,Almeria,True,2,2,D
+1038324,2024-05-26T12:00:00+00:00,798,Mallorca,Getafe,False,2,1,W
+1208496,2024-08-18T19:30:00+00:00,798,Mallorca,Real Madrid,True,1,1,D
+1208511,2024-08-24T15:00:00+00:00,798,Mallorca,Osasuna,False,0,1,L
+1208515,2024-08-27T17:00:00+00:00,798,Mallorca,Sevilla,True,0,0,D
+1208526,2024-08-31T19:30:00+00:00,798,Mallorca,Leganes,False,1,0,W
+1208533,2024-09-14T12:00:00+00:00,798,Mallorca,Villarreal,True,1,2,L
+1208550,2024-09-17T17:00:00+00:00,798,Mallorca,Real Sociedad,True,1,0,W
+1208540,2024-09-23T19:00:00+00:00,798,Mallorca,Real Betis,False,2,1,W
+1208562,2024-09-27T19:00:00+00:00,798,Mallorca,Valladolid,False,2,1,W
+1212918,2024-10-05T12:00:00+00:00,798,Mallorca,Espanyol,False,1,2,L
+1208579,2024-10-20T12:00:00+00:00,798,Mallorca,Rayo Vallecano,True,1,0,W
+1208585,2024-10-28T20:00:00+00:00,798,Mallorca,Athletic Club,True,0,0,D
+1208598,2024-11-01T20:00:00+00:00,798,Mallorca,Alaves,False,0,1,L
+1208606,2024-11-10T15:15:00+00:00,798,Mallorca,Atletico Madrid,True,0,1,L
+1208614,2024-11-23T17:30:00+00:00,798,Mallorca,Las Palmas,False,3,2,W
+1208621,2024-11-29T20:00:00+00:00,798,Mallorca,Valencia,True,2,1,W
+1208661,2024-12-03T18:00:00+00:00,798,Mallorca,Barcelona,True,1,5,L
+1208631,2024-12-06T20:00:00+00:00,798,Mallorca,Celta Vigo,False,0,2,L
+1208644,2024-12-14T15:15:00+00:00,798,Mallorca,Girona,True,2,1,W
+1208649,2024-12-21T13:00:00+00:00,798,Mallorca,Getafe,False,1,0,W
+1208670,2025-01-20T20:00:00+00:00,798,Mallorca,Villarreal,False,0,4,L
+1208679,2025-01-25T13:00:00+00:00,798,Mallorca,Real Betis,True,0,1,L
+1208683,2025-02-01T17:30:00+00:00,798,Mallorca,Atletico Madrid,False,0,2,L
+1208693,2025-02-10T20:00:00+00:00,798,Mallorca,Osasuna,True,1,1,D
+1208708,2025-02-16T17:30:00+00:00,798,Mallorca,Las Palmas,True,3,1,W
+1208717,2025-02-24T20:00:00+00:00,798,Mallorca,Sevilla,False,1,1,D
+1208727,2025-03-02T17:30:00+00:00,798,Mallorca,Alaves,True,1,1,D
+1208728,2025-03-09T17:30:00+00:00,798,Mallorca,Athletic Club,False,1,1,D
+1212937,2025-03-15T15:15:00+00:00,798,Mallorca,Espanyol,True,2,1,W
+1208753,2025-03-30T16:30:00+00:00,798,Mallorca,Valencia,False,0,1,L
+1208761,2025-04-05T16:30:00+00:00,798,Mallorca,Celta Vigo,True,1,2,L
+1208771,2025-04-12T12:00:00+00:00,798,Mallorca,Real Sociedad,False,2,0,W
+1208781,2025-04-19T16:30:00+00:00,798,Mallorca,Leganes,True,0,0,D
+1208784,2025-04-22T19:30:00+00:00,798,Mallorca,Barcelona,False,0,1,L
+1208791,2025-05-05T19:00:00+00:00,798,Mallorca,Girona,False,0,1,L
+1208805,2025-05-10T16:30:00+00:00,798,Mallorca,Valladolid,True,2,1,W
+1208815,2025-05-14T19:30:00+00:00,798,Mallorca,Real Madrid,False,1,2,L
+1208822,2025-05-18T17:00:00+00:00,798,Mallorca,Getafe,True,1,2,L
+1208834,2025-05-24T19:00:00+00:00,798,Mallorca,Rayo Vallecano,False,0,0,D

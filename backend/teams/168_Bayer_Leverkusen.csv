@@ -1,0 +1,103 @@
+fixture_id,date,team_id,team_name,opponent,is_home,goals_scored,goals_conceded,result
+871165,2022-08-06T16:30:00+00:00,168,Bayer Leverkusen,Borussia Dortmund,False,0,1,L
+871174,2022-08-13T13:30:00+00:00,168,Bayer Leverkusen,FC Augsburg,True,1,2,L
+871183,2022-08-20T13:30:00+00:00,168,Bayer Leverkusen,1899 Hoffenheim,True,0,3,L
+871195,2022-08-27T13:30:00+00:00,168,Bayer Leverkusen,FSV Mainz 05,False,3,0,W
+871201,2022-09-03T13:30:00+00:00,168,Bayer Leverkusen,SC Freiburg,True,2,3,L
+871215,2022-09-10T13:30:00+00:00,168,Bayer Leverkusen,Hertha Berlin,False,2,2,D
+871220,2022-09-17T13:30:00+00:00,168,Bayer Leverkusen,Werder Bremen,True,1,1,D
+871227,2022-09-30T18:30:00+00:00,168,Bayer Leverkusen,Bayern Munich,False,0,4,L
+871237,2022-10-08T13:30:00+00:00,168,Bayer Leverkusen,FC Schalke 04,True,4,0,W
+871249,2022-10-15T13:30:00+00:00,168,Bayer Leverkusen,Eintracht Frankfurt,False,1,5,L
+871255,2022-10-22T13:30:00+00:00,168,Bayer Leverkusen,VfL Wolfsburg,True,2,2,D
+871264,2022-10-29T13:30:00+00:00,168,Bayer Leverkusen,RB Leipzig,False,0,2,L
+871273,2022-11-06T14:30:00+00:00,168,Bayer Leverkusen,Union Berlin,True,5,0,W
+871284,2022-11-09T17:30:00+00:00,168,Bayer Leverkusen,1. FC Köln,False,2,1,W
+871290,2022-11-12T14:30:00+00:00,168,Bayer Leverkusen,VfB Stuttgart,True,2,0,W
+871303,2023-01-22T16:30:00+00:00,168,Bayer Leverkusen,Borussia Monchengladbach,False,3,2,W
+871309,2023-01-25T19:30:00+00:00,168,Bayer Leverkusen,Vfl Bochum,True,2,0,W
+871318,2023-01-29T16:30:00+00:00,168,Bayer Leverkusen,Borussia Dortmund,True,0,2,L
+871333,2023-02-03T19:30:00+00:00,168,Bayer Leverkusen,FC Augsburg,False,0,1,L
+871340,2023-02-11T14:30:00+00:00,168,Bayer Leverkusen,1899 Hoffenheim,False,3,1,W
+871345,2023-02-19T18:30:00+00:00,168,Bayer Leverkusen,FSV Mainz 05,True,2,3,L
+871355,2023-02-26T14:30:00+00:00,168,Bayer Leverkusen,SC Freiburg,False,1,1,D
+871363,2023-03-05T14:30:00+00:00,168,Bayer Leverkusen,Hertha Berlin,True,4,1,W
+871379,2023-03-12T16:30:00+00:00,168,Bayer Leverkusen,Werder Bremen,False,3,2,W
+871381,2023-03-19T16:30:00+00:00,168,Bayer Leverkusen,Bayern Munich,True,2,1,W
+871396,2023-04-01T13:30:00+00:00,168,Bayer Leverkusen,FC Schalke 04,False,3,0,W
+871399,2023-04-08T13:30:00+00:00,168,Bayer Leverkusen,Eintracht Frankfurt,True,3,1,W
+871412,2023-04-16T17:30:00+00:00,168,Bayer Leverkusen,VfL Wolfsburg,False,0,0,D
+871417,2023-04-23T15:30:00+00:00,168,Bayer Leverkusen,RB Leipzig,True,2,0,W
+871427,2023-04-29T13:30:00+00:00,168,Bayer Leverkusen,Union Berlin,False,0,0,D
+871435,2023-05-05T18:30:00+00:00,168,Bayer Leverkusen,1. FC Köln,True,1,2,L
+871451,2023-05-14T13:30:00+00:00,168,Bayer Leverkusen,VfB Stuttgart,False,1,1,D
+871453,2023-05-21T17:30:00+00:00,168,Bayer Leverkusen,Borussia Monchengladbach,True,2,2,D
+871468,2023-05-27T13:30:00+00:00,168,Bayer Leverkusen,Vfl Bochum,False,0,3,L
+1048884,2023-08-19T13:30:00+00:00,168,Bayer Leverkusen,RB Leipzig,True,3,2,W
+1048894,2023-08-26T16:30:00+00:00,168,Bayer Leverkusen,Borussia Monchengladbach,False,3,0,W
+1048901,2023-09-02T13:30:00+00:00,168,Bayer Leverkusen,SV Darmstadt 98,True,5,1,W
+1048908,2023-09-15T18:30:00+00:00,168,Bayer Leverkusen,Bayern Munich,False,2,2,D
+1048920,2023-09-24T13:30:00+00:00,168,Bayer Leverkusen,FC Heidenheim,True,4,1,W
+1048929,2023-09-30T13:30:00+00:00,168,Bayer Leverkusen,FSV Mainz 05,False,3,0,W
+1048938,2023-10-08T13:30:00+00:00,168,Bayer Leverkusen,1. FC Köln,True,3,0,W
+1048947,2023-10-21T13:30:00+00:00,168,Bayer Leverkusen,VfL Wolfsburg,False,2,1,W
+1048955,2023-10-29T16:30:00+00:00,168,Bayer Leverkusen,SC Freiburg,True,2,1,W
+1048968,2023-11-04T14:30:00+00:00,168,Bayer Leverkusen,1899 Hoffenheim,False,3,2,W
+1048973,2023-11-12T14:30:00+00:00,168,Bayer Leverkusen,Union Berlin,True,4,0,W
+1048987,2023-11-25T14:30:00+00:00,168,Bayer Leverkusen,Werder Bremen,False,3,0,W
+1048991,2023-12-03T16:30:00+00:00,168,Bayer Leverkusen,Borussia Dortmund,True,1,1,D
+1049005,2023-12-10T14:30:00+00:00,168,Bayer Leverkusen,VfB Stuttgart,False,1,1,D
+1049010,2023-12-17T16:30:00+00:00,168,Bayer Leverkusen,Eintracht Frankfurt,True,3,0,W
+1049018,2023-12-20T19:30:00+00:00,168,Bayer Leverkusen,Vfl Bochum,True,4,0,W
+1049032,2024-01-13T14:30:00+00:00,168,Bayer Leverkusen,FC Augsburg,False,1,0,W
+1049035,2024-01-20T17:30:00+00:00,168,Bayer Leverkusen,RB Leipzig,False,3,2,W
+1049045,2024-01-27T17:30:00+00:00,168,Bayer Leverkusen,Borussia Monchengladbach,True,0,0,D
+1049060,2024-02-03T14:30:00+00:00,168,Bayer Leverkusen,SV Darmstadt 98,False,2,0,W
+1049063,2024-02-10T17:30:00+00:00,168,Bayer Leverkusen,Bayern Munich,True,3,0,W
+1049077,2024-02-17T14:30:00+00:00,168,Bayer Leverkusen,FC Heidenheim,False,2,1,W
+1049082,2024-02-23T19:30:00+00:00,168,Bayer Leverkusen,FSV Mainz 05,True,2,1,W
+1049092,2024-03-03T14:30:00+00:00,168,Bayer Leverkusen,1. FC Köln,False,2,0,W
+1049099,2024-03-10T18:30:00+00:00,168,Bayer Leverkusen,VfL Wolfsburg,True,2,0,W
+1049108,2024-03-17T14:30:00+00:00,168,Bayer Leverkusen,SC Freiburg,False,3,2,W
+1049117,2024-03-30T14:30:00+00:00,168,Bayer Leverkusen,1899 Hoffenheim,True,2,1,W
+1049125,2024-04-06T13:30:00+00:00,168,Bayer Leverkusen,Union Berlin,False,1,0,W
+1049135,2024-04-14T15:30:00+00:00,168,Bayer Leverkusen,Werder Bremen,True,5,0,W
+1049142,2024-04-21T15:30:00+00:00,168,Bayer Leverkusen,Borussia Dortmund,False,1,1,D
+1049154,2024-04-27T16:30:00+00:00,168,Bayer Leverkusen,VfB Stuttgart,True,2,2,D
+1049162,2024-05-05T15:30:00+00:00,168,Bayer Leverkusen,Eintracht Frankfurt,False,5,1,W
+1049175,2024-05-12T17:30:00+00:00,168,Bayer Leverkusen,Vfl Bochum,False,5,0,W
+1049180,2024-05-18T13:30:00+00:00,168,Bayer Leverkusen,FC Augsburg,True,2,1,W
+1223975,2024-08-23T18:30:00+00:00,168,Bayer Leverkusen,Borussia Mönchengladbach,False,3,2,W
+1223984,2024-08-31T16:30:00+00:00,168,Bayer Leverkusen,RB Leipzig,True,2,3,L
+1223995,2024-09-14T13:30:00+00:00,168,Bayer Leverkusen,1899 Hoffenheim,False,4,1,W
+1224002,2024-09-22T13:30:00+00:00,168,Bayer Leverkusen,VfL Wolfsburg,True,4,3,W
+1224011,2024-09-28T16:30:00+00:00,168,Bayer Leverkusen,Bayern München,False,1,1,D
+1224020,2024-10-05T13:30:00+00:00,168,Bayer Leverkusen,Holstein Kiel,True,2,2,D
+1224029,2024-10-19T13:30:00+00:00,168,Bayer Leverkusen,Eintracht Frankfurt,True,2,1,W
+1224041,2024-10-26T16:30:00+00:00,168,Bayer Leverkusen,Werder Bremen,False,2,2,D
+1224047,2024-11-01T19:30:00+00:00,168,Bayer Leverkusen,VfB Stuttgart,True,0,0,D
+1224063,2024-11-09T14:30:00+00:00,168,Bayer Leverkusen,VfL Bochum,False,1,1,D
+1224065,2024-11-23T14:30:00+00:00,168,Bayer Leverkusen,1. FC Heidenheim,True,5,2,W
+1224081,2024-11-30T14:30:00+00:00,168,Bayer Leverkusen,Union Berlin,False,2,1,W
+1224083,2024-12-07T14:30:00+00:00,168,Bayer Leverkusen,FC St. Pauli,True,2,1,W
+1224096,2024-12-14T14:30:00+00:00,168,Bayer Leverkusen,FC Augsburg,False,2,0,W
+1224101,2024-12-21T17:30:00+00:00,168,Bayer Leverkusen,SC Freiburg,True,5,1,W
+1224111,2025-01-10T19:45:00+00:00,168,Bayer Leverkusen,Borussia Dortmund,False,3,2,W
+1224119,2025-01-14T19:30:00+00:00,168,Bayer Leverkusen,FSV Mainz 05,True,1,0,W
+1224128,2025-01-18T17:30:00+00:00,168,Bayer Leverkusen,Borussia Mönchengladbach,True,3,1,W
+1224137,2025-01-25T14:30:00+00:00,168,Bayer Leverkusen,RB Leipzig,False,2,2,D
+1224146,2025-02-02T16:30:00+00:00,168,Bayer Leverkusen,1899 Hoffenheim,True,3,1,W
+1224160,2025-02-08T14:30:00+00:00,168,Bayer Leverkusen,VfL Wolfsburg,False,0,0,D
+1224164,2025-02-15T17:30:00+00:00,168,Bayer Leverkusen,Bayern München,True,0,0,D
+1224181,2025-02-22T14:30:00+00:00,168,Bayer Leverkusen,Holstein Kiel,False,2,0,W
+1224184,2025-03-01T17:30:00+00:00,168,Bayer Leverkusen,Eintracht Frankfurt,False,4,1,W
+1224191,2025-03-08T14:30:00+00:00,168,Bayer Leverkusen,Werder Bremen,True,0,2,L
+1224200,2025-03-16T18:30:00+00:00,168,Bayer Leverkusen,VfB Stuttgart,False,4,3,W
+1224209,2025-03-28T19:30:00+00:00,168,Bayer Leverkusen,VfL Bochum,True,3,1,W
+1224219,2025-04-05T13:30:00+00:00,168,Bayer Leverkusen,1. FC Heidenheim,False,1,0,W
+1224227,2025-04-12T13:30:00+00:00,168,Bayer Leverkusen,Union Berlin,True,0,0,D
+1224244,2025-04-20T17:30:00+00:00,168,Bayer Leverkusen,FC St. Pauli,False,1,1,D
+1224245,2025-04-26T13:30:00+00:00,168,Bayer Leverkusen,FC Augsburg,True,2,0,W
+1224257,2025-05-04T15:30:00+00:00,168,Bayer Leverkusen,SC Freiburg,False,2,2,D
+1224263,2025-05-11T13:30:00+00:00,168,Bayer Leverkusen,Borussia Dortmund,True,2,4,L
+1224278,2025-05-17T13:30:00+00:00,168,Bayer Leverkusen,FSV Mainz 05,False,2,2,D

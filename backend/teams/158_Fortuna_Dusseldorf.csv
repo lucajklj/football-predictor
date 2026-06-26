@@ -1,0 +1,3 @@
+fixture_id,date,team_id,team_name,opponent,is_home,goals_scored,goals_conceded,result
+1200849,2024-05-23T18:30:00+00:00,158,Fortuna Dusseldorf,Vfl Bochum,False,3,0,W
+1200850,2024-05-27T18:30:00+00:00,158,Fortuna Dusseldorf,Vfl Bochum,True,0,3,L

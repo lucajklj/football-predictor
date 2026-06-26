@@ -1,0 +1,37 @@
+fixture_id,date,team_id,team_name,opponent,is_home,goals_scored,goals_conceded,result
+1201624,2024-05-30T18:30:00+00:00,1063,Saint Etienne,Metz,True,2,1,W
+1201625,2024-06-02T15:00:00+00:00,1063,Saint Etienne,Metz,False,2,2,D
+1213751,2024-08-17T19:00:00+00:00,1063,Saint Etienne,Monaco,False,0,1,L
+1213759,2024-08-24T19:00:00+00:00,1063,Saint Etienne,Le Havre,True,0,2,L
+1213767,2024-08-31T15:00:00+00:00,1063,Saint Etienne,Stade Brestois 29,False,0,4,L
+1213780,2024-09-13T18:45:00+00:00,1063,Saint Etienne,Lille,True,1,0,W
+1213784,2024-09-20T18:45:00+00:00,1063,Saint Etienne,Nice,False,0,8,L
+1213796,2024-09-29T15:00:00+00:00,1063,Saint Etienne,Nantes,False,2,2,D
+1213804,2024-10-05T15:00:00+00:00,1063,Saint Etienne,Auxerre,True,3,1,W
+1213816,2024-10-19T17:00:00+00:00,1063,Saint Etienne,Lens,True,0,2,L
+1213826,2024-10-26T15:00:00+00:00,1063,Saint Etienne,Angers,False,2,4,L
+1213834,2024-11-02T20:00:00+00:00,1063,Saint Etienne,Strasbourg,True,2,0,W
+1213838,2024-11-10T19:45:00+00:00,1063,Saint Etienne,Lyon,False,0,1,L
+1213849,2024-11-23T18:00:00+00:00,1063,Saint Etienne,Montpellier,True,1,0,W
+1213856,2024-11-30T16:00:00+00:00,1063,Saint Etienne,Rennes,False,0,5,L
+1213866,2024-12-08T19:45:00+00:00,1063,Saint Etienne,Marseille,True,0,2,L
+1213877,2024-12-13T19:45:00+00:00,1063,Saint Etienne,Toulouse,False,1,2,L
+1213885,2025-01-04T16:00:00+00:00,1063,Saint Etienne,Reims,True,3,1,W
+1213898,2025-01-12T19:45:00+00:00,1063,Saint Etienne,Paris Saint Germain,False,1,2,L
+1213904,2025-01-19T14:00:00+00:00,1063,Saint Etienne,Nantes,True,1,1,D
+1213914,2025-01-24T19:45:00+00:00,1063,Saint Etienne,Auxerre,False,1,1,D
+1213921,2025-02-01T20:05:00+00:00,1063,Saint Etienne,Lille,False,1,4,L
+1213931,2025-02-08T20:05:00+00:00,1063,Saint Etienne,Rennes,True,0,2,L
+1213937,2025-02-15T16:00:00+00:00,1063,Saint Etienne,Marseille,False,1,5,L
+1213950,2025-02-22T18:00:00+00:00,1063,Saint Etienne,Angers,True,3,3,D
+1213958,2025-03-01T16:00:00+00:00,1063,Saint Etienne,Nice,True,1,3,L
+1213963,2025-03-09T16:15:00+00:00,1063,Saint Etienne,Le Havre,False,1,1,D
+1213974,2025-03-16T16:15:00+00:00,1063,Saint Etienne,Montpellier,False,2,0,W
+1213986,2025-03-29T18:00:00+00:00,1063,Saint Etienne,Paris Saint Germain,True,1,6,L
+1213995,2025-04-06T13:00:00+00:00,1063,Saint Etienne,Lens,False,0,1,L
+1214004,2025-04-13T13:00:00+00:00,1063,Saint Etienne,Stade Brestois 29,True,3,3,D
+1214008,2025-04-20T18:45:00+00:00,1063,Saint Etienne,Lyon,True,2,1,W
+1214018,2025-04-26T15:00:00+00:00,1063,Saint Etienne,Strasbourg,False,1,3,L
+1214030,2025-05-03T19:05:00+00:00,1063,Saint Etienne,Monaco,True,1,3,L
+1214035,2025-05-10T19:00:00+00:00,1063,Saint Etienne,Reims,False,2,0,W
+1214047,2025-05-17T19:00:00+00:00,1063,Saint Etienne,Toulouse,True,2,3,L

@@ -1,0 +1,35 @@
+fixture_id,date,team_id,team_name,opponent,is_home,goals_scored,goals_conceded,result
+1223983,2024-08-25T15:30:00+00:00,186,FC St. Pauli,1. FC Heidenheim,True,0,2,L
+1223990,2024-08-30T18:30:00+00:00,186,FC St. Pauli,Union Berlin,False,0,1,L
+1223997,2024-09-15T13:30:00+00:00,186,FC St. Pauli,FC Augsburg,False,1,3,L
+1224010,2024-09-22T17:30:00+00:00,186,FC St. Pauli,RB Leipzig,True,0,0,D
+1224015,2024-09-28T13:30:00+00:00,186,FC St. Pauli,SC Freiburg,False,3,0,W
+1224028,2024-10-05T16:30:00+00:00,186,FC St. Pauli,FSV Mainz 05,True,0,3,L
+1224031,2024-10-18T18:30:00+00:00,186,FC St. Pauli,Borussia Dortmund,False,1,2,L
+1224046,2024-10-26T13:30:00+00:00,186,FC St. Pauli,VfL Wolfsburg,True,0,0,D
+1224051,2024-11-02T14:30:00+00:00,186,FC St. Pauli,1899 Hoffenheim,False,2,0,W
+1224064,2024-11-09T14:30:00+00:00,186,FC St. Pauli,Bayern München,True,0,1,L
+1224072,2024-11-24T16:30:00+00:00,186,FC St. Pauli,Borussia Mönchengladbach,False,0,2,L
+1224082,2024-11-29T19:30:00+00:00,186,FC St. Pauli,Holstein Kiel,True,3,1,W
+1224083,2024-12-07T14:30:00+00:00,186,FC St. Pauli,Bayer Leverkusen,False,1,2,L
+1224100,2024-12-14T17:30:00+00:00,186,FC St. Pauli,Werder Bremen,True,0,2,L
+1224102,2024-12-21T14:30:00+00:00,186,FC St. Pauli,VfB Stuttgart,False,1,0,W
+1224118,2025-01-11T14:30:00+00:00,186,FC St. Pauli,Eintracht Frankfurt,True,0,1,L
+1224126,2025-01-15T17:30:00+00:00,186,FC St. Pauli,VfL Bochum,False,0,1,L
+1224132,2025-01-18T14:30:00+00:00,186,FC St. Pauli,1. FC Heidenheim,False,2,0,W
+1224145,2025-01-26T16:30:00+00:00,186,FC St. Pauli,Union Berlin,True,3,0,W
+1224154,2025-02-01T14:30:00+00:00,186,FC St. Pauli,FC Augsburg,True,1,1,D
+1224156,2025-02-09T16:30:00+00:00,186,FC St. Pauli,RB Leipzig,False,0,2,L
+1224172,2025-02-15T14:30:00+00:00,186,FC St. Pauli,SC Freiburg,True,0,1,L
+1224179,2025-02-22T14:30:00+00:00,186,FC St. Pauli,FSV Mainz 05,False,0,2,L
+1224190,2025-03-01T14:30:00+00:00,186,FC St. Pauli,Borussia Dortmund,True,0,2,L
+1224197,2025-03-08T14:30:00+00:00,186,FC St. Pauli,VfL Wolfsburg,False,1,1,D
+1224208,2025-03-14T19:30:00+00:00,186,FC St. Pauli,1899 Hoffenheim,True,1,0,W
+1224210,2025-03-29T14:30:00+00:00,186,FC St. Pauli,Bayern München,False,2,3,L
+1224226,2025-04-06T13:30:00+00:00,186,FC St. Pauli,Borussia Mönchengladbach,True,1,1,D
+1224235,2025-04-12T13:30:00+00:00,186,FC St. Pauli,Holstein Kiel,False,2,1,W
+1224244,2025-04-20T17:30:00+00:00,186,FC St. Pauli,Bayer Leverkusen,True,1,1,D
+1224250,2025-04-27T15:30:00+00:00,186,FC St. Pauli,Werder Bremen,False,0,0,D
+1224262,2025-05-03T13:30:00+00:00,186,FC St. Pauli,VfB Stuttgart,True,0,1,L
+1224266,2025-05-11T15:30:00+00:00,186,FC St. Pauli,Eintracht Frankfurt,False,2,2,D
+1224280,2025-05-17T13:30:00+00:00,186,FC St. Pauli,VfL Bochum,True,0,2,L

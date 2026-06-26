@@ -1,0 +1,105 @@
+fixture_id,date,team_id,team_name,opponent,is_home,goals_scored,goals_conceded,result
+871172,2022-08-07T13:30:00+00:00,172,VfB Stuttgart,RB Leipzig,True,1,1,D
+871181,2022-08-13T13:30:00+00:00,172,VfB Stuttgart,Werder Bremen,False,2,2,D
+871190,2022-08-20T13:30:00+00:00,172,VfB Stuttgart,SC Freiburg,True,0,1,L
+871194,2022-08-28T13:30:00+00:00,172,VfB Stuttgart,1. FC Köln,False,0,0,D
+871208,2022-09-03T13:30:00+00:00,172,VfB Stuttgart,FC Schalke 04,True,1,1,D
+871209,2022-09-10T13:30:00+00:00,172,VfB Stuttgart,Bayern Munich,False,2,2,D
+871225,2022-09-17T13:30:00+00:00,172,VfB Stuttgart,Eintracht Frankfurt,True,1,3,L
+871232,2022-10-01T13:30:00+00:00,172,VfB Stuttgart,VfL Wolfsburg,False,2,3,L
+871243,2022-10-09T17:30:00+00:00,172,VfB Stuttgart,Union Berlin,True,0,1,L
+871251,2022-10-15T13:30:00+00:00,172,VfB Stuttgart,Vfl Bochum,True,4,1,W
+871254,2022-10-22T13:30:00+00:00,172,VfB Stuttgart,Borussia Dortmund,False,0,5,L
+871269,2022-10-29T13:30:00+00:00,172,VfB Stuttgart,FC Augsburg,True,2,1,W
+871277,2022-11-04T19:30:00+00:00,172,VfB Stuttgart,Borussia Monchengladbach,False,1,3,L
+871288,2022-11-08T19:30:00+00:00,172,VfB Stuttgart,Hertha Berlin,True,2,1,W
+871290,2022-11-12T14:30:00+00:00,172,VfB Stuttgart,Bayer Leverkusen,False,0,2,L
+871307,2023-01-21T14:30:00+00:00,172,VfB Stuttgart,FSV Mainz 05,True,1,1,D
+871312,2023-01-24T19:30:00+00:00,172,VfB Stuttgart,1899 Hoffenheim,False,2,2,D
+871319,2023-01-27T19:30:00+00:00,172,VfB Stuttgart,RB Leipzig,False,1,2,L
+871334,2023-02-05T14:30:00+00:00,172,VfB Stuttgart,Werder Bremen,True,0,2,L
+871337,2023-02-11T14:30:00+00:00,172,VfB Stuttgart,SC Freiburg,False,1,2,L
+871352,2023-02-18T14:30:00+00:00,172,VfB Stuttgart,1. FC Köln,True,3,0,W
+871360,2023-02-25T17:30:00+00:00,172,VfB Stuttgart,FC Schalke 04,False,1,2,L
+871370,2023-03-04T17:30:00+00:00,172,VfB Stuttgart,Bayern Munich,True,1,2,L
+871375,2023-03-11T14:30:00+00:00,172,VfB Stuttgart,Eintracht Frankfurt,False,1,1,D
+871388,2023-03-18T14:30:00+00:00,172,VfB Stuttgart,VfL Wolfsburg,True,0,1,L
+871391,2023-04-01T13:30:00+00:00,172,VfB Stuttgart,Union Berlin,False,0,3,L
+871404,2023-04-09T15:30:00+00:00,172,VfB Stuttgart,Vfl Bochum,False,3,2,W
+871413,2023-04-15T13:30:00+00:00,172,VfB Stuttgart,Borussia Dortmund,True,3,3,D
+871423,2023-04-21T18:30:00+00:00,172,VfB Stuttgart,FC Augsburg,False,1,1,D
+871432,2023-04-29T13:30:00+00:00,172,VfB Stuttgart,Borussia Monchengladbach,True,2,1,W
+871441,2023-05-06T13:30:00+00:00,172,VfB Stuttgart,Hertha Berlin,False,1,2,L
+871451,2023-05-14T13:30:00+00:00,172,VfB Stuttgart,Bayer Leverkusen,True,1,1,D
+871455,2023-05-21T13:30:00+00:00,172,VfB Stuttgart,FSV Mainz 05,False,4,1,W
+871469,2023-05-27T13:30:00+00:00,172,VfB Stuttgart,1899 Hoffenheim,True,1,1,D
+1029007,2023-06-01T18:45:00+00:00,172,VfB Stuttgart,Hamburger SV,True,3,0,W
+1029008,2023-06-05T18:45:00+00:00,172,VfB Stuttgart,Hamburger SV,False,3,1,W
+1048889,2023-08-19T13:30:00+00:00,172,VfB Stuttgart,Vfl Bochum,True,5,0,W
+1048891,2023-08-25T18:30:00+00:00,172,VfB Stuttgart,RB Leipzig,False,1,5,L
+1048907,2023-09-02T13:30:00+00:00,172,VfB Stuttgart,SC Freiburg,True,5,0,W
+1048912,2023-09-16T13:30:00+00:00,172,VfB Stuttgart,FSV Mainz 05,False,3,1,W
+1048925,2023-09-22T18:30:00+00:00,172,VfB Stuttgart,SV Darmstadt 98,True,3,1,W
+1048930,2023-09-30T13:30:00+00:00,172,VfB Stuttgart,1. FC Köln,False,2,0,W
+1048943,2023-10-07T13:30:00+00:00,172,VfB Stuttgart,VfL Wolfsburg,True,3,1,W
+1048945,2023-10-21T13:30:00+00:00,172,VfB Stuttgart,Union Berlin,False,3,0,W
+1048961,2023-10-28T13:30:00+00:00,172,VfB Stuttgart,1899 Hoffenheim,True,2,3,L
+1048969,2023-11-05T16:30:00+00:00,172,VfB Stuttgart,FC Heidenheim,False,0,2,L
+1048978,2023-11-11T14:30:00+00:00,172,VfB Stuttgart,Borussia Dortmund,True,2,1,W
+1048983,2023-11-25T17:30:00+00:00,172,VfB Stuttgart,Eintracht Frankfurt,False,2,1,W
+1048996,2023-12-02T17:30:00+00:00,172,VfB Stuttgart,Werder Bremen,True,2,0,W
+1049005,2023-12-10T14:30:00+00:00,172,VfB Stuttgart,Bayer Leverkusen,True,1,1,D
+1049007,2023-12-17T18:30:00+00:00,172,VfB Stuttgart,Bayern Munich,False,0,3,L
+1049023,2023-12-20T19:30:00+00:00,172,VfB Stuttgart,FC Augsburg,True,3,0,W
+1049029,2024-01-14T16:30:00+00:00,172,VfB Stuttgart,Borussia Monchengladbach,False,1,3,L
+1049040,2024-01-20T14:30:00+00:00,172,VfB Stuttgart,Vfl Bochum,False,0,1,L
+1049051,2024-01-27T14:30:00+00:00,172,VfB Stuttgart,RB Leipzig,True,5,2,W
+1049054,2024-02-03T14:30:00+00:00,172,VfB Stuttgart,SC Freiburg,False,3,1,W
+1049069,2024-02-11T14:30:00+00:00,172,VfB Stuttgart,FSV Mainz 05,True,3,1,W
+1049078,2024-02-17T14:30:00+00:00,172,VfB Stuttgart,SV Darmstadt 98,False,2,1,W
+1049087,2024-02-24T14:30:00+00:00,172,VfB Stuttgart,1. FC Köln,True,1,1,D
+1049090,2024-03-02T17:30:00+00:00,172,VfB Stuttgart,VfL Wolfsburg,False,3,2,W
+1049105,2024-03-08T19:30:00+00:00,172,VfB Stuttgart,Union Berlin,True,2,0,W
+1049112,2024-03-16T17:30:00+00:00,172,VfB Stuttgart,1899 Hoffenheim,False,3,0,W
+1049123,2024-03-31T15:30:00+00:00,172,VfB Stuttgart,FC Heidenheim,True,3,3,D
+1049124,2024-04-06T16:30:00+00:00,172,VfB Stuttgart,Borussia Dortmund,False,1,0,W
+1049140,2024-04-13T16:30:00+00:00,172,VfB Stuttgart,Eintracht Frankfurt,True,3,0,W
+1049149,2024-04-21T13:30:00+00:00,172,VfB Stuttgart,Werder Bremen,False,1,2,L
+1049154,2024-04-27T16:30:00+00:00,172,VfB Stuttgart,Bayer Leverkusen,False,2,2,D
+1049167,2024-05-04T13:30:00+00:00,172,VfB Stuttgart,Bayern Munich,True,3,1,W
+1049176,2024-05-10T18:30:00+00:00,172,VfB Stuttgart,FC Augsburg,False,1,0,W
+1049185,2024-05-18T13:30:00+00:00,172,VfB Stuttgart,Borussia Monchengladbach,True,4,0,W
+1223979,2024-08-24T13:30:00+00:00,172,VfB Stuttgart,SC Freiburg,False,1,3,L
+1223985,2024-08-31T13:30:00+00:00,172,VfB Stuttgart,FSV Mainz 05,True,3,3,D
+1224000,2024-09-14T13:30:00+00:00,172,VfB Stuttgart,Borussia Mönchengladbach,False,3,1,W
+1224003,2024-09-22T15:30:00+00:00,172,VfB Stuttgart,Borussia Dortmund,True,5,1,W
+1224016,2024-09-28T13:30:00+00:00,172,VfB Stuttgart,VfL Wolfsburg,False,2,2,D
+1224021,2024-10-06T17:30:00+00:00,172,VfB Stuttgart,1899 Hoffenheim,True,1,1,D
+1224030,2024-10-19T16:30:00+00:00,172,VfB Stuttgart,Bayern München,False,0,4,L
+1224038,2024-10-26T13:30:00+00:00,172,VfB Stuttgart,Holstein Kiel,True,2,1,W
+1224047,2024-11-01T19:30:00+00:00,172,VfB Stuttgart,Bayer Leverkusen,False,0,0,D
+1224056,2024-11-10T16:30:00+00:00,172,VfB Stuttgart,Eintracht Frankfurt,True,2,3,L
+1224066,2024-11-23T14:30:00+00:00,172,VfB Stuttgart,VfL Bochum,True,2,0,W
+1224077,2024-11-30T14:30:00+00:00,172,VfB Stuttgart,Werder Bremen,False,2,2,D
+1224084,2024-12-06T19:30:00+00:00,172,VfB Stuttgart,Union Berlin,True,3,2,W
+1224094,2024-12-15T14:30:00+00:00,172,VfB Stuttgart,1. FC Heidenheim,False,3,1,W
+1224102,2024-12-21T14:30:00+00:00,172,VfB Stuttgart,FC St. Pauli,True,0,1,L
+1224115,2025-01-12T16:30:00+00:00,172,VfB Stuttgart,FC Augsburg,False,1,0,W
+1224120,2025-01-15T19:30:00+00:00,172,VfB Stuttgart,RB Leipzig,True,2,1,W
+1224129,2025-01-18T14:30:00+00:00,172,VfB Stuttgart,SC Freiburg,True,4,0,W
+1224143,2025-01-25T14:30:00+00:00,172,VfB Stuttgart,FSV Mainz 05,False,0,2,L
+1224147,2025-02-01T14:30:00+00:00,172,VfB Stuttgart,Borussia Mönchengladbach,True,1,2,L
+1224157,2025-02-08T14:30:00+00:00,172,VfB Stuttgart,Borussia Dortmund,False,2,1,W
+1224165,2025-02-15T14:30:00+00:00,172,VfB Stuttgart,VfL Wolfsburg,True,1,2,L
+1224176,2025-02-23T18:30:00+00:00,172,VfB Stuttgart,1899 Hoffenheim,False,1,1,D
+1224182,2025-02-28T19:30:00+00:00,172,VfB Stuttgart,Bayern München,True,1,3,L
+1224199,2025-03-08T14:30:00+00:00,172,VfB Stuttgart,Holstein Kiel,False,2,2,D
+1224200,2025-03-16T18:30:00+00:00,172,VfB Stuttgart,Bayer Leverkusen,True,3,4,L
+1224212,2025-03-29T17:30:00+00:00,172,VfB Stuttgart,Eintracht Frankfurt,False,0,1,L
+1224225,2025-04-05T13:30:00+00:00,172,VfB Stuttgart,VfL Bochum,False,4,0,W
+1224228,2025-04-13T13:30:00+00:00,172,VfB Stuttgart,Werder Bremen,True,1,2,L
+1224243,2025-04-19T16:30:00+00:00,172,VfB Stuttgart,Union Berlin,False,4,4,D
+1224246,2025-04-25T18:30:00+00:00,172,VfB Stuttgart,1. FC Heidenheim,True,0,1,L
+1224262,2025-05-03T13:30:00+00:00,172,VfB Stuttgart,FC St. Pauli,False,1,0,W
+1224264,2025-05-11T17:30:00+00:00,172,VfB Stuttgart,FC Augsburg,True,4,0,W
+1224272,2025-05-17T13:30:00+00:00,172,VfB Stuttgart,RB Leipzig,False,3,2,W

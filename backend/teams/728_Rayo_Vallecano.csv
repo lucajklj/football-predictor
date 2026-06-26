@@ -1,0 +1,115 @@
+fixture_id,date,team_id,team_name,opponent,is_home,goals_scored,goals_conceded,result
+877943,2022-08-13T19:00:00+00:00,728,Rayo Vallecano,Barcelona,False,0,0,D
+877955,2022-08-19T18:00:00+00:00,728,Rayo Vallecano,Espanyol,False,2,0,W
+877971,2022-08-27T17:30:00+00:00,728,Rayo Vallecano,Mallorca,True,0,2,L
+877973,2022-09-04T12:00:00+00:00,728,Rayo Vallecano,Osasuna,False,1,2,L
+877986,2022-09-10T12:00:00+00:00,728,Rayo Vallecano,Valencia,True,2,1,W
+877992,2022-09-17T19:00:00+00:00,728,Rayo Vallecano,Athletic Club,False,2,3,L
+878009,2022-10-03T19:00:00+00:00,728,Rayo Vallecano,Elche,True,2,1,W
+878019,2022-10-08T12:00:00+00:00,728,Rayo Vallecano,Almeria,False,1,3,L
+878028,2022-10-14T19:00:00+00:00,728,Rayo Vallecano,Getafe,True,0,0,D
+878032,2022-10-18T19:00:00+00:00,728,Rayo Vallecano,Atletico Madrid,False,1,1,D
+878049,2022-10-22T12:00:00+00:00,728,Rayo Vallecano,Cadiz,True,5,1,W
+878060,2022-10-29T16:30:00+00:00,728,Rayo Vallecano,Sevilla,False,1,0,W
+878066,2022-11-07T20:00:00+00:00,728,Rayo Vallecano,Real Madrid,True,3,2,W
+878079,2022-11-10T18:00:00+00:00,728,Rayo Vallecano,Celta Vigo,True,0,0,D
+878086,2022-12-29T16:00:00+00:00,728,Rayo Vallecano,Girona,False,2,2,D
+878097,2023-01-08T15:15:00+00:00,728,Rayo Vallecano,Real Betis,True,1,2,L
+878111,2023-01-14T13:00:00+00:00,728,Rayo Vallecano,Valladolid,False,1,0,W
+878116,2023-01-21T13:00:00+00:00,728,Rayo Vallecano,Real Sociedad,True,0,2,L
+878131,2023-01-30T20:00:00+00:00,728,Rayo Vallecano,Villarreal,False,1,0,W
+878141,2023-02-06T20:00:00+00:00,728,Rayo Vallecano,Almeria,True,2,0,W
+878142,2023-02-12T13:00:00+00:00,728,Rayo Vallecano,Getafe,False,1,1,D
+878158,2023-02-19T15:15:00+00:00,728,Rayo Vallecano,Sevilla,True,1,1,D
+878164,2023-02-25T15:15:00+00:00,728,Rayo Vallecano,Cadiz,False,0,1,L
+878177,2023-03-05T17:30:00+00:00,728,Rayo Vallecano,Athletic Club,True,0,0,D
+878183,2023-03-11T17:30:00+00:00,728,Rayo Vallecano,Celta Vigo,False,0,3,L
+878201,2023-03-18T15:15:00+00:00,728,Rayo Vallecano,Girona,True,2,2,D
+878210,2023-04-03T19:00:00+00:00,728,Rayo Vallecano,Valencia,False,1,1,D
+878217,2023-04-09T19:00:00+00:00,728,Rayo Vallecano,Atletico Madrid,True,1,2,L
+878229,2023-04-14T19:00:00+00:00,728,Rayo Vallecano,Osasuna,True,2,1,W
+878240,2023-04-22T16:30:00+00:00,728,Rayo Vallecano,Real Sociedad,False,1,2,L
+878249,2023-04-26T20:00:00+00:00,728,Rayo Vallecano,Barcelona,True,2,1,W
+878253,2023-04-29T14:15:00+00:00,728,Rayo Vallecano,Elche,False,0,4,L
+878266,2023-05-04T20:00:00+00:00,728,Rayo Vallecano,Valladolid,True,2,1,W
+878272,2023-05-15T19:00:00+00:00,728,Rayo Vallecano,Real Betis,False,1,3,L
+878290,2023-05-21T12:00:00+00:00,728,Rayo Vallecano,Espanyol,True,1,2,L
+878300,2023-05-24T17:30:00+00:00,728,Rayo Vallecano,Real Madrid,False,1,2,L
+878307,2023-05-28T17:00:00+00:00,728,Rayo Vallecano,Villarreal,True,2,1,W
+878313,2023-06-04T16:30:00+00:00,728,Rayo Vallecano,Mallorca,False,0,3,L
+1037952,2023-08-11T17:30:00+00:00,728,Rayo Vallecano,Almeria,False,2,0,W
+1037965,2023-08-21T19:30:00+00:00,728,Rayo Vallecano,Granada CF,False,2,0,W
+1037977,2023-08-28T19:30:00+00:00,728,Rayo Vallecano,Atletico Madrid,True,0,7,L
+1037984,2023-09-02T19:00:00+00:00,728,Rayo Vallecano,Real Betis,False,0,1,L
+1038001,2023-09-15T19:00:00+00:00,728,Rayo Vallecano,Alaves,True,2,0,W
+1038008,2023-09-24T14:15:00+00:00,728,Rayo Vallecano,Villarreal,True,1,1,D
+1038013,2023-09-27T19:30:00+00:00,728,Rayo Vallecano,Cadiz,False,0,0,D
+1038031,2023-09-30T14:15:00+00:00,728,Rayo Vallecano,Mallorca,True,2,2,D
+1038040,2023-10-07T19:00:00+00:00,728,Rayo Vallecano,Sevilla,False,2,2,D
+1038042,2023-10-22T12:00:00+00:00,728,Rayo Vallecano,Las Palmas,False,1,0,W
+1038057,2023-10-29T15:15:00+00:00,728,Rayo Vallecano,Real Sociedad,True,2,2,D
+1038070,2023-11-05T20:00:00+00:00,728,Rayo Vallecano,Real Madrid,False,0,0,D
+1038079,2023-11-11T13:00:00+00:00,728,Rayo Vallecano,Girona,True,1,2,L
+1038089,2023-11-25T13:00:00+00:00,728,Rayo Vallecano,Barcelona,True,1,1,D
+1038093,2023-12-02T15:15:00+00:00,728,Rayo Vallecano,Athletic Club,False,0,4,L
+1038110,2023-12-11T20:00:00+00:00,728,Rayo Vallecano,Celta Vigo,True,0,0,D
+1038115,2023-12-15T20:00:00+00:00,728,Rayo Vallecano,Osasuna,False,0,1,L
+1038127,2023-12-19T18:00:00+00:00,728,Rayo Vallecano,Valencia,True,0,1,L
+1038132,2024-01-02T16:00:00+00:00,728,Rayo Vallecano,Getafe,False,2,0,W
+1038161,2024-01-20T13:00:00+00:00,728,Rayo Vallecano,Las Palmas,True,0,2,L
+1038170,2024-01-27T13:00:00+00:00,728,Rayo Vallecano,Real Sociedad,False,0,0,D
+1038144,2024-01-31T20:00:00+00:00,728,Rayo Vallecano,Atletico Madrid,False,1,2,L
+1038175,2024-02-05T20:00:00+00:00,728,Rayo Vallecano,Sevilla,True,1,2,L
+1038184,2024-02-11T15:15:00+00:00,728,Rayo Vallecano,Mallorca,False,1,2,L
+1038195,2024-02-18T13:00:00+00:00,728,Rayo Vallecano,Real Madrid,True,1,1,D
+1038205,2024-02-26T20:00:00+00:00,728,Rayo Vallecano,Girona,False,0,3,L
+1038216,2024-03-02T15:15:00+00:00,728,Rayo Vallecano,Cadiz,True,1,1,D
+1038227,2024-03-10T13:00:00+00:00,728,Rayo Vallecano,Alaves,False,0,1,L
+1038236,2024-03-17T17:30:00+00:00,728,Rayo Vallecano,Real Betis,True,2,0,W
+1038245,2024-03-31T12:00:00+00:00,728,Rayo Vallecano,Celta Vigo,False,0,0,D
+1038260,2024-04-13T14:15:00+00:00,728,Rayo Vallecano,Getafe,True,0,0,D
+1038271,2024-04-20T14:15:00+00:00,728,Rayo Vallecano,Osasuna,True,2,1,W
+1038280,2024-04-28T16:30:00+00:00,728,Rayo Vallecano,Villarreal,False,0,3,L
+1038283,2024-05-05T19:00:00+00:00,728,Rayo Vallecano,Almeria,True,0,1,L
+1038299,2024-05-12T16:30:00+00:00,728,Rayo Vallecano,Valencia,False,0,0,D
+1038310,2024-05-15T17:30:00+00:00,728,Rayo Vallecano,Granada CF,True,2,1,W
+1038314,2024-05-19T17:00:00+00:00,728,Rayo Vallecano,Barcelona,False,0,3,L
+1038327,2024-05-25T16:30:00+00:00,728,Rayo Vallecano,Athletic Club,True,0,1,L
+1208500,2024-08-18T17:00:00+00:00,728,Rayo Vallecano,Real Sociedad,False,2,1,W
+1208505,2024-08-24T19:30:00+00:00,728,Rayo Vallecano,Getafe,False,0,0,D
+1208517,2024-08-27T19:30:00+00:00,728,Rayo Vallecano,Barcelona,True,1,2,L
+1212913,2024-08-31T17:15:00+00:00,728,Rayo Vallecano,Espanyol,False,1,2,L
+1208537,2024-09-16T19:00:00+00:00,728,Rayo Vallecano,Osasuna,True,3,1,W
+1208543,2024-09-22T19:00:00+00:00,728,Rayo Vallecano,Atletico Madrid,True,1,1,D
+1208549,2024-09-25T17:00:00+00:00,728,Rayo Vallecano,Girona,False,0,0,D
+1208565,2024-09-28T14:15:00+00:00,728,Rayo Vallecano,Leganes,True,1,1,D
+1208574,2024-10-05T16:30:00+00:00,728,Rayo Vallecano,Valladolid,False,2,1,W
+1208579,2024-10-20T12:00:00+00:00,728,Rayo Vallecano,Mallorca,False,0,1,L
+1208592,2024-10-26T14:15:00+00:00,728,Rayo Vallecano,Alaves,True,1,0,W
+1208609,2024-11-08T20:00:00+00:00,728,Rayo Vallecano,Las Palmas,True,1,3,L
+1208618,2024-11-24T15:15:00+00:00,728,Rayo Vallecano,Sevilla,False,0,1,L
+1208623,2024-12-01T17:30:00+00:00,728,Rayo Vallecano,Athletic Club,True,1,2,L
+1208636,2024-12-07T17:30:00+00:00,728,Rayo Vallecano,Valencia,False,1,0,W
+1208640,2024-12-14T20:00:00+00:00,728,Rayo Vallecano,Real Madrid,True,3,3,D
+1208599,2024-12-18T20:30:00+00:00,728,Rayo Vallecano,Villarreal,False,1,1,D
+1208647,2024-12-22T20:00:00+00:00,728,Rayo Vallecano,Real Betis,False,1,1,D
+1208663,2025-01-10T20:00:00+00:00,728,Rayo Vallecano,Celta Vigo,True,2,1,W
+1208666,2025-01-19T17:30:00+00:00,728,Rayo Vallecano,Osasuna,False,1,1,D
+1208681,2025-01-26T13:00:00+00:00,728,Rayo Vallecano,Girona,True,2,1,W
+1208688,2025-01-31T20:00:00+00:00,728,Rayo Vallecano,Leganes,False,1,0,W
+1208694,2025-02-07T20:00:00+00:00,728,Rayo Vallecano,Valladolid,True,1,0,W
+1208702,2025-02-17T20:00:00+00:00,728,Rayo Vallecano,Barcelona,False,0,1,L
+1208712,2025-02-22T15:15:00+00:00,728,Rayo Vallecano,Villarreal,True,0,1,L
+1208722,2025-03-01T15:15:00+00:00,728,Rayo Vallecano,Sevilla,True,1,1,D
+1208736,2025-03-09T15:15:00+00:00,728,Rayo Vallecano,Real Madrid,False,1,2,L
+1208739,2025-03-16T17:30:00+00:00,728,Rayo Vallecano,Real Sociedad,True,2,2,D
+1208752,2025-03-29T17:30:00+00:00,728,Rayo Vallecano,Alaves,False,2,0,W
+1212939,2025-04-04T19:00:00+00:00,728,Rayo Vallecano,Espanyol,True,0,4,L
+1208764,2025-04-13T19:00:00+00:00,728,Rayo Vallecano,Athletic Club,False,1,3,L
+1208774,2025-04-19T12:00:00+00:00,728,Rayo Vallecano,Valencia,True,1,1,D
+1208783,2025-04-24T19:30:00+00:00,728,Rayo Vallecano,Atletico Madrid,False,0,3,L
+1208797,2025-05-02T19:00:00+00:00,728,Rayo Vallecano,Getafe,True,1,0,W
+1208806,2025-05-09T19:00:00+00:00,728,Rayo Vallecano,Las Palmas,False,1,0,W
+1208812,2025-05-15T17:00:00+00:00,728,Rayo Vallecano,Real Betis,True,2,2,D
+1208820,2025-05-18T17:00:00+00:00,728,Rayo Vallecano,Celta Vigo,False,2,1,W
+1208834,2025-05-24T19:00:00+00:00,728,Rayo Vallecano,Mallorca,True,0,0,D

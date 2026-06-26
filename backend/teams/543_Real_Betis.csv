@@ -1,0 +1,115 @@
+fixture_id,date,team_id,team_name,opponent,is_home,goals_scored,goals_conceded,result
+877944,2022-08-15T19:30:00+00:00,543,Real Betis,Elche,True,3,0,W
+877958,2022-08-20T17:30:00+00:00,543,Real Betis,Mallorca,False,2,1,W
+877963,2022-08-26T20:00:00+00:00,543,Real Betis,Osasuna,True,1,0,W
+877976,2022-09-03T14:15:00+00:00,543,Real Betis,Real Madrid,False,1,2,L
+877983,2022-09-11T19:00:00+00:00,543,Real Betis,Villarreal,True,1,0,W
+877995,2022-09-18T16:30:00+00:00,543,Real Betis,Girona,True,2,1,W
+878008,2022-10-02T14:15:00+00:00,543,Real Betis,Celta Vigo,False,0,1,L
+878021,2022-10-09T12:00:00+00:00,543,Real Betis,Valladolid,False,0,0,D
+878031,2022-10-16T19:00:00+00:00,543,Real Betis,Almeria,True,3,1,W
+878038,2022-10-19T17:00:00+00:00,543,Real Betis,Cadiz,False,0,0,D
+878046,2022-10-23T14:15:00+00:00,543,Real Betis,Atletico Madrid,True,1,2,L
+878058,2022-10-30T20:00:00+00:00,543,Real Betis,Real Sociedad,False,2,0,W
+878063,2022-11-06T20:00:00+00:00,543,Real Betis,Sevilla,True,1,1,D
+878078,2022-11-10T19:00:00+00:00,543,Real Betis,Valencia,False,0,3,L
+878087,2022-12-29T18:15:00+00:00,543,Real Betis,Athletic Club,True,0,0,D
+878097,2023-01-08T15:15:00+00:00,543,Real Betis,Rayo Vallecano,False,2,1,W
+878117,2023-01-21T15:15:00+00:00,543,Real Betis,Espanyol,False,0,1,L
+878128,2023-01-28T20:00:00+00:00,543,Real Betis,Getafe,False,1,0,W
+878108,2023-02-01T20:00:00+00:00,543,Real Betis,Barcelona,True,1,2,L
+878135,2023-02-04T20:00:00+00:00,543,Real Betis,Celta Vigo,True,3,4,L
+878145,2023-02-11T15:15:00+00:00,543,Real Betis,Almeria,False,3,2,W
+878153,2023-02-18T15:15:00+00:00,543,Real Betis,Valladolid,True,2,1,W
+878168,2023-02-24T20:00:00+00:00,543,Real Betis,Elche,False,3,2,W
+878174,2023-03-05T20:00:00+00:00,543,Real Betis,Real Madrid,True,0,0,D
+878188,2023-03-12T17:30:00+00:00,543,Real Betis,Villarreal,False,1,1,D
+878194,2023-03-19T13:00:00+00:00,543,Real Betis,Mallorca,True,1,0,W
+878203,2023-04-02T19:00:00+00:00,543,Real Betis,Atletico Madrid,False,0,1,L
+878213,2023-04-09T14:15:00+00:00,543,Real Betis,Cadiz,True,0,2,L
+878223,2023-04-15T16:30:00+00:00,543,Real Betis,Espanyol,True,3,1,W
+878236,2023-04-22T12:00:00+00:00,543,Real Betis,Osasuna,False,2,3,L
+878244,2023-04-25T20:00:00+00:00,543,Real Betis,Real Sociedad,True,0,0,D
+878252,2023-04-29T19:00:00+00:00,543,Real Betis,Barcelona,False,0,4,L
+878262,2023-05-04T20:00:00+00:00,543,Real Betis,Athletic Club,False,1,0,W
+878272,2023-05-15T19:00:00+00:00,543,Real Betis,Rayo Vallecano,True,3,1,W
+878288,2023-05-21T19:00:00+00:00,543,Real Betis,Sevilla,False,0,0,D
+878292,2023-05-24T20:00:00+00:00,543,Real Betis,Getafe,True,0,1,L
+878309,2023-05-28T17:00:00+00:00,543,Real Betis,Girona,False,2,1,W
+878312,2023-06-04T19:00:00+00:00,543,Real Betis,Valencia,True,1,1,D
+1037959,2023-08-13T17:30:00+00:00,543,Real Betis,Villarreal,False,2,1,W
+1037968,2023-08-20T19:30:00+00:00,543,Real Betis,Atletico Madrid,True,0,0,D
+1037972,2023-08-27T19:30:00+00:00,543,Real Betis,Athletic Club,False,2,4,L
+1037984,2023-09-02T19:00:00+00:00,543,Real Betis,Rayo Vallecano,True,1,0,W
+1037993,2023-09-16T19:00:00+00:00,543,Real Betis,Barcelona,False,0,5,L
+1038005,2023-09-24T16:30:00+00:00,543,Real Betis,Cadiz,True,1,1,D
+1038017,2023-09-28T17:00:00+00:00,543,Real Betis,Granada CF,False,1,1,D
+1038025,2023-10-01T19:00:00+00:00,543,Real Betis,Valencia,True,3,0,W
+1038036,2023-10-08T16:30:00+00:00,543,Real Betis,Alaves,False,1,1,D
+1038046,2023-10-21T14:15:00+00:00,543,Real Betis,Getafe,False,1,1,D
+1038055,2023-10-29T13:00:00+00:00,543,Real Betis,Osasuna,True,2,1,W
+1038062,2023-11-04T15:15:00+00:00,543,Real Betis,Mallorca,True,2,0,W
+1038076,2023-11-12T17:30:00+00:00,543,Real Betis,Sevilla,False,1,1,D
+1038083,2023-11-26T20:00:00+00:00,543,Real Betis,Las Palmas,True,1,0,W
+1038092,2023-12-03T15:15:00+00:00,543,Real Betis,Almeria,False,0,0,D
+1038103,2023-12-09T15:15:00+00:00,543,Real Betis,Real Madrid,True,1,1,D
+1038118,2023-12-17T15:15:00+00:00,543,Real Betis,Real Sociedad,False,0,0,D
+1038124,2023-12-21T18:00:00+00:00,543,Real Betis,Girona,True,1,1,D
+1038138,2024-01-03T18:15:00+00:00,543,Real Betis,Celta Vigo,False,1,2,L
+1038146,2024-01-13T20:00:00+00:00,543,Real Betis,Granada CF,True,1,0,W
+1038158,2024-01-21T17:30:00+00:00,543,Real Betis,Barcelona,True,2,4,L
+1038168,2024-01-27T20:00:00+00:00,543,Real Betis,Mallorca,False,1,0,W
+1038173,2024-02-04T17:30:00+00:00,543,Real Betis,Getafe,True,1,1,D
+1038188,2024-02-09T20:00:00+00:00,543,Real Betis,Cadiz,False,2,0,W
+1038201,2024-02-18T20:00:00+00:00,543,Real Betis,Alaves,True,0,0,D
+1038211,2024-02-25T15:15:00+00:00,543,Real Betis,Athletic Club,True,3,1,W
+1038213,2024-03-03T15:15:00+00:00,543,Real Betis,Atletico Madrid,False,1,2,L
+1038224,2024-03-10T20:00:00+00:00,543,Real Betis,Villarreal,True,2,3,L
+1038236,2024-03-17T17:30:00+00:00,543,Real Betis,Rayo Vallecano,False,0,2,L
+1038250,2024-03-31T14:15:00+00:00,543,Real Betis,Girona,False,2,3,L
+1038254,2024-04-12T19:00:00+00:00,543,Real Betis,Celta Vigo,True,2,1,W
+1038268,2024-04-20T16:30:00+00:00,543,Real Betis,Valencia,False,2,1,W
+1038274,2024-04-28T19:00:00+00:00,543,Real Betis,Sevilla,True,1,1,D
+1038287,2024-05-05T12:00:00+00:00,543,Real Betis,Osasuna,False,2,0,W
+1038298,2024-05-12T19:00:00+00:00,543,Real Betis,Almeria,True,3,2,W
+1038307,2024-05-16T17:30:00+00:00,543,Real Betis,Las Palmas,False,2,2,D
+1038315,2024-05-19T17:00:00+00:00,543,Real Betis,Real Sociedad,True,0,2,L
+1038330,2024-05-25T19:00:00+00:00,543,Real Betis,Real Madrid,False,0,0,D
+1208495,2024-08-15T19:30:00+00:00,543,Real Betis,Girona,True,1,1,D
+1208508,2024-08-25T17:15:00+00:00,543,Real Betis,Alaves,False,0,0,D
+1208527,2024-09-01T19:30:00+00:00,543,Real Betis,Real Madrid,False,0,2,L
+1208531,2024-09-13T19:00:00+00:00,543,Real Betis,Leganes,True,2,0,W
+1208513,2024-09-18T17:00:00+00:00,543,Real Betis,Getafe,True,2,1,W
+1208540,2024-09-23T19:00:00+00:00,543,Real Betis,Mallorca,True,1,2,L
+1208554,2024-09-26T17:00:00+00:00,543,Real Betis,Las Palmas,False,1,1,D
+1212917,2024-09-29T16:30:00+00:00,543,Real Betis,Espanyol,True,1,0,W
+1208572,2024-10-06T16:30:00+00:00,543,Real Betis,Sevilla,False,0,1,L
+1208581,2024-10-19T14:15:00+00:00,543,Real Betis,Osasuna,False,2,1,W
+1208586,2024-10-27T16:30:00+00:00,543,Real Betis,Atletico Madrid,True,1,0,W
+1208593,2024-11-03T20:00:00+00:00,543,Real Betis,Athletic Club,False,1,1,D
+1208602,2024-11-10T13:00:00+00:00,543,Real Betis,Celta Vigo,True,2,2,D
+1208617,2024-11-23T13:00:00+00:00,543,Real Betis,Valencia,False,2,4,L
+1208625,2024-12-01T20:00:00+00:00,543,Real Betis,Real Sociedad,False,0,2,L
+1208635,2024-12-07T15:15:00+00:00,543,Real Betis,Barcelona,True,2,2,D
+1208642,2024-12-15T17:30:00+00:00,543,Real Betis,Villarreal,False,2,1,W
+1208647,2024-12-22T20:00:00+00:00,543,Real Betis,Rayo Vallecano,True,1,1,D
+1208662,2025-01-11T15:15:00+00:00,543,Real Betis,Valladolid,False,0,1,L
+1208673,2025-01-18T17:30:00+00:00,543,Real Betis,Alaves,True,1,3,L
+1208679,2025-01-25T13:00:00+00:00,543,Real Betis,Mallorca,False,1,0,W
+1208689,2025-02-02T20:00:00+00:00,543,Real Betis,Athletic Club,True,2,2,D
+1208699,2025-02-08T13:00:00+00:00,543,Real Betis,Celta Vigo,False,2,3,L
+1208703,2025-02-16T20:00:00+00:00,543,Real Betis,Real Sociedad,True,3,0,W
+1208715,2025-02-23T17:30:00+00:00,543,Real Betis,Getafe,False,2,1,W
+1208720,2025-03-01T17:30:00+00:00,543,Real Betis,Real Madrid,True,2,1,W
+1208730,2025-03-09T17:30:00+00:00,543,Real Betis,Las Palmas,True,1,0,W
+1208741,2025-03-16T13:00:00+00:00,543,Real Betis,Leganes,False,3,2,W
+1208748,2025-03-30T19:00:00+00:00,543,Real Betis,Sevilla,True,2,1,W
+1208755,2025-04-05T19:00:00+00:00,543,Real Betis,Barcelona,False,1,1,D
+1208766,2025-04-13T16:30:00+00:00,543,Real Betis,Villarreal,True,1,2,L
+1208777,2025-04-21T19:00:00+00:00,543,Real Betis,Girona,False,3,1,W
+1208785,2025-04-24T19:30:00+00:00,543,Real Betis,Valladolid,True,5,1,W
+1212943,2025-05-04T16:30:00+00:00,543,Real Betis,Espanyol,False,2,1,W
+1208802,2025-05-11T19:00:00+00:00,543,Real Betis,Osasuna,True,1,1,D
+1208812,2025-05-15T17:00:00+00:00,543,Real Betis,Rayo Vallecano,False,2,2,D
+1208818,2025-05-18T17:00:00+00:00,543,Real Betis,Atletico Madrid,False,1,4,L
+1208828,2025-05-23T19:00:00+00:00,543,Real Betis,Valencia,True,1,1,D

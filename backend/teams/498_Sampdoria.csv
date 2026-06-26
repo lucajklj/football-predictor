@@ -1,0 +1,39 @@
+fixture_id,date,team_id,team_name,opponent,is_home,goals_scored,goals_conceded,result
+881781,2022-08-13T16:30:00+00:00,498,Sampdoria,Atalanta,True,0,2,L
+881799,2022-08-22T18:45:00+00:00,498,Sampdoria,Juventus,True,0,0,D
+881807,2022-08-28T16:30:00+00:00,498,Sampdoria,Salernitana,False,0,4,L
+881814,2022-08-31T16:30:00+00:00,498,Sampdoria,Lazio,True,1,1,D
+881825,2022-09-04T16:00:00+00:00,498,Sampdoria,Hellas Verona,False,1,2,L
+881838,2022-09-10T18:45:00+00:00,498,Sampdoria,AC Milan,True,1,2,L
+881847,2022-09-17T16:00:00+00:00,498,Sampdoria,Spezia,False,1,2,L
+881858,2022-10-02T13:00:00+00:00,498,Sampdoria,Monza,True,0,3,L
+881860,2022-10-08T18:45:00+00:00,498,Sampdoria,Bologna,False,1,1,D
+881877,2022-10-17T16:30:00+00:00,498,Sampdoria,AS Roma,True,0,1,L
+881882,2022-10-24T16:30:00+00:00,498,Sampdoria,Cremonese,False,1,0,W
+881892,2022-10-29T18:45:00+00:00,498,Sampdoria,Inter,False,0,3,L
+881905,2022-11-06T14:00:00+00:00,498,Sampdoria,Fiorentina,True,0,2,L
+881919,2022-11-09T19:45:00+00:00,498,Sampdoria,Torino,False,0,2,L
+881929,2022-11-12T17:00:00+00:00,498,Sampdoria,Lecce,True,0,2,L
+881939,2023-01-04T11:30:00+00:00,498,Sampdoria,Sassuolo,False,2,1,W
+881948,2023-01-08T17:00:00+00:00,498,Sampdoria,Napoli,True,0,2,L
+881952,2023-01-16T19:45:00+00:00,498,Sampdoria,Empoli,False,0,1,L
+881968,2023-01-22T11:30:00+00:00,498,Sampdoria,Udinese,True,0,1,L
+881970,2023-01-28T19:45:00+00:00,498,Sampdoria,Atalanta,False,0,2,L
+881984,2023-02-06T19:45:00+00:00,498,Sampdoria,Monza,False,2,2,D
+881998,2023-02-13T19:45:00+00:00,498,Sampdoria,Inter,True,0,0,D
+882006,2023-02-18T14:00:00+00:00,498,Sampdoria,Bologna,True,1,2,L
+882014,2023-02-27T19:45:00+00:00,498,Sampdoria,Lazio,False,0,1,L
+882026,2023-03-05T14:00:00+00:00,498,Sampdoria,Salernitana,True,0,0,D
+882034,2023-03-12T19:45:00+00:00,498,Sampdoria,Juventus,False,2,4,L
+882047,2023-03-19T11:30:00+00:00,498,Sampdoria,Hellas Verona,True,3,1,W
+882052,2023-04-02T16:00:00+00:00,498,Sampdoria,AS Roma,False,0,3,L
+882064,2023-04-08T14:30:00+00:00,498,Sampdoria,Cremonese,True,2,3,L
+882073,2023-04-16T10:30:00+00:00,498,Sampdoria,Lecce,False,1,1,D
+882085,2023-04-22T18:45:00+00:00,498,Sampdoria,Spezia,True,1,1,D
+882092,2023-04-30T16:00:00+00:00,498,Sampdoria,Fiorentina,False,0,5,L
+882105,2023-05-03T16:00:00+00:00,498,Sampdoria,Torino,True,0,2,L
+882119,2023-05-08T16:30:00+00:00,498,Sampdoria,Udinese,False,0,2,L
+882128,2023-05-15T18:45:00+00:00,498,Sampdoria,Empoli,True,1,1,D
+882133,2023-05-20T18:45:00+00:00,498,Sampdoria,AC Milan,False,1,5,L
+882144,2023-05-26T18:45:00+00:00,498,Sampdoria,Sassuolo,True,2,2,D
+882153,2023-06-04T16:30:00+00:00,498,Sampdoria,Napoli,False,0,2,L

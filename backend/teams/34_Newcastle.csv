@@ -1,0 +1,115 @@
+fixture_id,date,team_id,team_name,opponent,is_home,goals_scored,goals_conceded,result
+867951,2022-08-06T14:00:00+00:00,34,Newcastle,Nottingham Forest,True,2,0,W
+867959,2022-08-13T14:00:00+00:00,34,Newcastle,Brighton,False,0,0,D
+867973,2022-08-21T15:30:00+00:00,34,Newcastle,Manchester City,True,3,3,D
+867985,2022-08-28T13:00:00+00:00,34,Newcastle,Wolves,False,1,1,D
+867994,2022-08-31T19:00:00+00:00,34,Newcastle,Liverpool,False,1,2,L
+868002,2022-09-03T14:00:00+00:00,34,Newcastle,Crystal Palace,True,0,0,D
+868022,2022-09-17T14:00:00+00:00,34,Newcastle,Bournemouth,True,1,1,D
+868029,2022-10-01T14:00:00+00:00,34,Newcastle,Fulham,False,4,1,W
+868043,2022-10-08T14:00:00+00:00,34,Newcastle,Brentford,True,5,1,W
+868052,2022-10-16T13:00:00+00:00,34,Newcastle,Manchester United,False,0,0,D
+868063,2022-10-19T18:30:00+00:00,34,Newcastle,Everton,True,1,0,W
+868073,2022-10-23T15:30:00+00:00,34,Newcastle,Tottenham,False,2,1,W
+868085,2022-10-29T14:00:00+00:00,34,Newcastle,Aston Villa,True,4,0,W
+868092,2022-11-06T14:00:00+00:00,34,Newcastle,Southampton,False,4,1,W
+868101,2022-11-12T17:30:00+00:00,34,Newcastle,Chelsea,True,1,0,W
+868113,2022-12-26T15:00:00+00:00,34,Newcastle,Leicester,False,3,0,W
+868121,2022-12-31T15:00:00+00:00,34,Newcastle,Leeds,True,0,0,D
+868126,2023-01-03T19:45:00+00:00,34,Newcastle,Arsenal,False,0,0,D
+868142,2023-01-15T14:00:00+00:00,34,Newcastle,Fulham,True,1,0,W
+868148,2023-01-21T17:30:00+00:00,34,Newcastle,Crystal Palace,False,0,0,D
+868162,2023-02-04T17:30:00+00:00,34,Newcastle,West Ham,True,1,1,D
+868166,2023-02-11T17:30:00+00:00,34,Newcastle,Bournemouth,False,1,1,D
+868182,2023-02-18T17:30:00+00:00,34,Newcastle,Liverpool,True,0,2,L
+868202,2023-03-04T12:30:00+00:00,34,Newcastle,Manchester City,False,0,2,L
+868213,2023-03-12T16:30:00+00:00,34,Newcastle,Wolves,True,2,1,W
+868223,2023-03-17T20:00:00+00:00,34,Newcastle,Nottingham Forest,False,2,1,W
+868233,2023-04-02T15:30:00+00:00,34,Newcastle,Manchester United,True,2,0,W
+868015,2023-04-05T19:00:00+00:00,34,Newcastle,West Ham,False,5,1,W
+868237,2023-04-08T14:00:00+00:00,34,Newcastle,Brentford,False,2,1,W
+868246,2023-04-15T11:30:00+00:00,34,Newcastle,Aston Villa,False,0,3,L
+868265,2023-04-23T13:00:00+00:00,34,Newcastle,Tottenham,True,6,1,W
+868266,2023-04-27T18:45:00+00:00,34,Newcastle,Everton,False,4,1,W
+868285,2023-04-30T13:00:00+00:00,34,Newcastle,Southampton,True,3,1,W
+868291,2023-05-07T15:30:00+00:00,34,Newcastle,Arsenal,True,0,2,L
+868302,2023-05-13T11:30:00+00:00,34,Newcastle,Leeds,False,2,2,D
+868193,2023-05-18T18:30:00+00:00,34,Newcastle,Brighton,True,4,1,W
+868311,2023-05-22T19:00:00+00:00,34,Newcastle,Leicester,True,0,0,D
+868319,2023-05-28T15:30:00+00:00,34,Newcastle,Chelsea,False,1,1,D
+1035043,2023-08-12T16:30:00+00:00,34,Newcastle,Aston Villa,True,5,1,W
+1035052,2023-08-19T19:00:00+00:00,34,Newcastle,Manchester City,False,0,1,L
+1035065,2023-08-27T15:30:00+00:00,34,Newcastle,Liverpool,True,1,2,L
+1035069,2023-09-02T16:30:00+00:00,34,Newcastle,Brighton,False,1,3,L
+1035082,2023-09-16T16:30:00+00:00,34,Newcastle,Brentford,True,1,0,W
+1035096,2023-09-24T15:30:00+00:00,34,Newcastle,Sheffield Utd,False,8,0,W
+1035102,2023-09-30T14:00:00+00:00,34,Newcastle,Burnley,True,2,0,W
+1035115,2023-10-08T13:00:00+00:00,34,Newcastle,West Ham,False,2,2,D
+1035123,2023-10-21T14:00:00+00:00,34,Newcastle,Crystal Palace,True,4,0,W
+1035136,2023-10-28T16:30:00+00:00,34,Newcastle,Wolves,False,2,2,D
+1035143,2023-11-04T17:30:00+00:00,34,Newcastle,Arsenal,True,1,0,W
+1035147,2023-11-11T17:30:00+00:00,34,Newcastle,Bournemouth,False,0,2,L
+1035300,2023-11-25T15:00:00+00:00,34,Newcastle,Chelsea,True,4,1,W
+1035311,2023-12-02T20:00:00+00:00,34,Newcastle,Manchester United,True,1,0,W
+1035316,2023-12-07T19:30:00+00:00,34,Newcastle,Everton,False,0,3,L
+1035332,2023-12-10T16:30:00+00:00,34,Newcastle,Tottenham,False,1,4,L
+1035341,2023-12-16T15:00:00+00:00,34,Newcastle,Fulham,True,3,0,W
+1035348,2023-12-23T15:00:00+00:00,34,Newcastle,Luton,False,0,1,L
+1035362,2023-12-26T12:30:00+00:00,34,Newcastle,Nottingham Forest,True,1,3,L
+1035367,2024-01-01T20:00:00+00:00,34,Newcastle,Liverpool,False,2,4,L
+1035382,2024-01-13T17:30:00+00:00,34,Newcastle,Manchester City,True,2,3,L
+1035384,2024-01-30T20:15:00+00:00,34,Newcastle,Aston Villa,False,3,1,W
+1035402,2024-02-03T15:00:00+00:00,34,Newcastle,Luton,True,4,4,D
+1035410,2024-02-10T17:30:00+00:00,34,Newcastle,Nottingham Forest,False,3,2,W
+1035420,2024-02-17T15:00:00+00:00,34,Newcastle,Bournemouth,True,2,2,D
+1035425,2024-02-24T20:00:00+00:00,34,Newcastle,Arsenal,False,1,4,L
+1035440,2024-03-02T15:00:00+00:00,34,Newcastle,Wolves,True,3,0,W
+1035448,2024-03-11T20:00:00+00:00,34,Newcastle,Chelsea,False,2,3,L
+1035470,2024-03-30T12:30:00+00:00,34,Newcastle,West Ham,True,4,3,W
+1035481,2024-04-02T18:30:00+00:00,34,Newcastle,Everton,True,1,1,D
+1035488,2024-04-06T14:00:00+00:00,34,Newcastle,Fulham,False,1,0,W
+1035501,2024-04-13T11:30:00+00:00,34,Newcastle,Tottenham,True,4,0,W
+1035457,2024-04-24T19:00:00+00:00,34,Newcastle,Crystal Palace,False,0,2,L
+1035519,2024-04-27T14:00:00+00:00,34,Newcastle,Sheffield Utd,True,5,1,W
+1035527,2024-05-04T14:00:00+00:00,34,Newcastle,Burnley,False,4,1,W
+1035539,2024-05-11T14:00:00+00:00,34,Newcastle,Brighton,True,1,1,D
+1035510,2024-05-15T19:00:00+00:00,34,Newcastle,Manchester United,False,2,3,L
+1035545,2024-05-19T15:00:00+00:00,34,Newcastle,Brentford,False,4,2,W
+1208025,2024-08-17T14:00:00+00:00,34,Newcastle,Southampton,True,1,0,W
+1208031,2024-08-25T13:00:00+00:00,34,Newcastle,Bournemouth,False,1,1,D
+1208048,2024-09-01T12:30:00+00:00,34,Newcastle,Tottenham,True,2,1,W
+1208060,2024-09-15T15:30:00+00:00,34,Newcastle,Wolves,False,2,1,W
+1208064,2024-09-21T14:00:00+00:00,34,Newcastle,Fulham,False,1,3,L
+1208078,2024-09-28T11:30:00+00:00,34,Newcastle,Manchester City,True,1,1,D
+1208087,2024-10-05T16:30:00+00:00,34,Newcastle,Everton,False,0,0,D
+1208096,2024-10-19T14:00:00+00:00,34,Newcastle,Brighton,True,0,1,L
+1208107,2024-10-27T13:00:00+00:00,34,Newcastle,Chelsea,False,1,2,L
+1208118,2024-11-02T12:30:00+00:00,34,Newcastle,Arsenal,True,1,0,W
+1208129,2024-11-10T14:00:00+00:00,34,Newcastle,Nottingham Forest,False,3,1,W
+1208141,2024-11-25T20:00:00+00:00,34,Newcastle,West Ham,True,0,2,L
+1208146,2024-11-30T15:00:00+00:00,34,Newcastle,Crystal Palace,False,1,1,D
+1208161,2024-12-04T19:30:00+00:00,34,Newcastle,Liverpool,True,3,3,D
+1208164,2024-12-07T15:00:00+00:00,34,Newcastle,Brentford,False,2,4,L
+1208179,2024-12-14T15:00:00+00:00,34,Newcastle,Leicester,True,4,0,W
+1208188,2024-12-21T15:00:00+00:00,34,Newcastle,Ipswich,False,4,0,W
+1208199,2024-12-26T15:00:00+00:00,34,Newcastle,Aston Villa,True,3,0,W
+1208210,2024-12-30T20:00:00+00:00,34,Newcastle,Manchester United,False,2,0,W
+1208221,2025-01-04T12:30:00+00:00,34,Newcastle,Tottenham,False,2,1,W
+1208231,2025-01-15T19:30:00+00:00,34,Newcastle,Wolves,True,3,0,W
+1208240,2025-01-18T12:30:00+00:00,34,Newcastle,Bournemouth,True,1,4,L
+1208250,2025-01-25T15:00:00+00:00,34,Newcastle,Southampton,False,3,1,W
+1208260,2025-02-01T15:00:00+00:00,34,Newcastle,Fulham,True,1,2,L
+1208269,2025-02-15T15:00:00+00:00,34,Newcastle,Manchester City,False,0,4,L
+1208281,2025-02-23T14:00:00+00:00,34,Newcastle,Nottingham Forest,True,4,3,W
+1208291,2025-02-26T20:15:00+00:00,34,Newcastle,Liverpool,False,0,2,L
+1208301,2025-03-10T20:00:00+00:00,34,Newcastle,West Ham,False,1,0,W
+1208320,2025-04-02T18:45:00+00:00,34,Newcastle,Brentford,True,2,1,W
+1208329,2025-04-07T19:00:00+00:00,34,Newcastle,Leicester,False,3,0,W
+1208339,2025-04-13T15:30:00+00:00,34,Newcastle,Manchester United,True,4,1,W
+1208311,2025-04-16T18:30:00+00:00,34,Newcastle,Crystal Palace,True,5,0,W
+1208343,2025-04-19T16:30:00+00:00,34,Newcastle,Aston Villa,False,1,4,L
+1208359,2025-04-26T14:00:00+00:00,34,Newcastle,Ipswich,True,3,0,W
+1208366,2025-05-04T13:00:00+00:00,34,Newcastle,Brighton,False,1,1,D
+1208378,2025-05-11T11:00:00+00:00,34,Newcastle,Chelsea,True,2,0,W
+1208383,2025-05-18T15:30:00+00:00,34,Newcastle,Arsenal,False,0,1,L
+1208398,2025-05-25T15:00:00+00:00,34,Newcastle,Everton,True,0,1,L

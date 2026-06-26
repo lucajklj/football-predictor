@@ -1,0 +1,115 @@
+fixture_id,date,team_id,team_name,opponent,is_home,goals_scored,goals_conceded,result
+881784,2022-08-14T16:30:00+00:00,502,Fiorentina,Cremonese,True,3,2,W
+881794,2022-08-21T16:30:00+00:00,502,Fiorentina,Empoli,False,0,0,D
+881808,2022-08-28T18:45:00+00:00,502,Fiorentina,Napoli,True,0,0,D
+881815,2022-08-31T16:30:00+00:00,502,Fiorentina,Udinese,False,0,1,L
+881820,2022-09-03T13:00:00+00:00,502,Fiorentina,Juventus,True,1,1,D
+881831,2022-09-11T13:00:00+00:00,502,Fiorentina,Bologna,False,1,2,L
+881842,2022-09-18T13:00:00+00:00,502,Fiorentina,Hellas Verona,True,2,0,W
+881850,2022-10-02T16:00:00+00:00,502,Fiorentina,Atalanta,False,0,1,L
+881862,2022-10-10T18:45:00+00:00,502,Fiorentina,Lazio,True,0,4,L
+881875,2022-10-17T18:45:00+00:00,502,Fiorentina,Lecce,False,1,1,D
+881883,2022-10-22T18:45:00+00:00,502,Fiorentina,Inter,True,3,4,L
+881897,2022-10-30T14:00:00+00:00,502,Fiorentina,Spezia,False,2,1,W
+881905,2022-11-06T14:00:00+00:00,502,Fiorentina,Sampdoria,False,2,0,W
+881911,2022-11-09T19:45:00+00:00,502,Fiorentina,Salernitana,True,2,1,W
+881925,2022-11-13T17:00:00+00:00,502,Fiorentina,AC Milan,False,1,2,L
+881931,2023-01-04T17:30:00+00:00,502,Fiorentina,Monza,True,1,1,D
+881941,2023-01-07T14:00:00+00:00,502,Fiorentina,Sassuolo,True,2,1,W
+881956,2023-01-15T19:45:00+00:00,502,Fiorentina,AS Roma,False,0,2,L
+881961,2023-01-21T19:45:00+00:00,502,Fiorentina,Torino,True,0,1,L
+881978,2023-01-29T17:00:00+00:00,502,Fiorentina,Lazio,False,1,1,D
+881981,2023-02-05T17:00:00+00:00,502,Fiorentina,Bologna,True,1,2,L
+881993,2023-02-12T17:00:00+00:00,502,Fiorentina,Juventus,False,0,1,L
+882001,2023-02-19T14:00:00+00:00,502,Fiorentina,Empoli,True,1,1,D
+882017,2023-02-27T17:30:00+00:00,502,Fiorentina,Hellas Verona,False,3,0,W
+882021,2023-03-04T19:45:00+00:00,502,Fiorentina,AC Milan,True,2,1,W
+882031,2023-03-12T14:00:00+00:00,502,Fiorentina,Cremonese,False,2,0,W
+882041,2023-03-19T14:00:00+00:00,502,Fiorentina,Lecce,True,1,0,W
+882055,2023-04-01T16:00:00+00:00,502,Fiorentina,Inter,False,1,0,W
+882061,2023-04-08T12:30:00+00:00,502,Fiorentina,Spezia,True,1,1,D
+882075,2023-04-17T18:45:00+00:00,502,Fiorentina,Atalanta,True,1,1,D
+882088,2023-04-23T13:00:00+00:00,502,Fiorentina,Monza,False,2,3,L
+882092,2023-04-30T16:00:00+00:00,502,Fiorentina,Sampdoria,True,5,0,W
+882108,2023-05-03T16:00:00+00:00,502,Fiorentina,Salernitana,False,3,3,D
+882114,2023-05-07T16:00:00+00:00,502,Fiorentina,Napoli,False,0,1,L
+882121,2023-05-14T13:00:00+00:00,502,Fiorentina,Udinese,True,2,0,W
+882136,2023-05-21T13:00:00+00:00,502,Fiorentina,Torino,False,1,1,D
+882141,2023-05-27T16:00:00+00:00,502,Fiorentina,AS Roma,True,2,1,W
+882156,2023-06-02T18:30:00+00:00,502,Fiorentina,Sassuolo,False,3,1,W
+1052256,2023-08-19T18:45:00+00:00,502,Fiorentina,Genoa,False,4,1,W
+1052264,2023-08-27T16:30:00+00:00,502,Fiorentina,Lecce,True,2,2,D
+1052276,2023-09-03T16:30:00+00:00,502,Fiorentina,Inter,False,0,4,L
+1052284,2023-09-17T16:00:00+00:00,502,Fiorentina,Atalanta,True,3,2,W
+1052302,2023-09-24T13:00:00+00:00,502,Fiorentina,Udinese,False,2,0,W
+1052305,2023-09-28T16:30:00+00:00,502,Fiorentina,Frosinone,False,1,1,D
+1052315,2023-10-02T18:45:00+00:00,502,Fiorentina,Cagliari,True,3,0,W
+1052332,2023-10-08T18:45:00+00:00,502,Fiorentina,Napoli,False,3,1,W
+1052335,2023-10-23T18:45:00+00:00,502,Fiorentina,Empoli,True,0,2,L
+1052348,2023-10-30T19:45:00+00:00,502,Fiorentina,Lazio,False,0,1,L
+1052356,2023-11-05T19:45:00+00:00,502,Fiorentina,Juventus,True,0,1,L
+1052363,2023-11-12T14:00:00+00:00,502,Fiorentina,Bologna,True,2,1,W
+1052380,2023-11-25T19:45:00+00:00,502,Fiorentina,AC Milan,False,0,1,L
+1052383,2023-12-03T14:00:00+00:00,502,Fiorentina,Salernitana,True,3,0,W
+1052401,2023-12-10T19:45:00+00:00,502,Fiorentina,AS Roma,False,1,1,D
+1052405,2023-12-17T14:00:00+00:00,502,Fiorentina,Hellas Verona,True,1,0,W
+1052418,2023-12-22T19:45:00+00:00,502,Fiorentina,Monza,False,1,0,W
+1052425,2023-12-29T17:30:00+00:00,502,Fiorentina,Torino,True,1,0,W
+1052440,2024-01-06T19:45:00+00:00,502,Fiorentina,Sassuolo,False,0,1,L
+1052445,2024-01-14T17:00:00+00:00,502,Fiorentina,Udinese,True,2,2,D
+1052465,2024-01-28T19:45:00+00:00,502,Fiorentina,Inter,True,0,1,L
+1052478,2024-02-02T19:45:00+00:00,502,Fiorentina,Lecce,False,2,3,L
+1052485,2024-02-11T11:30:00+00:00,502,Fiorentina,Frosinone,True,5,1,W
+1052453,2024-02-14T18:00:00+00:00,502,Fiorentina,Bologna,False,0,2,L
+1052494,2024-02-18T14:00:00+00:00,502,Fiorentina,Empoli,False,1,1,D
+1052505,2024-02-26T19:45:00+00:00,502,Fiorentina,Lazio,True,2,1,W
+1052521,2024-03-02T19:45:00+00:00,502,Fiorentina,Torino,False,0,0,D
+1052525,2024-03-10T19:45:00+00:00,502,Fiorentina,AS Roma,True,2,2,D
+1052545,2024-03-30T19:45:00+00:00,502,Fiorentina,AC Milan,True,1,2,L
+1052557,2024-04-07T18:45:00+00:00,502,Fiorentina,Juventus,False,0,1,L
+1052565,2024-04-15T16:30:00+00:00,502,Fiorentina,Genoa,True,1,1,D
+1052580,2024-04-21T16:00:00+00:00,502,Fiorentina,Salernitana,False,2,0,W
+1052585,2024-04-28T18:45:00+00:00,502,Fiorentina,Sassuolo,True,5,1,W
+1052595,2024-05-05T13:00:00+00:00,502,Fiorentina,Hellas Verona,False,1,2,L
+1052604,2024-05-13T18:45:00+00:00,502,Fiorentina,Monza,True,2,1,W
+1052614,2024-05-17T18:45:00+00:00,502,Fiorentina,Napoli,True,2,2,D
+1052624,2024-05-23T18:45:00+00:00,502,Fiorentina,Cagliari,False,3,2,W
+1052533,2024-06-02T16:00:00+00:00,502,Fiorentina,Atalanta,False,3,2,W
+1223604,2024-08-17T16:30:00+00:00,502,Fiorentina,Parma,False,1,1,D
+1223606,2024-08-25T16:30:00+00:00,502,Fiorentina,Venezia,True,0,0,D
+1223616,2024-09-01T16:30:00+00:00,502,Fiorentina,Monza,True,2,2,D
+1223625,2024-09-15T13:00:00+00:00,502,Fiorentina,Atalanta,False,2,3,L
+1223637,2024-09-22T10:30:00+00:00,502,Fiorentina,Lazio,True,2,1,W
+1223647,2024-09-29T16:00:00+00:00,502,Fiorentina,Empoli,False,0,0,D
+1223657,2024-10-06T18:45:00+00:00,502,Fiorentina,AC Milan,True,2,1,W
+1223671,2024-10-20T13:00:00+00:00,502,Fiorentina,Lecce,False,6,0,W
+1223677,2024-10-27T19:45:00+00:00,502,Fiorentina,AS Roma,True,5,1,W
+1223689,2024-10-31T17:30:00+00:00,502,Fiorentina,Genoa,False,1,0,W
+1223703,2024-11-03T14:00:00+00:00,502,Fiorentina,Torino,False,1,0,W
+1223707,2024-11-10T14:00:00+00:00,502,Fiorentina,Hellas Verona,True,3,1,W
+1223715,2024-11-24T14:00:00+00:00,502,Fiorentina,Como,False,2,0,W
+1223736,2024-12-08T11:30:00+00:00,502,Fiorentina,Cagliari,True,1,0,W
+1223745,2024-12-15T14:00:00+00:00,502,Fiorentina,Bologna,False,0,1,L
+1223756,2024-12-23T17:30:00+00:00,502,Fiorentina,Udinese,True,1,2,L
+1223769,2024-12-29T17:00:00+00:00,502,Fiorentina,Juventus,False,2,2,D
+1223777,2025-01-04T17:00:00+00:00,502,Fiorentina,Napoli,True,0,3,L
+1223790,2025-01-13T19:45:00+00:00,502,Fiorentina,Monza,False,1,2,L
+1223799,2025-01-19T11:30:00+00:00,502,Fiorentina,Torino,True,1,1,D
+1223808,2025-01-26T19:45:00+00:00,502,Fiorentina,Lazio,False,2,1,W
+1223818,2025-02-02T14:00:00+00:00,502,Fiorentina,Genoa,True,2,1,W
+1223728,2025-02-06T19:45:00+00:00,502,Fiorentina,Inter,True,3,0,W
+1223829,2025-02-10T19:45:00+00:00,502,Fiorentina,Inter,False,1,2,L
+1223837,2025-02-16T11:30:00+00:00,502,Fiorentina,Como,True,0,2,L
+1223848,2025-02-23T14:00:00+00:00,502,Fiorentina,Hellas Verona,False,0,1,L
+1223857,2025-02-28T19:45:00+00:00,502,Fiorentina,Lecce,True,1,0,W
+1223873,2025-03-09T14:00:00+00:00,502,Fiorentina,Napoli,False,1,2,L
+1223877,2025-03-16T17:00:00+00:00,502,Fiorentina,Juventus,True,3,0,W
+1223887,2025-03-30T13:00:00+00:00,502,Fiorentina,Atalanta,True,1,0,W
+1223900,2025-04-05T18:45:00+00:00,502,Fiorentina,AC Milan,False,2,2,D
+1223907,2025-04-13T13:00:00+00:00,502,Fiorentina,Parma,True,0,0,D
+1223916,2025-04-23T16:30:00+00:00,502,Fiorentina,Cagliari,False,2,1,W
+1223927,2025-04-27T13:00:00+00:00,502,Fiorentina,Empoli,True,2,1,W
+1223943,2025-05-04T16:00:00+00:00,502,Fiorentina,AS Roma,False,0,1,L
+1223954,2025-05-12T16:30:00+00:00,502,Fiorentina,Venezia,False,1,2,L
+1223956,2025-05-18T18:45:00+00:00,502,Fiorentina,Bologna,True,3,2,W
+1223973,2025-05-25T18:45:00+00:00,502,Fiorentina,Udinese,False,3,2,W

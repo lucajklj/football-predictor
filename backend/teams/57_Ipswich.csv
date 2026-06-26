@@ -1,0 +1,39 @@
+fixture_id,date,team_id,team_name,opponent,is_home,goals_scored,goals_conceded,result
+1208022,2024-08-17T11:30:00+00:00,57,Ipswich,Liverpool,True,0,2,L
+1208037,2024-08-24T14:00:00+00:00,57,Ipswich,Manchester City,False,1,4,L
+1208045,2024-08-31T14:00:00+00:00,57,Ipswich,Fulham,True,1,1,D
+1208053,2024-09-14T14:00:00+00:00,57,Ipswich,Brighton,False,0,0,D
+1208068,2024-09-21T14:00:00+00:00,57,Ipswich,Southampton,False,1,1,D
+1208076,2024-09-29T13:00:00+00:00,57,Ipswich,Aston Villa,True,2,2,D
+1208090,2024-10-05T14:00:00+00:00,57,Ipswich,West Ham,False,1,4,L
+1208093,2024-10-19T14:00:00+00:00,57,Ipswich,Everton,True,0,2,L
+1208105,2024-10-26T14:00:00+00:00,57,Ipswich,Brentford,False,3,4,L
+1208115,2024-11-02T15:00:00+00:00,57,Ipswich,Leicester,True,1,1,D
+1208130,2024-11-10T14:00:00+00:00,57,Ipswich,Tottenham,False,2,1,W
+1208138,2024-11-24T16:30:00+00:00,57,Ipswich,Manchester United,True,1,1,D
+1208149,2024-11-30T15:00:00+00:00,57,Ipswich,Nottingham Forest,False,0,1,L
+1208158,2024-12-03T19:30:00+00:00,57,Ipswich,Crystal Palace,True,0,1,L
+1208168,2024-12-08T14:00:00+00:00,57,Ipswich,Bournemouth,True,1,2,L
+1208182,2024-12-14T15:00:00+00:00,57,Ipswich,Wolves,False,2,1,W
+1208188,2024-12-21T15:00:00+00:00,57,Ipswich,Newcastle,True,0,4,L
+1208194,2024-12-27T20:15:00+00:00,57,Ipswich,Arsenal,False,0,1,L
+1208208,2024-12-30T19:45:00+00:00,57,Ipswich,Chelsea,True,2,0,W
+1208217,2025-01-05T14:00:00+00:00,57,Ipswich,Fulham,False,2,2,D
+1208226,2025-01-16T19:30:00+00:00,57,Ipswich,Brighton,True,0,2,L
+1208237,2025-01-19T16:30:00+00:00,57,Ipswich,Manchester City,True,0,6,L
+1208248,2025-01-25T15:00:00+00:00,57,Ipswich,Liverpool,False,1,4,L
+1208258,2025-02-01T15:00:00+00:00,57,Ipswich,Southampton,True,1,2,L
+1208263,2025-02-15T15:00:00+00:00,57,Ipswich,Aston Villa,False,1,1,D
+1208278,2025-02-22T15:00:00+00:00,57,Ipswich,Tottenham,True,1,4,L
+1208292,2025-02-26T19:30:00+00:00,57,Ipswich,Manchester United,False,2,3,L
+1208296,2025-03-08T15:00:00+00:00,57,Ipswich,Crystal Palace,False,0,1,L
+1208308,2025-03-15T15:00:00+00:00,57,Ipswich,Nottingham Forest,True,2,4,L
+1208313,2025-04-02T18:45:00+00:00,57,Ipswich,Bournemouth,False,2,1,W
+1208328,2025-04-05T14:00:00+00:00,57,Ipswich,Wolves,True,1,2,L
+1208336,2025-04-13T13:00:00+00:00,57,Ipswich,Chelsea,False,2,2,D
+1208348,2025-04-20T13:00:00+00:00,57,Ipswich,Arsenal,True,0,4,L
+1208359,2025-04-26T14:00:00+00:00,57,Ipswich,Newcastle,False,0,3,L
+1208369,2025-05-03T14:00:00+00:00,57,Ipswich,Everton,False,2,2,D
+1208375,2025-05-10T14:00:00+00:00,57,Ipswich,Brentford,True,0,1,L
+1208390,2025-05-18T14:00:00+00:00,57,Ipswich,Leicester,False,0,2,L
+1208395,2025-05-25T15:00:00+00:00,57,Ipswich,West Ham,True,1,3,L
